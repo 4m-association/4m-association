@@ -1,0 +1,131 @@
+/*
+relapse - a Pelican theme using Bootstrap 
+Copyright (c) 2012-2016 Warren Moore
+https://github.com/wamonite/relapse
+*/
+@media screen and (min-width: 767px)
+{
+  header
+  {
+    background-color: #016cdb;
+  }
+  header .container h1
+  {
+    font-family: 'Chelsea Market', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border-bottom: 0;
+    text-shadow: 2px 2px 5px #000000;
+  }
+  section#body
+  {
+    padding-top: 10px;
+  }
+  header .container h1 a
+  {
+    color: #fff;
+  }
+  header .container h1 a:hover
+  {
+    color: #ddd;
+  }
+}
+
+@media screen and (max-width: 767px)
+{
+  header .container h1
+  {
+    font-family: 'Chelsea Market', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border-bottom: 0;
+    text-shadow: 1px 1px 2px #000000;
+  }
+}
+
+body
+{
+  font-family: "PT Serif", Georgia, "Times New Roman", Times, serif;
+}
+header
+{
+  padding: 10px 0 10px;
+}
+header .container h1
+{
+  margin: 0 0 0;
+}
+header .container p
+{
+  margin: 5px 0 0;
+  border-bottom: 0;
+  color: #000;
+}
+a,a:hover,a:visited,a:active,a:link
+{
+  text-decoration: none;
+}
+h1,h2,h3,h4,h5,h6
+{
+  border-bottom: 1px solid #bbb;
+}
+section#body nav
+{
+  margin-bottom: 0;
+}
+article .info
+{
+  font-size: smaller;
+  margin-top: 2px;
+}
+section#content nav
+{
+  text-align: center;
+}
+section#side h1
+{
+  font-size: 18px;
+}
+section#side h1.bio
+{
+  border-bottom: none;
+}
+section#side p
+{
+  text-align: center;
+}
+footer
+{
+  margin-top: 20px;
+  text-align: center;
+  border-top: 1px solid #bbb;
+}
+:not(pre) > code
+{
+  color: #000;
+  background-color: #f5f2f0;
+  font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+}
+.page-header
+{
+  padding-bottom: 0;
+  margin: 0 0 0;
+}
+[data-lightbox] > img
+{
+  padding: 2px;
+  border-radius: 6px;
+  background-color: #fff;
+  transition: background-color 0.5s ease-out;
+}
+[data-lightbox] > img:hover
+{
+  background-color: #337ab7;
+  transition: none;
+}
+article table
+{
+  border: 0;
+  width: 100%;
+}
+article table th, article table td
+{
+  border: 0;
+  padding: 2px;
+}

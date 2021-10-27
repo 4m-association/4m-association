@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ SITENAME }} | {{ category|title }}{{ tag|title }}{% endblock %}
+{% block meta_description %}Blog posts related to {{ category }}{{ tag }}{% endblock %}
+{% block meta_keywords %}{{ category }}{{ tag }}{% endblock %}
+
+{% block section_title %}
+    {% if category %}
+        {{ category }}
+    {% elif tag %}
+        {{ tag }}
+    {% else %}
+        All Posts
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+<ol class="article-list">
+{% for article in articles_page.object_list %}
+    <li>
+        <article>
+            <header>
+                <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+            </header>
+            <footer>
+                {{ article.locale_date }} | <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread"</a>comments</a>
+            </footer>
+            <div class="content">{{ article.summary }}</div>
+        </article>
+    </li>
+{% endfor %}
+</ol>
+{% include 'pagination.html' %}
+{% endblock %}

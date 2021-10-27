@@ -1,0 +1,7 @@
+title: Forging
+date: 2009-11-17  
+tags: metals-processing
+
+Technology suitable for both serial and small quantity production
+
+As it is defined at conventional length scale, forging processes are usually applied at a specimen temperature of above the recrystallisation temperature. A reduction of the specimen size down to micro scale is always subjected to a significant change in the ratio between surface and volume yielding high oxidation and thus material loss and surface damage. To avoid the oxidation problem, a reduction of the forming temperature down to warm forging is necessary. Warm forging covers the temperature area above room temperature (cold forging) but below recrystallisation temperature (hot forging) and thereby combines the advantages of both forging processes. The benefits are in detail for cold forging an excellent surface quality, necessary for net shape manufacturing, and strain hardening for optimized mechanical properties of the specimen, while the benefits of hot forging are the reduction of the flow stress yielding lower process forces and an enlarged formability because of the thermally activated additional sliding systems. Also the elevated temperature improves the drawbacks of microforming, caused by so called size effects, by homogenizing the material behavior and reducing the occurring scatter of process characteristics. Summarizing the above mentioned advantages of warm forging the oxidation problem can be avoided and the forging limits especially of micro parts can be enlarged while hardening still takes place. 

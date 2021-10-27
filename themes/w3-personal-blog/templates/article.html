@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title|striptags }} | {{ SITENAME }}{% endblock %}
+{% block keywords %}article{% for tag in article.tags %}, {{ tag }}{% endfor %}{%endblock%}
+
+{% block ogtitle %}{{ article.title|striptags }}{% endblock %}
+{% block ogurl %}{{ SITEURL }}/{{ article.url }}{%endblock%}
+{% block ogtype %}article{%endblock%}
+{% block canonicalurl %}{{ SITEURL }}/{{ article.url }}{%endblock%}
+{% block ogimage %}{{ SITEURL }}{{ article.image|default('/theme/images/post.jpg') }}{% endblock %}
+{% block ogdescription %}{{ article.summary|striptags }}{% endblock %}
+
+
+{% block extra_head %}
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/tree.css" />
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/anchorific.css" />
+    <script type="text/javascript" src="{{ SITEURL }}/theme/js/anchorific.js"></script>
+{% endblock %}
+
+
+{% block content_container %}
+<div class="single-main">
+
+    <div class="col-md-9 single-grid">
+
+        <header>
+            {% include 'article_infos.html' %}
+            {% include 'share.html' %}
+        </header>
+
+        <article class="content">
+
+            {% if SHARETHIS_PUB_KEY %}
+            <div class="sharethis-top">
+                <span class='st_vkontakte_hcount' displayText='ВКонтакте'></span>
+                <span class='st_facebook_hcount' displayText='Facebook'></span>
+                <span class='st_twitter_hcount' displayText='Tweet'></span>
+            </div>
+            {% endif %}
+
+            {{ article.content }}
+
+        </article>
+
+        {% if DISQUS_SITENAME %}
+            <div class="comments">
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    var disqus_identifier = "{{ article.url }}";
+                    (function() {
+                    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                    dsq.src = '//{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                    })();
+                </script>
+            </div>
+        {% endif %}
+    </div>
+    <div class="col-md-3 content-right">
+        <div class='anchorific'></div>
+    </div>
+</div>
+{% endblock %}

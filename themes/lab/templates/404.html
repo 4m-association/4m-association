@@ -1,0 +1,49 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Page not found · {{ super() }}
+{% endblock title %}
+
+{% block head_description %}
+Page does not exist at {{ SITENAME|striptags|e }} blog.
+{% endblock head_description %}
+{% block content %}
+
+<section id="content">
+    <article>
+        <div class="row-fluid">
+            <header class="page-header span10 offset2">
+            <h1>{{ gettext("That page doesn't exist!") }}</h1>
+            </header>
+        </div>
+
+        <div class="row-fluid">
+            <div class="span8 offset2">
+                {{ gettext('
+                    <p>
+                        Sorry, but the page you are looking for cannot be found. It seems that the page you were trying to reach does\'nt exist, or may be it has just moved, or it no longer exists.
+                    </p>
+                    <p>
+                        The best thing to do is to use the search form or start again from the
+                            <a href="{{ SITEURL }}" >
+                            home page
+                        </a>.
+                    </p>
+                ') }}
+
+                {% if 'tipue_search' in PLUGINS %}
+                    <p>
+                        {{ gettext('You can also use the search engine :') }}
+                    </p>
+                    <div class='tipue-search'>
+                        <form class="navbar-search" action="{{ SEARCH_URL | default('/search.html') }}">
+                            <input type="text" class="search-query" placeholder="{{ gettext('Search') }}" name="q" id="tipue_search_input" required>
+                            <input type="submit" value="&#xe003;" />
+                        </form>
+                    </div>
+                {% endif %}
+             </div>
+        </div>
+    </article>
+</section>
+{% endblock content %}

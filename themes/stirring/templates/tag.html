@@ -1,0 +1,18 @@
+{% extends "index.html" %}
+
+{% block title %}{{ SITENAME }} - {{ tag }} | {{ SITENAME }}{% endblock %}
+{% block ogtitle %}{{ SITENAME }} - {{ tag }}{% endblock %}
+{% block ogurl %}{{ SITEURL }}/{{ tag.url }}{%endblock%}
+{% block canonicalurl %}{{ SITEURL }}/{{ tag.url }}{%endblock%}
+
+{% block content_title %}
+    <ol class="breadcrumb">
+        <li><a href="{{ SITEURL }}/" title="Home" rel="home">Home</a></li>
+    {% if TAGS_URL %}
+        <li><a href="{{ SITEURL }}/{{ TAGS_URL }}">Tags</a></li>
+    {% else %}
+        <li>Tags</li>
+    {% endif %}
+        <li class="active">{{ tag }}</li>
+    </ol>
+{% endblock %}

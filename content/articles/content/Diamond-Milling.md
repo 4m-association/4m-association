@@ -1,0 +1,5 @@
+title: Diamond Milling
+date: 2009-11-13  
+tags: metals-processing
+
+In diamond milling mainly two different types of processes for the generation of microstructures can be found, i.e. circumferential milling, so called fly-cutting, and ball-end milling. Before micro structuring, the relative position of workpiece and diamond tool have to be known inside the machine tool with respect to each other. Besides a geometrical error of the cutting edge and the tool included angle a profiled diamond tool exhibits three degrees of freedom inside the tool fixture: tilt error κ (kappa) in the Y-Z-plane of the tool, tilt errors ξ (ksi) in the X-Y-plane of the tool, and tilt error ψ (psi) in the X-Z-plane of the tool. These tilt errors lead to a misalignment of the tool which has to be avoided for the manufacturing of defined microstructures. Therefore scratch traces and reversal tests as well as the machining of witness samples were used for the alignment of the diamond tools.

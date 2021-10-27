@@ -1,0 +1,66 @@
+# German translations for PROJECT.
+# Copyright (C) 2014 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2016-02-24 22:57+0100\n"
+"PO-Revision-Date: 2014-07-13 12:26+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: de <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.1.1\n"
+
+#: templates/404.html:13
+msgid "That page doesn't exist!"
+msgstr "Tu t'es perdu mon ami ?"
+
+#: templates/404.html:22
+msgid ""
+"\n"
+"                    <p>\n"
+"                        Sorry, but the page you are looking for cannot be"
+" found. It seems that the page you were trying to reach does'nt exist, or"
+" may be it has just moved, or it no longer exists.\n"
+"                    </p>\n"
+"                    <p>\n"
+"                        The best thing to do is to use the search form or"
+" start again from the\n"
+"                            <a href=\"{{ SITEURL }}\" >\n"
+"                            home page\n"
+"                        </a>.\n"
+"                    </p>\n"
+"                "
+msgstr "<p>Sois rassurés: la sortie n'est pas loin : tu peux <a href=\"{{ SITEURL }}\">retourner à l'Accueil</a>.</p>"
+
+#: templates/404.html:35
+msgid "You can also use the search engine :"
+msgstr "Le moteur de recherche est également à ta disposition :"
+
+#: templates/404.html:24 templates/404.html:25 templates/base.html:143
+msgid "Search"
+msgstr "Rechercher"
+
+#: templates/archives.html:14
+msgid "Archives for"
+msgstr "Les archives de"
+
+#: templates/article_list.html:15
+msgid "more"
+msgstr "lire la suite"
+
+#: templates/includes/footer.html:11
+msgid "Powered by"
+msgstr "Réalisé à l'aide de "
+
+#: templates/includes/footer.html:22
+msgid "Back to top"
+msgstr "Remonter"
+

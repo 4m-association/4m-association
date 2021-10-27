@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}Archives{% endblock %}
+{% block description %}Archived articles{% endblock %}
+{% block robots %}noindex,follow{% endblock %}
+
+{% block content %}
+
+    <h1 class="page-title">Archives</h1>
+
+    <table class="archives">
+        <thead>
+            <tr>
+                <th>Data</th>
+                <th>Post</th>
+            </tr>
+        </thead>
+
+        <tbody>
+        {% for article in dates %}
+            <tr>
+                <td>{{ article.date.locale_date }}</td>
+                <td><a href="{{ article.url }}">{{ article.title }}</a></td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+{% endblock content %}

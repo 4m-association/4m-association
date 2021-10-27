@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title | striptags }} - {{ SITENAME }}{% endblock %}
+
+{% block style %}
+  {% if page.type == "post" %}
+    {% include "partials/head-style-post.html" %}
+  {% else %}
+    {% include "partials/head-style-wide.html" %}
+  {% endif %}
+{% endblock %}
+
+{% block main %}
+<article>
+  <ul class="bulletless">
+    <li>
+      {{ page.title }}
+      &mdash;
+      <a href="{{ SITEURL }}/{{ page.url }}" rel="bookmark"
+         title="Permalink to {{ page.title|striptags }}">Permalink</a>
+      <hr class="docutils">
+    </li>
+  </ul>
+  <section>
+    <div class="document">
+      <h1 class="title">{{ page.title }}</h1>
+      {{ page.content }}
+  </section>
+</article>
+{% endblock %}

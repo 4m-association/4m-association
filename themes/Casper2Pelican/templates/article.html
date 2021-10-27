@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+<main id="content" class="content" role="main">
+    <article class="post" itemscope="" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+        <header class="post-header">
+            <h1 class="post-title" itemprop="headline">{{ article.title|striptags }}</h1>
+            <section class="post-meta">
+                <span class="entry-author" itemscope="" itemtype="http://schema.org/Person" itemprop="author">
+                    <span itemprop="name">{{ article.author }}</span></span>
+                <time class="post-date" itemprop="datePublished" datetime="{{ article.date|strftime('%YYYY-%MM-%DD') }}">{{ article.date|strftime('%A, %B %d, %Y') }}</time>
+                {% include 'back.html' %}
+            </section>
+        </header>
+        <section class="post-content">
+            {{ article.content }}
+            <p>
+                <a href="http://mbsy.co/bHCMB" target="_blank" style="border:none;">
+                    <img src="https://ambassador-api.s3.amazonaws.com/uploads/marketing/970/2014_09_22_13_34_17.gif" alt="Code School" border="0" />
+                </a>
+            </p>
+            <br/>
+            {% include 'donate.html' %}
+            {% include 'ads.html' %}
+            <br/>
+            {% include 'neighbors.html' %}
+            <br/>
+        </section>
+        <footer class="post-footer">
+            {% include 'coments.html' %}
+        </footer>
+    </article>
+</main>
+{% endblock %}

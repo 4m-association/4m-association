@@ -1,0 +1,16 @@
+<div class="w3-row w3-light-grey w3-border-bottom">
+<aside id="introduction" class="w3-container w3-center w3-padding-48">
+    <div>
+      <span id="heyitsme">Hey. it's me</span>
+      <!-- <span id="">Eigentlich studiert er Maschinenbau, hat aber noch nie eine Maschine gebaut.</span> -->
+      <ul class="social" style="margin: 0; margin-top: -20px; padding: 0;">
+        {% for name, link in SOCIAL %}
+        <li><a class="sc-{{ name }}" href="{{ link }}" target="_blank"><i class="fa fa-{{ name }}"></i></a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div style="line-height: 180px;">
+      <a href="{{ SITEURL }}/authors.html"><img class="avatar" alt="Here should be a picture of me, trying to look nice and friendly" src="/authors/{% for author, articles in authors %}{% if author == AUTHOR %}{{ author.page_name[7:] }}{% endif %}{% endfor %}.png" onerror="this.src='/theme/images/avatar.png'"></a>
+    </div>
+</aside>
+</div>

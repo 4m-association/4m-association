@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block style %}
+  {% include "partials/head-style-wide.html" %}
+{% endblock %}
+
+{% block main %}
+  {% if SITEDESCRIPTION %}
+    <section>
+      {{ SITEDESCRIPTION }}
+	  </section>
+  {% endif %}
+
+  <section>
+  	<div>
+	  <h1>Recent posts</h1>  	  
+  	  {% for article in articles_page.object_list %}
+        {% include "summary.html" with context %}
+  	  {% endfor %}
+  	{% if articles_page.has_other_pages() %}
+  	  {% include "partials/pagination.html" %}
+    {% endif %}
+  	</div>
+  </section>
+
+{% endblock main %}

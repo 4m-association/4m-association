@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block meta %}
+    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="description" content="{{ SITEDESCRIPTION }}" />
+    {% include "include/og.html" %}
+{% endblock %}
+
+{% block header %}
+    <div class="container">
+        <h1 id="{{ SITENAME }}">{{ SITENAME }}</h1>
+        <p style="font-size: larger; color: orange;">{{ SITEDESCRIPTION }}</p>
+    </div>
+{% endblock header %}
+
+{% block content %}
+    <!-- List of article -->
+    {% for article in articles_page.object_list %}
+        <div class="card mb-2 shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title" style="margin-bottom: 0;">
+                    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                </h5>
+                <span class="small">by <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a>, post on <span class="text-success">{{ article.locale_date }}</span></span>
+                <p>{{ article.summary }}</p>
+                <div class="flex-row mx-auto mt-3 small">
+                    <div class="float-left">
+                        {% if article.stats %}
+                            <span class="card-link text-secondary" title="~{{ article.stats['wc'] }} words">Read in {{ article.stats['read_mins'] }} mins</span>
+                        {% elif article.readtime %}
+                            <span class="card-link text-secondary" title="Read time">Read in {{ article.readtime }}</span>
+                        {% endif %}
+                        {% if DISQUS_SITENAME %}
+                            <span class="card-link"><a href="{{ SITEURL }}/{{ article.url }}#disqus_thread"></a></span>
+                        {% endif %}
+                    </div>
+                    <div class=" float-right">
+                        <a class="badge badge-success" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category|lower }}</a>
+                        {% for tag in article.tags %}
+                            <a class="badge badge-info" href="{{ SITEURL }}/{{ tag.url }}">{{ tag|lower }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+
+    <!-- Pagination -->
+    {% if DEFAULT_PAGINATION %}
+        {% include "include/pagination.html" %}
+    {% endif %}
+
+    <!-- Google Adsense -->
+    {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.home %}
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- ad-home -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="{{ GOOGLE_ADSENSE.id }}"
+             data-ad-slot="{{ GOOGLE_ADSENSE.ads.home }}"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>
+             (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    {% endif %}
+{% endblock content %}
+
+{% block disqus_count %}
+    {% if DISQUS_SITENAME %}
+        {% include "include/disqus_count.html" %}
+    {% endif %}
+{% endblock disqus_count %}

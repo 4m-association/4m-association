@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+ {% block head %}
+ <meta charset="utf-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="description" content="">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+
+ <!-- Add to homescreen for Chrome on Android -->
+ <meta name="mobile-web-app-capable" content="yes">
+ <link rel="icon" sizes="192x192" href="images/touch/chrome-touch-icon-192x192.png">
+
+ <!-- Add to homescreen for Safari on iOS -->
+ <meta name="apple-mobile-web-app-capable" content="yes">
+ <meta name="apple-mobile-web-app-status-bar-style" content="black">
+ <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+ <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+ <!-- Tile icon for Win8 (144x144 + tile color) -->
+ <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+ <meta name="msapplication-TileColor" content="#3372DF">
+
+ <link href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+ {% if PRIMARY_COLOR is defined and ACCENT_COLOR is defined %}
+ {% set pc = PRIMARY_COLOR | lower | replace(' ','_') %}
+ {% set ac = ACCENT_COLOR | lower | replace(' ','_') %}
+ {% else %}
+ {% set pc = "indigo" | lower %}
+ {% set ac = "pink" | lower %}
+ {% endif %}
+ {% set matName = "material." + pc + "-" + ac + ".min.css" %}
+
+ {% if USE_CDN %}
+ <link rel="stylesheet" href= "https://storage.googleapis.com/code.getmdl.io/1.0.4/{{matName}}" >
+ {% else %}
+ <link rel="stylesheet" href= "{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/material.min.css" >
+ {% endif %}
+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+ <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/mstyles.css" />
+
+ {% if FEED_ALL_ATOM %}
+ <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+ {% endif %}
+ {% if FEED_ALL_RSS %}
+ <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+ {% endif %}
+ {% if FEED_ATOM %}
+ <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+ {% endif %}
+ {% if FEED_RSS %}
+ <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+ {% endif %}
+ {% if CATEGORY_FEED_ATOM and category %}
+ <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+ {% endif %}
+ {% if CATEGORY_FEED_RSS and category %}
+ <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+ {% endif %}
+ {% if TAG_FEED_ATOM and tag %}
+ <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+ {% endif %}
+ {% if TAG_FEED_RSS and tag %}
+ <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+ {% endif %}
+ {% endblock head %}
+</head>
+
+<body id="index" class="home">
+
+    <!--
+    {% if NAVBAR_COLOR is defined %}
+    <div class="nav-header mdl-card mdl-cell mdl-cell--12-col mdl-shadow--8dp" style="background-color : {{ NAVBAR_COLOR }};">
+    {% else %}
+    <div class="nav-header mdl-card mdl-cell mdl-cell--12-col mdl-shadow--8dp mdl-color--primary">
+    {% endif %}
+        <h1 class="mdl-color-text--grey-50"> Eswar's Log </h1>
+        <nav class="mdl-navigation">
+            <div class="mdl-layout-spacer"></div>
+            <span class="topLinks">
+                <a class="mdl-navigation__link" href="{{ SITEURL }}/index.html">Home</a>
+                <a class="mdl-navigation__link" href="{{ SITEURL }}/pages/projects.html">Projects</a>
+                <a class="mdl-navigation__link" href="{{ SITEURL }}/pages/about.html">About</a>
+            </span>
+        </nav>
+    </div>
+   -->
+
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
+      <header class="mdl-layout__header">
+        <div class="mdl-layout__header-row">
+          <span class="site-title "> <a class="topLinks mdl-navigation__link" href="{{ SITEURL }}/index.html"> {{ SITENAME }} </a> </span>
+          <div class="mdl-layout-spacer"></div>
+          <div class="mdl-textfield mdl-js-textfield mdl-textfield--expandable
+                      mdl-textfield--floating-label mdl-textfield--align-right">
+
+
+            <div class="mdl-layout-spacer"></div>
+            <nav class="mdl-navigation mdl-cell--hide-phone">
+             <a class="topLinks mdl-navigation__link" href="{{ SITEURL }}/index.html">Home</a>
+             <a class="topLinks mdl-navigation__link" href="{{ SITEURL }}/archives.html">Articles</a>
+             <a class="topLinks mdl-navigation__link" href="{{ SITEURL }}/pages/projects.html">Projects</a>
+             <a class="topLinks mdl-navigation__link" href="{{ SITEURL }}/pages/about.html">About</a>
+            </nav>
+
+            <!--
+            <label class="mdl-button mdl-js-button mdl-button--icon"
+                   for="fixed-header-drawer-exp">
+              <i class="material-icons">search</i>
+            </label>
+            <div class="mdl-textfield__expandable-holder">
+              <input class="mdl-textfield__input" type="text" name="sample"
+                     id="fixed-header-drawer-exp" />
+            </div>
+           -->
+          </div>
+        </div>
+
+        <div class="mdl-cell--hide-tablet mdl-cell--hide-desktop">
+          <div class="mobile-links">
+           <a class="mdl-navigation__link_mobile" href="{{ SITEURL }}/index.html">Home</a>
+           <a class="mdl-navigation__link_mobile" href="{{ SITEURL }}/pages/archives.html">Articles</a>
+           <a class="mdl-navigation__link_mobile" href="{{ SITEURL }}/pages/projects.html">Projects</a>
+           <a class="mdl-navigation__link_mobile" href="{{ SITEURL }}/pages/about.html">About</a>
+        </div>
+        </div>
+
+      </header>
+
+
+      <div class="mdl-layout__drawer">
+            <div class="contact-card-image mdl-card mdl-shadow--2dp" style="background-image: url({{USER_LOGO_URL}})">
+                <div class="mdl-card__title mdl-card--expand"></div>
+                <div class="mdl-card__actions">
+                    <span class="contact-card-name"> {{ AUTHOR }} </span>
+                </div>
+            </div>
+            <div class="contact-card mdl-card mdl-shadow--2dp">
+                <div class="mdl-card__actions mdl-card--border">
+                    <div class="social-buttons">
+                        {% for s in SOCIAL %}
+                       {% if s[2] %}
+                           {% set name_sanitized = s[2]|lower|replace('+','-plus')|replace(' ','-') %}
+                       {% else %}
+                           {% set name_sanitized = s[0]|lower|replace('+','-plus')|replace(' ','-') %}
+                       {% endif %}
+                       {% if name_sanitized in ['flickr', 'spotify', 'stack-overflow', 'weibo'] %}
+                           {% set iconattributes = '"fa fa-' ~ name_sanitized ~ ' fa-lg"' %}
+                       {% else %}
+                           {% set iconattributes = '"fa fa-' ~ name_sanitized ~ '-square fa-lg"' %}
+                       {% endif %}
+                       <a target="_blank" href="{{ s[1] }}" class="mdl-button mdl-js-button mdl-button--icon mdl-button--accent social-anchors"> <i class={{ iconattributes }}></i> </a>
+                       {% endfor %}
+                    </div>
+                </div>
+                <div class="mdl-card mdl-shadow--2dp">
+                        <div class="drawer_title mdl-color--primary mdl-color-text--white"> Categories </div>
+                        <div class="cat_links">
+                            {% for cat, null in categories %}
+                              <a class="mdl-color-text--accent mdl-button mdl-js-button" href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+                            {% endfor %}
+                        </div>
+                </div>
+                <div class="mdl-card mdl-shadow--2dp">
+                    <div class="drawer_title mdl-color--primary mdl-color-text--white"> Tags
+                    </div>
+                    <div class="nav_links">
+                        {% for tag, null in tags %}
+                           <a class="mdl-color-text--accent mdl-button mdl-js-button" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+                        {% endfor %}
+                    </div>
+                </div>
+              </div>
+      </div>
+      <main class="mblog mdl-layout__content">
+       {% block content %}
+       {% endblock %}
+
+       <footer class="mdl-mini-footer">
+         <div class="mdl-mini-footer__left-section">
+               <div id="about">
+                Built using <a href="https://github.com/eswarm/materialistic-pelican">Materialistic Pelican</a> by <a href="http://eswarm.in">Eswar Malla</a>,
+                Powered by <a href="http://getpelican.com">Pelican</a>.
+               </div>
+         </div>
+       </footer>
+
+      </main>
+
+    </div>
+
+    <!--
+    <div class="mblog mdl-layout mdl-js-layout">
+    <main class="mdl-layout__content">
+
+
+
+    </main>
+    <div class="mdl-layout__obfuscator"></div>
+    </div>
+   -->
+   {% if USE_CDN %}
+   <script src="https://storage.googleapis.com/code.getmdl.io/1.0.4/material.min.js"></script>
+   {% else %}
+   <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/material.min.js"></script>
+   {% endif %}
+
+</body>
+
+<script>
+    Array.prototype.forEach.call(document.querySelectorAll('.mdl-card__media'), function(el) {
+        var link = el.querySelector('a');
+        if (!link) {
+            return;
+        }
+        var target = link.getAttribute('href');
+        if (!target) {
+            return;
+        }
+        el.addEventListener('click', function() {
+            location.href = target;
+        });
+    });
+</script>
+
+</html>

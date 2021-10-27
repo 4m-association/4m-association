@@ -1,3 +1,0 @@
-## Structure
-
-The <a href="#">members</a> will direct the 4M Association through an Advisory Group. An Executive/Administrative function, based at C-Tech Innovation, Chester, UK, will act upon the advice of this Group. <a href="#">Graded membership</a> will be available to companies, individuals, and other entities. The Association services/ information will be part public and part member only. It is envisaged that there will initially be Interest Groups corresponding to the 4M Divisions, or combinations thereof.

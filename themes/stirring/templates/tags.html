@@ -1,0 +1,18 @@
+{% extends "index.html" %}
+
+{% block title %}Tags for {{ SITENAME }}{% endblock %}
+{% block ogtitle %}Tags for {{ SITENAME }}{% endblock %}
+{% block ogurl %}{{ SITEURL }}/tags.html{% endblock %}
+{% block canonicalurl %}{{ SITEURL }}/tags.html{% endblock %}
+
+{% block content %}
+<div>
+  <section>
+  <h1>{% block content_title %}Tags for {{ SITENAME }}{% endblock %}</h1>
+
+  {% for tag, articles in tags|sort %}
+    <a class="tag" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }} ({{ articles|count }})</a></dd>
+  {% endfor %}
+  </section>
+</div>
+{% endblock %}

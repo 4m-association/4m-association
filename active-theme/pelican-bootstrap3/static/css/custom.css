@@ -1,0 +1,113 @@
+.panel-body {
+    padding: 0 !important;
+}
+
+a:hover,
+a:focus {
+    color: #e94b0c;
+}
+
+h1 a,
+h1 a:hover {
+ color:white
+}
+
+#title {
+    display: none;
+    width:50%;
+    margin:0 auto;
+    text-align:center;
+    float:left;
+    position:relative;
+    top:0
+}
+
+#title h1 {
+    font-size:2.3em;
+    top:0;
+    position: relative;
+    display:none;
+}
+
+#title h1 a,
+#title h1 a:hover {
+    text-decoration:none;
+    display:none;
+}
+
+#4m-logo {
+    display:block;
+    width:25%;
+    float:left;
+    padding:1.5em 1em 1.5em 1em
+}
+
+#4m-logo img {
+    height:3.2em;
+    max-width:90%
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-brand:hover {
+    color: #e94b0c;
+}
+.navbar-default .navbar-nav > li:active > a {
+    background: #fff;
+}
+
+.navbar {
+    color:#fff;
+    background: #2c3e50 url("/4m-association/images/header_bgd.png") repeat-x 0 0;
+}
+
+#footer {
+    color:#fff;
+    background: #2c3e50;
+    position: relative;
+    top: 120px;
+}
+
+.container {
+    position: relative;
+    top: 100px;
+}
+
+#footer .container,
+.navbar .container {
+    top: 0;
+}
+
+#footer .container {
+    padding: 10px;
+}
+
+#footer.shortpage {
+    overflow: hidden;
+    bottom: 0;
+}
+
+.pager .disabled > a, .pager .disabled > a:hover, .pager .disabled > a:focus, .pager .disabled > span {
+	background-color: #e94b0c;
+}
+
+.pager li > a, .pager li > span {
+	background-color: #e94b0c;
+}
+
+.page-header {
+	padding-bottom: 9.5px;
+	margin: 0;
+	border: none;
+}
+.entry-content .panel {
+	margin-bottom: 21px;
+	background-color: #ffffff;
+	border: 0;
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.well-lg {
+	padding: 8px 24px 24px 24px;
+	border-radius: 8px;
+}

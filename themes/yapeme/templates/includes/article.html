@@ -1,0 +1,86 @@
+{% import 'macros/summary.html' as summ %}
+
+<article class="Article u-box" itemscope="" itemtype="http://schema.org/BlogPosting">
+    {% if article.meta %}
+        <div itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+            {% if article.meta.og_image %}
+              <meta itemprop="url" content="{{ article.meta.og_image }}">
+            {% elif article.ogtags %}
+              <meta itemprop="url" content="{{ article.og_image }}">
+            {% else %}
+              <meta itemprop="url" content="{{ FAVICON_URL }}">
+            {% endif %}
+        </div>
+    {% endif %}
+    <span itemprop="mainEntityOfPage">
+        <header>
+            <h1 class="Article-title" itemprop="headline name">
+                {% if is_summary %}
+                    <a
+                        class="Article-titleLink"
+                        href="{{ SITEURL }}/{{ article.url }}"
+                        title="{{ gettext('Read more') }}">
+                {% endif %}
+                {{ article.title }}
+                {% if is_summary %}
+                    </a>
+                {% endif %}
+            </h1>
+
+            {% if not is_summary %}
+                <p class="Article-meta">
+                    {{ gettext('By') }} <span class="Article-author" itemprop="author">{{ AUTHOR }}</span>.
+
+                    <span class="Article-pubDate">
+                        {{ gettext('Published on') }}
+                        <time datetime="{{ article.date.isoformat() }}" itemprop="datePublished">{{ article.locale_date }}</time>
+                    </span>
+                </p>
+            {% endif %}
+        </header>
+
+        <div class="Article-content" itemprop="articleBody">
+            {% if is_summary and article.has_summary %}
+                {{ summ.format(article) }}
+                <p class="Article-footer">
+                    {{ gettext('On') }} <time datetime="{{ article.date.isoformat() }}" itemprop="datePublished">{{ article.locale_date }}</time>
+                    /
+                    <a
+                        class="Article-readmore"
+                        href="{{ SITEURL }}/{{ article.url }}"
+                        title="{{ gettext('Read the full article') }}">{{ gettext('Read more &gt') }}</a>
+                </p>
+            {% else %}
+                {{ article.content }}
+            {% endif %}
+        </div>
+    </span>
+
+    {% if not is_summary %}
+
+        {% if article.tags %}
+            <div class="Article-tags">
+                <span class="Article-tagLabel">{{ gettext('Tags') }}:</span>
+                <span itemprop="keywords">
+                    {% for tag in article.tags %}
+                        <a
+                            href="{{ SITEURL }}/{{ tag.url }}"
+                            title="{{ gettext('Read more about') }}"
+                            class="Article-tagLink">{{ tag }}</a>
+                    {% endfor %}
+                </span>
+            </div>
+        {% endif %}
+
+        <div
+            class="Article-share share-bar"
+            data-title="{{ article.title }}"
+            data-url="{{ SITEURL }}/{{ article.url }}">
+            <!-- share-bar plugin -->
+        </div>
+
+        <div class="Article-comments">
+            {% include "includes/disqus.html" %}
+        </div>
+    {% endif %}
+</article>

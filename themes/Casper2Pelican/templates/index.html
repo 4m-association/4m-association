@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+<main id="content" class="content" role="main" itemprop="mainContentOfPage" itemscope="" itemtype="http://schema.org/Blog">
+    {% for article in articles_page.object_list %}
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+            <header class="post-header" itemprop="headline">
+                <h2 class="post-title">
+                    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark">
+                        {{ article.title|striptags }}
+                    </a>
+                </h2>
+            </header>
+            <section class="post-excerpt">
+                {{ article.summary }}
+                <p><a class="read-more" itemprop="url" href="{{ SITEURL }}/{{ article.url}}" title="Read this article" rel="bookmark">Leer m&aacute;s &raquo;</a></p>
+            </section>
+            <footer class="post-meta">
+                <span class="entry-author" itemscope="" itemtype="http://schema.org/Person" itemprop="author">
+                    <span itemprop="name">{{ article.author }}</span></span>
+                <time itemprop="datePublished" class="post-date" datetime="{{ article.date|strftime('%YYYY-%MM-%DD') }}">{{ article.date|strftime('%A, %B %d, %Y') }}</time>
+            </footer>        
+        </article>
+    {% endfor %}
+{% include 'pagination.html' %}
+</main>
+{% endblock content %}

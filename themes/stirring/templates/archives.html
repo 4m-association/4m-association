@@ -1,0 +1,43 @@
+{% extends "index.html" %}
+
+{% block title %}Archives for {{ SITENAME }}{% endblock %}
+{% block ogtitle %}Archives for {{ SITENAME }}{% endblock %}
+{% block ogurl %}{{ SITEURL }}/archives.html{% endblock %}
+{% block canonicalurl %}{{ SITEURL }}/archives.html{% endblock %}
+
+{% block content %}
+<section>
+	{% block content_title %}
+		<ol class="breadcrumb">
+				<li><a href="{{ SITEURL }}/" title="Home" rel="home">Home</a></li>
+				<li class="active">Archives</li>
+		</ol>
+	{% endblock %}
+
+	{% for article in dates %}
+		{% set this_year = article.date.strftime('%Y') %}
+		{% set this_month = article.date.strftime('%b') %}
+		{% set this_day = article.date.strftime('%d') %}
+		{% if articles|count == 1 or article.date.year != dates[loop.index0 - 1].date.year %}
+		<div class="archive_row">
+			<div class="archive_year">{{ this_year }}</div>
+		</div>
+		{% endif %}
+		{% if articles|count == 1 or article.date.year != dates[loop.index0 - 1].date.year or article.date.month != dates[loop.index0 - 1].date.month %}
+		<div class="archive_row">
+			<div class="archive_month">{{ this_month }}</div>
+		</div>
+		{% endif %}
+		<div class="archive_row">
+			<div class="archive_day">
+			{% if articles|count == 1 or article.date.month != dates[loop.index0 - 1].date.month or article.date.day != dates[loop.index0 - 1].date.day %}
+				{{ this_day }}
+			{% else %}
+				&nbsp;
+			{% endif %}
+			</div>
+			<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+		</div>
+	{% endfor %}
+</section>
+{% endblock %}

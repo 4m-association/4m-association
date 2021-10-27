@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{{ super() }} | {{ article.title|striptags }}{% endblock %}
+{% block content %}
+<section id="content">
+    <article>
+        <header>
+            <h1 class="entry-title">
+                <a href="" id="entry-title-link" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a>
+            </h1>
+        </header>
+
+        {% if article.header_img %}
+        <div class="entry-header-img">
+            <figure>
+                <a href="{{ article.header_img_link }}"><img src="{{ article.header_img }}" alt="{{ article.header_img_alt }}"></a>
+                <figcaption>{{ article.header_img_caption }}</figcaption>
+            </figure>
+        </div>
+        {% endif %}
+
+        <div class="entry-content">
+            {{ article.content }}
+            {% include 'article_infos.html' %}
+        </div><!-- /.entry-content -->
+        {% include 'gplus_comments.html' %}
+    </article>
+</section>
+{% endblock %}
+

@@ -1,0 +1,11 @@
+{% if AUTHOR %}
+<div class="author">
+  <a href="{{ AUTHOR_LINK }}">
+    <img src="{{ AUTHOR_IMG }}" alt="{{ AUTHOR }}" width="128" height="108"/>
+  </a>
+  <div class="infos">
+    <h3>A propos de <a href="{{ AUTHOR_LINK }}">{{ AUTHOR }}</a></h3>	
+    <p>{{ AUTHOR_SUMMARY }}</p>
+  </div>
+</div>
+{% endif %}

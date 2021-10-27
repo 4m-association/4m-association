@@ -1,0 +1,29 @@
+<nav class="lfloat">
+    <ul class="links">
+    {% for title, uri in MENUITEMS %}
+    <li>
+        <a class="stamp" href="{{ uri }}">{{ title }}</a>
+    </li>
+    {% endfor %}
+    {% for cat, _ in categories %}
+    <li{% if cat == category %} class="active"{% endif %}>
+        <a {% if not cat == category %}class="stamp"{% endif %} href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+    </li>
+    {% endfor %}
+    {% if DISPLAY_PAGES_ON_MENU %}
+        {% for p in pages|sort(attribute='source_path') %}
+            <li{% if page and p.title == page.title %} class="active"{% endif %}>
+                <a{% if not page or not p.title == page.title %} class="stamp"{% endif %} href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    <ul class="social rfloat">
+    {% for name, uri in SOCIAL %}
+        <li><a title="{{ name }}" href="{{ uri }}"></a></li>
+    {% endfor %}
+    {% if FEED_ATOM %}
+        <li><a href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" class="feed" type="atom+xml"></a></li>
+    {% endif %}
+    </ul>
+</nav>

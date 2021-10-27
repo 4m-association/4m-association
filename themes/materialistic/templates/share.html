@@ -1,0 +1,70 @@
+
+
+<ul class="shareList">
+
+<li>
+<!-- Google+ -->
+<a href="https://plus.google.com/share?url={{ '{' }} {{ article.url }} {{ '}' }}" onclick="javascript:window.open(this.href,
+  '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" alt="Google plus">
+<i class="fa fa-google-plus-square fa-3x"></i>
+</a>
+</li>
+
+<li>
+<!-- Facebook -->
+<a href="http://www.facebook.com/sharer.php?u={{ article.url }}" target="_blank" alt="facebook">
+<i class="fa fa-facebook-square fa-3x"></i>
+</a>
+</li>
+
+<li>
+<!-- LinkedIn -->
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ article.url }}" target="_blank" alt="LinkedIn">
+<i class="fa fa-linkedin-square fa-3x"></i>
+</a>
+</li>
+
+<li>
+<!-- Pinterest -->
+<a alt="Pinterest" href="javascript:void((function()%7Bvar%20e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)%7D)());">
+<i class="fa fa-pinterest-square fa-3x"> </i>
+</a>
+</li>
+
+<!-- Reddit -->
+<li>
+<a alt="Reddit" href="http://reddit.com/submit?url={{ article.url }}&amp;title={{ article.title }}" target="_blank">
+<i class="fa fa-reddit-square fa-3x"> </i>
+</a>
+</li>
+
+<!-- Tumblr-->
+<li>
+<a alt="Tumblr" href="http://www.tumblr.com/share/link?url={{ article.url }}&amp;title={{ title }}" target="_blank">
+<i class="fa fa-tumblr-square fa-3x"> </i>
+</a>
+</li>
+
+<!-- Twitter -->
+<li>
+<a alt="Twitter" href="https://twitter.com/share?url={{ article.url }}&amp;text={{ Title }};hashtags={{ Tags }}" target="_blank">
+<i class="fa fa-twitter-square fa-3x"> </i>
+</a>
+</li>
+
+<!-- Email -->
+<li>
+<a alt="Email" href="mailto:?Subject={{ article.url }}&amp;Body={{ article.title }} {{ article.url }}">
+<i class="fa fa-email-square fa-3x"> </i>
+</a>
+</li>
+
+<!-- Print
+<li>
+<a alt="Print" href="javascript:;" onclick="window.print()">
+<i  class="fa fa-print fa-3x"> </i>
+</a>
+</li>
+-->
+
+</ul>

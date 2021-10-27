@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block title %}
+All Categories · {{ super() }}
+{% endblock title %}
+
+{% block content_title_text %}
+All Categories
+{% endblock %}
+
+{% block head_description %}
+All categories of the {{ SITENAME|striptags }} blog. 
+{% endblock head_description %}
+
+{% block content %}
+
+{% for category, articles in categories %}
+<details class="list-of-categories">
+	<summary>
+		{% set num = articles|count %}
+		{{ category }}<span>{{ num }}</span>
+	</summary>
+	<div id="{{ category|replace(' ', '-')|e }}-ref">
+		<ul class="list-articles-category">
+		{% for article in articles %} 
+		<li>
+			<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} 
+				{% if article.subtitle %}
+				<br/><small class="subtitle"> {{ article.subtitle }} </small>
+				{% endif %}
+			</a>
+			<span>
+				<time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+			</span>
+		</li>
+		{% endfor %}
+		</ul>
+	</div>
+</details>
+{% endfor %}
+
+{% endblock %}

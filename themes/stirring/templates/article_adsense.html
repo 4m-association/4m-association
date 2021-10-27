@@ -1,0 +1,13 @@
+{% if GOOGLE_AD_CLIENT and GOOGLE_AD_SLOT %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 回應式廣告單元 -->
+<ins class="adsbygoogle"
+		style="display:block"
+		data-ad-client="{{ GOOGLE_AD_CLIENT }}"
+		data-ad-slot="{{ GOOGLE_AD_SLOT }}"
+		data-ad-format="auto"
+		data-full-width-responsive="true"></ins>
+<script>
+		(adsbygoogle = window.adsbygoogle || []).push({});
+</script><!-- /.Google Adsense -->
+{% endif %}

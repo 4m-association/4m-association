@@ -1,0 +1,15 @@
+title: Phil Coates
+date: 2010-02-09
+tags: conference, home
+
+
+Professor Phil Coates BSc ARCS MSc PhD FREng FIMechE FIMMM CEng
+
+![Phil Coates](/4m-association/images/135249_crop.jpg)Phil is a Physics graduate (Imperial College), London; his PhD research was on solid phase deformation processing of polymers (Leeds University).  
+Phil Coates is Pro Vice Chancellor for Research & Knowledge Transfer, and Professor of Polymer Engineering at the University of Bradford, UK.  He is Director of the internationally recognised Interdisciplinary Research Centre (IRC) in Polymer Science and Technology, with some 50 researchers at Bradford involved at the leading edge of in-process measurements for process monitoring, analysis and control, and computer modelling.  He is also Director of the Polymer Centre of Industrial Collaboration, and the International Centre for Micro & Nano Moulding.  The research targets high value polymer products for a range of sectors – optical, healthcare technology (e.g. bioresorbable polymers for orthopaedic applications) pharmaceuticals processing, automotive and advanced materials developments, including nanocomposites and reactive grafting.  His research has substantial support (over £24 million total grants and contracts) from UK Government sources and industry, with over 100 companies collaborating in the research programmes from the USA, Europe, the Middle East, Australia and Japan.  Similary, the research involves strong international cooperation in the UK, Europe, N America, Japan and China.  He leads the new Science Bridges China project – a government sponsored collaboration (currently around £3.4m total UK and China support) with 11 Chinese Universities focussed on innovation in healthcare technologies, based around an open innovation platform.  
+Prof Coates is a director of Medilink (Y&H) Ltd and until recently was a director of Cogent SSC Ltd.   He is a member of the Yorkshire Universities Executive Management Group, and chairs the Leeds City Region (LCR) Innovation Task Group, and is a member of the LCR Economic Drivers and Innovation Panel.  He was honoured by the award of the Institute of Materials (IOM3) Netlon Gold Medal for Innovation in Polymer Processing (2000), the Plastics Industry Award for personal contribution to the industry in 2006, and the IOM3 Swinburne Award (2008).   
+He has published extensively - some 280 papers, in scientific journals and has co-authored 4 books, and edited 10 books. He is Chief Editor of the IoM3 international journal, Plastics, Rubber and Composites: Macromolecular Engineering.   Prof Coates was elected a Fellow of the Royal Academy of Engineering in 1995.   He is married, with four children and two grandchildren; in addition to family, his chief interests are in music, and computers.
+
+Web sites:  [www.polyeng.com](http://www.polyeng.com) is the gateway web site to Prof Coates’ laboratories at Bradford;  
+  
+and [www.polymerirc.org](http://www.polymerirc.org) which is the central Polymer IRC website.

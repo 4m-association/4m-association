@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block title %}Archives - {{ SITENAME }}{% endblock %}
+
+{% block style %}
+  {% include "partials/head-style-wide.html" %}
+{% endblock %}
+
+{% block main %}
+<h1>{{ SITENAME }} - {{ period | reverse | join(' ') }} archives</h1>
+<dl>
+{% for article in dates %}
+    <dt>{{ article.locale_date }}</dt>
+    <dd><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></dd>
+{% endfor %}
+</dl>
+{% endblock main %}

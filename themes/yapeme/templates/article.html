@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }}{% endblock %}
+
+{% block canonical_url %}{% if article.meta %}{{ article.meta.canonical }}{% endif %}{% endblock %}
+{% block description %}{% if article.meta %}{{ article.meta.description }}{% endif %}{% endblock %}
+{% block robots %}{% if article.meta %}{{ article.meta.robots }}{% endif %}{% endblock %}
+
+{% block page_css %}is-fullEntry{% endblock %}
+
+{% block content %}
+
+    {% set is_summary = false %}
+    {% include "includes/article.html" %}
+
+{% endblock content %}
+
+{% block scripts %}
+  {{ super() }}
+
+  <link rel="stylesheet" href="{{ SITEURL }}/theme/vendor/@globocom/share-bar/dist/css/share.bar.min.css">
+  <script src="{{ SITEURL }}/theme/vendor/@globocom/share-bar/dist/js/share.bar.min.js"></script>
+  <script async>
+    new ShareBar();
+  </script>
+{% endblock %}

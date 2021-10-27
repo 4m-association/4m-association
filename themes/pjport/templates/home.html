@@ -1,0 +1,30 @@
+{% extends '_base.html' %}
+
+{% block stylesheets %}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ THEME_BASEURL }}/theme/css/homepage.css">
+{% endblock %}
+
+{% block subheader %}
+  <div class="noslide">
+    <h1>{{ _('home-subheader-title')|title }}</h1>
+    <h3>{{ _('home-subheader-body') }}</h3>
+    <div class="minipause"></div><br/>
+    <a href="{{ _('home-subheader-cta-href') }}" class="clear actbutton">
+      {{ _('home-subheader-cta-body')|upper }}
+    </a>
+  </div>
+{% endblock %}
+
+{% block page %}
+<div class="row">
+  <div class="twelve columns noleftmargin">
+    {{ page.content }}
+  </div>
+</div>
+{% endblock %}
+
+{% block javascripts %}
+  {{ super() }}
+  <script src="{{ THEME_BASEURL }}/theme/js/jquery.carouFredSel-6.0.5-packed.js"></script>
+{% endblock %}

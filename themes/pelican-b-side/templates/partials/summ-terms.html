@@ -1,0 +1,4 @@
+{% if article.category %}in <a href="{{ SITEURL }}/{{ CATEGORY_URL | replace('{slug}', '') | replace('.html', '') }}{{ article.category | lower | replace(' ' , '-', ) | replace('.', '') }}" rel="category tag">{{ article.category }}</a> {% endif %}
+{% if article.tags %}tagged with 
+{% for t in article.tags %}
+{% if not loop.first %}, {% endif %}<a href="{{ SITEURL }}/{{ TAG_URL | replace('{slug}', '') | replace('.html', '') }}{{ t | lower | replace(' ' , '-', ) | replace('.', '') }}" rel="tag">{{ t }}</a>{% endfor %}{% endif %}

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}Categories - {{ SITENAME }}{% endblock %}
+
+{% block style %}
+  {% include "partials/head-style-wide.html" %}
+{% endblock %}
+
+{% block main %}
+  <section>
+  	<div>
+	  <h1>Categories</h1>  	  
+  	  {% for category, articles in categories %}
+        <h2>Articles in {{ category }}:</h2>
+        {% for article in articles %}
+          {% include "summary.html" with context %}
+  	    {% endfor %}
+      {% endfor %}
+  	</div>
+  </section>
+
+{% endblock main %}

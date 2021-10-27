@@ -1,0 +1,40 @@
+{% import 'macros/pagination.html' as pagination %}
+
+{% if articles_page and articles_paginator.num_pages > 1 %}
+<ul class="Pagination u-box">
+    {% if articles_page.has_previous() %}
+        <li class="Pagination-item Pagination-item--arrow">
+            <a
+                class="Pagination-link"
+                href="{{ pagination.page_url(SITEURL, page_name) }}{% if articles_page.previous_page_number() > 1 %}{{ articles_page.previous_page_number() }}{% endif %}.html"
+                title="{{ gettext('Previous page') }}">
+
+                <span class="Pagination-icon">&#171;</span>
+                <span class="Pagination-text">{{ gettext('Previous page') }}</span>
+            </a>
+        </li>
+    {% endif %}
+
+    {% for page_number in range(1, articles_paginator.num_pages + 1) %}
+        <li class="Pagination-item{% if articles_page.number == page_number %} Pagination-item--active{% endif %}">
+            <a
+                class="Pagination-link{% if articles_page.number == page_number %} Pagination-link--active{% endif %}"
+                href="{{ pagination.page_url(SITEURL, page_name) }}{% if page_number > 1 %}{{ page_number }}{% endif %}.html"
+                title="{% trans %}Page {{ page_number }}{% endtrans %}">{{ page_number }}</a>
+        </li>
+    {% endfor %}
+
+    {% if articles_page.has_next() %}
+        <li class="Pagination-item Pagination-item--arrow">
+            <a
+                class="Pagination-link"
+                href="{{ pagination.page_url(SITEURL, page_name) }}{{ articles_page.next_page_number() }}.html"
+                title="{{ gettext('Next page') }}">
+
+                <span class="Pagination-text">{{ gettext('Next page') }}</span>
+                <span class="Pagination-icon">&#187;</span>
+            </a>
+        </li>
+    {% endif %}
+</ul>
+{% endif %}

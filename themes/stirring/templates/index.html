@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+
+{% block ogtitle %}{{ SITENAME }}{% endblock %}
+{% block ogurl %}{{ SITEURL }}{% endblock %}
+{% block canonicalurl %}{{ SITEURL }}{% endblock %}
+
+{% block content %}
+{% block content_title %}{% endblock %}
+<section>
+	<div class="content-wrap">
+		<div class="container-fluid">
+			{% for article in articles_page.object_list %}
+				{% if loop.first %}
+				<div class="row index-article">
+
+					{% if article.cover %}
+					<div class="col-12 col-md-8 index-article-cover-first">
+						<a href="{{ SITEURL }}/{{ article.url }}" class="index-article-cover" style="background-image:url('{{ article.cover }}')">{{ article.title }}</a>
+					</div>
+					{% endif %}
+
+					<div class="{% if article.cover %}col col-md-4{% else %}col-12{% endif %}">
+
+						<h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+
+						<div class="index-article-content">
+							{{ article.summary }}
+						</div>
+
+						{% include 'index_info.html' %}
+					</div>
+
+				</div>
+				{% elif loop.index0 < 3 %}
+
+					{% if loop.index0 == 1 %}
+					<div class="row">
+					{% endif %}
+
+					<div class="col-12 col-sm-6">
+						<div class="index-article">
+							{% if article.cover %}
+							<a href="{{ SITEURL }}/{{ article.url }}" class="index-article-cover" style="background-image:url('{{ article.cover }}')">{{ article.title }}</a>
+							{% endif %}
+
+							<h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+
+							<div class="index-article-content">
+								{{ article.summary }}
+							</div>
+
+							{% include 'index_info.html' %}
+						</div>
+					</div>
+
+					{% if loop.index0 == 2 %}
+					</div>
+					{% endif %}
+
+				{% else %}
+
+					{% if loop.index0 % 3 == 0 %}
+					<div class="row">
+					{% endif %}
+
+					<div class="col-12 col-lg-4">
+						<div class="index-article">
+							{% if article.cover %}
+							<a href="{{ SITEURL }}/{{ article.url }}" class="index-article-cover" style="background-image:url('{{ article.cover }}')">{{ article.title }}</a>
+							{% endif %}
+
+							<h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+
+							<div class="index-article-content">
+								{{ article.summary }}
+							</div>
+
+							{% include 'index_info.html' %}
+						</div>
+					</div>
+
+					{% if loop.index0 % 3 == 2 %}
+					</div>
+					{% endif %}
+
+				{% endif %}
+
+			{% endfor %}
+
+					{% if articles_page.object_list|length % 3 != 0 %}
+					</div>
+					{% endif %}
+		</div>
+
+		{% include 'pagination.html' %}
+	</div><!-- /.content-wrap -->
+</section>
+{% endblock content %}

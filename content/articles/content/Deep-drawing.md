@@ -1,0 +1,7 @@
+title: Deep drawing 
+date: 2009-11-17  
+tags: metals-processing
+
+Technology suitable for both serial and small quantity production
+
+Deep drawing is a process frequently used at conventional length scale. In order to produce e.g. cups with a diameter of a few millimeters or below, some specifics have to be regarded. As it has been shown, there is a relation between the deep drawing clearance and the punch force. If the ratio between clearance and sheet thickness is increased from 1.05 to 1.75, the increase of the force is about 10%. Furthermore, the shape building is also affected by the clearance, yielding a rough cup wall surface in case of a small clearance. Besides the influence of the geometrical design of the tools, the specimen size also affects the forming limits. When scaling down the cup diameter down to 1 mm, experimental investigations have shown that the maximum drawing ratio is reduced. As it is similar to the conventional scale, friction has an influence on the deep drawing process. To quantify the influence, experiments using solid lubricant, extrusion oil and without lubricant have been performed. As the solid lubricant has only minor influence on the deep drawing results, liquid lubricant is leading to lower deep drawing forces and an increase in the maximum drawing ratio.

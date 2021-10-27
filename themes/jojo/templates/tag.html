@@ -1,0 +1,7 @@
+{% extends "articles.html" %}
+
+{% block location %}
+    <li><a href="{{SITEURL}}/tags.html"> tag </a></li>
+    <li><a href="{{SITEURL}}/tag/{{tag}}"> {{tag}} </a></li>
+    <li class="uk-active"><span> index{{articles_page.number}} </span></li>
+{% endblock location %}

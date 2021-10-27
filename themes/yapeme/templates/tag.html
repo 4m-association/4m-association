@@ -1,0 +1,11 @@
+{% extends "base_article_list.html" %}
+
+{% block title %}{% trans %}Posts with {{ tag }}{% endtrans %}{% endblock %}
+{% block description %}{% trans %}Posts with {{ tag }}{% endtrans %}{% endblock %}
+{% block robots %}noindex,follow{% endblock %}
+
+{% block content %}
+<h1 class="Tag-title u-box">{% trans %}Posts with {{ tag }}{% endtrans %}</h1>
+
+    {{ super() }}
+{% endblock content %}

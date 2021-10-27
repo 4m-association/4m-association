@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block html_lang %}{{ article.lang }}{% endblock %}
+
+{% block title %}{{ article.title | striptags }} - {{ SITENAME }}{% endblock %}
+
+{% block style %}
+  {% if article.type == "wide" %}
+    {% include "partials/head-style-wide.html" %}
+  {% else %}
+    {% include "partials/head-style-post.html" %}
+  {% endif %}
+{% endblock %}
+
+{% block main %}
+<article>
+  <ul class="bulletless">
+    <li>
+      {{ article.title }}, 
+      {% if article.author %}{{ article.author }}, {% endif %} 
+      <time datetime="{{ article.date.isoformat() }}">
+      {{ article.locale_date }}</time>
+      {% if article.modified %}
+        - last modified
+        <time class="modified" datetime="{{ article.modified.isoformat() }}">{{ article.locale_modified }}</time>
+      {% endif %}
+      &mdash;
+      <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+         title="Permalink to {{ article.title }}">Permalink</a>
+      <hr class="docutils">
+    </li>
+  </ul>
+  <section>
+    <div class="document">
+      <h1 class="title">{{ article.title }}</h1>
+      {{ article.content }}
+    </div>
+  </section>
+</article>
+{% endblock %}

@@ -1,0 +1,57 @@
+{% extends "article_list.html" %}
+
+{% block canonical_rel %}<link rel="canonical" href="{{ SITEURL }}">{% endblock %}
+
+{% block banner %}
+{% include 'includes/banner.html' %}
+{% endblock %}
+
+{% block content %}
+    {% if articles %}
+        {% for article in articles if 'home' in article.tags | batch(10) | first %}
+            <article>
+                <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+                {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
+                <div class="well well-sm">
+                    <div class="right-area">
+                        <div id="block-block-26" class="block block-block">
+                            <h3>4th congress on Micro and Nano Manufacturing</h3>
+                            <div class="content">
+                                <p><a href="https://www.me.iitb.ac.in/~wcmnm/" title="WCMNM2020"><img width="100%" src="/4m-association/images/logo_wcmnm2020_2.jpg" title="Click for WCMNM2020 website"></a></p>
+                            </div>
+                        </div>
+                        <div id="block-ig_book-801" class="block block-ig_book">
+                            <h3><a href="/4m-association/conference/WCMNM2020/conference-WCMNM2020/conference-WCMNM2020.html" class="book-title">WCMNM2020</a></h3>
+                            <div class="content">
+                                <ul>
+                                    <li class="leaf first"><a href="/4m-association/content/Call-papers-2.html">Call for papers</a></li>
+                                    <li class="leaf last"><a href="/4m-association/content/Venue.html">Venue</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="block-block-15" class="block block-block">
+                            <h3>Micromachines - Supporting the 4M Association</h3>
+                            <div class="content">
+                                <p><a href="http://www.mdpi.com/journal/micromachines" title="Micromachines"><img width="100%" src="/4m-association/images/micromachines.jpg" title="Click for Micromachines website"></a></p>
+
+                            </div>
+                        </div>
+                        <div id="block-block-16" class="block block-block">
+                            <h3>MDPI - Supporting the 4M Association</h3>
+                            <div class="content">
+                                <p><a href="http://www.mdpi.com/" title="MDPI"><img width="100%" src="/4m-association/images/mdpi.jpg" title="Click for MDPI website"></a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                <div class="summary">{{ article.summary }}
+                    {% include 'includes/comment_count.html' %}
+                    <a class="btn btn-default btn-xs" href="{{ SITEURL }}/{{ article.url }}">{{ _('more') }} ...</a>
+                </div>
+            </article>
+            <hr/>
+        {% endfor %}
+    {% endif %}
+    {% include 'includes/pagination.html' %}
+{% endblock %}

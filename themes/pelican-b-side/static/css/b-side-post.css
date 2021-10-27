@@ -1,0 +1,258 @@
+/* B-side scheme
+ * - For documents written with inline asides (sidenotes and footnotes)
+ * -- expects markup based on Docutils (reStructuredText, not Markdown)
+ *
+ * Mobile: shrink asides, and flush them to the right
+ * Desktop: display asides in a separate column (in the right-hand margin)
+ *
+ * Adds some 'classes' to reStructuredText directives
+ * 'sidenote' -- tables, topics are fit into right-side margin
+ * 'titleless' -- sidenotes are displayed without titles
+ * 'fullwidth' -- tables, topics go across full width of page
+ * 'rising' -- sidenotes positioned upwards of insertion point
+ */
+
+/* ToDo:
+ * -- Ugly: footnotes inside a list (desktop: note is trapped inside <ul>)
+ */
+
+
+
+/****************************************************************************/
+/* Asides */
+
+table.footnote {
+	float: right;
+	clear: both;
+	width: 50%;
+	text-align: right;
+
+	border-right: solid 1px #808080;
+	border-left: none;
+	border-top: none;
+	border-bottom: none;
+}
+div.sidebar {
+	float: right;
+	clear: both;
+	width: 40%;
+	position: relative;
+	text-align: right;
+
+	background: #fffff6;
+	border-right: solid 1px #808080;
+	border-left: none;
+	border-top: none;
+	border-bottom: none;
+}
+
+
+
+/****************************************************************************/
+/*
+ * Be responsive...
+ * -- these settings override 'mobile' values with a 'desktop' alternative
+ */
+/****************************************************************************/
+
+
+/* For images not otherwise overridden, constrain image to 100% width */
+img {
+	max-width: 100%;
+}
+
+
+/*
+ * if width wide enough, then put asides in wide right-hand margin
+ */
+@media (min-width: 900px) {
+	/* fabricate a multi-column appearance
+	 * | left | main..main | sep | side |
+	 * left margin: 10%
+	 * main column: 55%
+	 * seperation gutter : 5%
+	 * sidebar column: 30%
+	 * right margin: 0%
+	 */
+
+	section {
+		padding-left: 10%
+	}
+
+
+	/*
+	 * most basic elements goes into left-most 2/3rds of display
+	 * -- note: pre is left unconstrained
+	 */
+	div > p,
+	div > dl,
+	div > ol,
+	div > ul,
+	div > table,
+	div > blockquote {
+		/* Constrain width for direct descendants of a div */
+		width: 55%;
+	}
+
+
+	/*
+	 * Figures
+	 */
+	div.section > div.figure,
+	div.document > div.figure {
+		/* note: same width as the main column */
+		max-width: 55%;
+	}
+	div.figure > * {
+		width: auto;
+	}
+
+
+
+	/*
+	 * Topics: by default act like 'fullwidth', can take 'sidebar' opt
+	 */
+	div.section > div.topic,
+	div.document > div.topic {
+		width: 90%;
+	}
+	div.topic > * {
+		/* ensure that elements in a topic uses topics full width */
+		width: auto;
+	}
+
+
+	/*
+	 * Admonitions: push to sidebar space
+	 */
+	div.section > div.admonition,
+	div.document > div.admonition {
+		position: relative;
+		float: right;
+		clear: right;
+		width: 30%;
+	}
+	div.admonition > * {
+		width: auto;
+		font-size: 0.75rem;
+		text-align: left;
+		line-height: 1.25;
+	}
+
+
+	/*
+	 * Sidebars and footnotes: move over to right edge
+	 */
+	div.section > div.sidebar,
+	div.document > div.sidebar,
+	blockquote.sidebar,
+	table.footnote {
+		/* push the footnote and asides to the right */
+		position: relative;
+		float: right;
+		clear: right;
+		width: 30%;
+
+		/* and override 'base' styling for sidenotes */
+		line-height: 1.25;
+		text-align: left;
+		border: none;
+
+		/* drop any left/right margins */
+		margin-left: 0;
+		margin-right: 0;
+	}
+	div.sidebar > * {
+		/* once inside a sidebar, use the whole width */
+		width: auto;
+	}
+
+
+	/*
+	 * Support a 'fullwidth' class option
+	 */
+	p.fullwidth,
+	div.fullwidth,
+	table.fullwidth {
+		width: 90%;
+	}
+        blockquote.fullwidth {
+		/* blockquotes have a left indent, so a bit more narrow */
+		width: 80%;
+	}
+	div.section > div.figure > img.fullwidth,
+	div.document > div.figure > img.fullwidth {
+		/* using 'vw', need to remember "padding-left: 10%" */
+		max-width: 87vw;
+	}
+
+
+	/* Added 'rising' class to sidebar directive: upwards from mark */
+	div.rising.sidebar {
+		transform: translateY(-100%);
+	}
+}
+
+
+
+/*
+ * if too narrow, then transform some types into alternative displays
+ */
+@media (max-width: 899px) {
+
+	/* transform wide lists into skinnier layouts */
+	ul.responsive,
+	ul.responsive ul {
+		list-style-type: none;
+		padding-left: 1em;
+	}
+
+	/* sidebar flushes right, lists indentation would be wasted... */
+	div.sidebar ul {
+		padding-left: 0;
+	}
+
+	/* transform fullwidth (wider) tables into long columns */
+	table.responsive thead,
+	table.fullwidth thead,
+	table.responsive tbody,
+	table.fullwidth tbody,
+	table.responsive th,
+	table.fullwidth th,
+	table.responsive td,
+	table.fullwidth td,
+	table.responsive tr,
+	table.fullwidth tr {
+		display: block;
+	}
+	table.responsive tr,
+	table.fullwidth tr {
+		border-bottom: 1px solid #cccccc;
+		/* markup includes colgroup widths...
+		 * we are forced to override preset widths */
+		width: 300px;
+		width: 90vw;
+	}
+	table.responsive th,
+	table.fullwidth th {
+		text-align: left;
+		border-bottom: 1px solid #eeeeee;
+	}
+	table.responsive td,
+	table.fullwidth td {
+		text-align: right;
+		border-bottom: 1px solid #eeeeee;
+		padding-left: 50%;
+	}
+	table.responsive,
+	table.fullwidth {
+		border-bottom: none;
+	}
+
+	div.sidebar table.docutils {
+		/* in sidebars, push tables over to the right */
+		width: auto;
+		margin-right: 0px;
+		margin-left: auto;
+	}
+}

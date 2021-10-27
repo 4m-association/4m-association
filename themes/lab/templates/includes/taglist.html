@@ -1,0 +1,21 @@
+{% if article.tags %}
+<span class="label label-default">Tags</span>
+
+{% if DISPLAY_TAGS_INLINE %}
+    {% set tags = tag_cloud | sort(attribute='0') %}
+{% else %}
+    {% set tags = tag_cloud | sort(attribute='1') %}
+{% endif %}
+
+{% for tag in article.tags %}
+	<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}
+        {% for t in tags %}
+            {% if t.0.url == tag.url %}
+                <span class="badge">{{ t.2 }}</span></a>
+            {% endif %}
+        {% endfor %}
+    {% if not loop.last %}
+        /
+    {% endif %}
+{% endfor %}
+{% endif %}

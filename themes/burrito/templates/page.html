@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock %}
+
+{% block extra_css %}
+    {% if page %}
+        {% if page.styles %}
+            {% for style in page.styles %}
+                {{ style }}
+            {% endfor %}
+        {% endif %}
+    {% endif %}
+{% endblock %}
+
+{% block extra_js %}
+    {% if page %}
+        {% if page.scripts %}
+            {% for script in page.scripts %}
+                {{ script }}
+            {% endfor %}
+        {% endif %}
+    {% endif %}
+    <script type="text/javascript">
+        function updateFeed(username) {
+            GitHubActivity.feed({ username: username, selector: '#feed' });
+        }
+
+        $(document).ready(function() {
+            updateFeed('fly');
+
+            $('#update').click(function() { updateFeed($("#username").val()); });
+            $("#username").keypress(function(e) {
+                if (e.which === 13) {
+                    updateFeed($("#username").val());
+                }
+            });
+        });
+    </script>
+{% endblock %}
+
+{% block content %}
+    <section id="content" class="body">
+    <h1 class="entry-title">{{ page.title }}</h1>
+    {{ page.content }}
+</section>
+{% endblock %}

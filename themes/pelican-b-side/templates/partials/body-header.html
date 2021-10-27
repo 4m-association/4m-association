@@ -1,0 +1,24 @@
+<header class="top-menu">
+  <nav class="top-menu">
+    <ul>
+      {% if BADGE_IMAGE %}
+        <li><a href="{{ SITEURL }}"><img class="badge" src="{{ SITEURL }}/{{ BADGE_IMAGE }}" alt="{{ SITENAME }}"></a></li>
+      {% endif%} 
+      <li><a href="{{ SITEURL }}"{% if output_file == 'index.html' %} class="active"{% endif %}>{{ SITENAME }}</a></li>
+        {% for title, link in MENUITEMS %}
+            <li><a href="{{ link }}">{{ title }}</a></li>
+        {% endfor %}
+        {% if DISPLAY_PAGES_ON_MENU %}
+          {% for p in pages %}
+            <li><a {% if p == page %} class="active"{% endif %} href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+          {% endfor %}
+        {% endif %}
+        {% if DISPLAY_CATEGORIES_ON_MENU %}
+          {% for cat, null in categories %}
+            <li><a {% if cat == category %} class="active"{% endif %} href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+          {% endfor %}
+        {% endif %}
+    </ul>
+  </nav>
+</header>
+

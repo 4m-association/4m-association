@@ -1,0 +1,15 @@
+{% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
+<section>
+<div class="accordion" id="accordion2">
+	<div class="accordion-group">
+		<div id="disqus_thread" class="accordion-body collapse">
+			<div class="accordion-inner">
+				<div class="comments">
+					{% include 'disqus_script_comment.html' %}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</section>
+{% endif %}

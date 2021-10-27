@@ -1,0 +1,48 @@
+<div class="container-fluid post-footer">
+	<div class="row">
+		{% if article.author %}
+		<div class="col-12 col-md-6">
+			<div class="row post-author-info">
+				<div class="col-4">
+					<img class="post-author-image" src="{{ SITEAUTHORS.get(article.author|string).image }}" alt="Author's image"></img>
+				</div>
+				<div class="col-8">
+					<h3 class="post-author-name">{{ article.author }}</h3>
+					{% if SOCIAL %}
+						{% for name, link in SOCIAL %}
+							<a href="{{ link }}" target="_blank"></a>
+						{% endfor %}
+          {% endif %}<!-- /.Social -->
+					{% if THEME_SOCIAL %}
+						{% for name, link, icon in THEME_SOCIAL %}
+							{% if icon %}
+								<a href="{{ link }}" target="_blank"><i class="{{ icon }}"></i></a>
+							{% else %}
+								<a href="{{ link }}" target="_blank"></a>
+							{% endif %}
+						{% endfor %}
+          {% endif %}
+					<p class="post-author-description">
+						{{ SITEAUTHORS.get(article.author|string).description }}
+					</p>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+
+		{% if article.category %}
+		<div class="col-12 col-md-6">
+			<div class="row post-category-info">
+				<div class="col-4">
+					<a href="{{ SITEURL }}/{{ article.category.url }}">
+						<img class="post-category-image" src="{{ SITEURL }}/{{ SITECATEGORIES.get(article.category|string).image }}" alt="Category's image"></img>
+					</a>
+				</div>
+				<div class="col-8">
+					<h1 class="post-category-title"><a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a></h1>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	</div>
+</div>

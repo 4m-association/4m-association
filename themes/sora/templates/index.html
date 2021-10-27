@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block content_title %}
+<h1 class="content-subhead">
+	Recent Posts 
+	<a class="allposts pretty-link" href="{{ SITEURL }}/archives.html">all posts</a>
+	<div class="clearfix"></div>
+</h1>
+{% endblock %}
+
+
+{% block content %}
+
+{% if articles %}
+{% for article in articles %}
+	{% if not RECENT_ARTICLES_COUNT %}
+		{% set RECENT_ARTICLES_COUNT = 10 %}
+	{% endif %}
+	{% if loop.index0 < RECENT_ARTICLES_COUNT %}
+	<ul class="list-all-articles">
+		<li>
+			<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }} 
+				{% if article.subtitle %}
+					<br/><small class="subtitle"> {{ article.subtitle }} </small>
+				{% endif %}
+			</a> 
+			<time pubdate="pubdate" datetime="{{ article.date.isoformat() }}">
+				{{ article.locale_date }}
+		 	</time>
+		 	<div class="clearfix"></div>
+		</li>
+	</ul>
+	{% endif %}
+{% endfor %}
+{% endif %}
+
+{% endblock content %}

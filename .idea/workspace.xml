@@ -1,0 +1,1121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bb42aa1-4044-42ef-b6dc-f20717e0ddb6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/active-theme/bootstrap-next/templates/includes/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/active-theme/bootstrap-next/templates/includes/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/translations.html" beforeDir="false" afterPath="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/translations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/about/faq.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/about/faq.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/about/structure.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/about/structure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/13th-International-Conference-Metrology-and-Properties-Engineering-Surfaces.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/13th-International-Conference-Metrology-and-Properties-Engineering-Surfaces.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/2nd-Aachen-Precision-Days.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/2nd-Aachen-Precision-Days.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/2nd-Micro-Nano-Moulding-Workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/2nd-Micro-Nano-Moulding-Workshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/2nd-NRW-Nano-Conference.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/2nd-NRW-Nano-Conference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/3M-NANO.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/3M-NANO.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/3M-Nano-0.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/3M-Nano-0.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/3M-Nano-Conference.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/3M-Nano-Conference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/3rd-MicroNano-Moulding-ATV-SEMAPP-Seminar.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/3rd-MicroNano-Moulding-ATV-SEMAPP-Seminar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4M-Governing-Council.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4M-Governing-Council.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4M-MicroFluidics-Division.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4M-MicroFluidics-Division.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4M-Summer-School.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4M-Summer-School.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4M-Workshop-Devices-harsh-environments.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4M-Workshop-Devices-harsh-environments.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4M2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4M2010.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4M2011.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4M2011.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4M2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4M2012.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4M2013.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4M2013.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4M2020-Through-young-eyes-Workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4M2020-Through-young-eyes-Workshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/4MICOMM-2015.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/4MICOMM-2015.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/7th-International-Workshop-Microfactories.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/7th-International-Workshop-Microfactories.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/9th-International-MID-Congress.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/9th-International-MID-Congress.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/9th-International-euspen-Conference.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/9th-International-euspen-Conference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Advanced-micro-manufacturing-lasers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Advanced-micro-manufacturing-lasers.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Applications-Micro-and-Nano-Technology-Biosensing-Diagnostics.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Applications-Micro-and-Nano-Technology-Biosensing-Diagnostics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/CFP-Symposium-Micro-and-Nano-manufacturing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/CFP-Symposium-Micro-and-Nano-manufacturing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/CICMT-Conference.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/CICMT-Conference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/COMPAMED.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/COMPAMED.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/COMS-2009.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/COMS-2009.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/COMS-2011.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/COMS-2011.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/COMS2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/COMS2012.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/COTECH-K2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/COTECH-K2010.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/COTECH-Training-Professionals.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/COTECH-Training-Professionals.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Conference-Commercialization-Micro-and-Nanosystems-COMS-2013.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Conference-Commercialization-Micro-and-Nanosystems-COMS-2013.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/DTU-PhD-Summer-School-2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/DTU-PhD-Summer-School-2019.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/DTU-PhD-Summer-School-Micro-Mechanical-Systems-Design-Manufacturing-2014.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/DTU-PhD-Summer-School-Micro-Mechanical-Systems-Design-Manufacturing-2014.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/ECERS-2011-0.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/ECERS-2011-0.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/ESAFORM-2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/ESAFORM-2012.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/ESAFORM.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/ESAFORM.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/EUMINAfab-E-MRS.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/EUMINAfab-E-MRS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/EUSPEN-2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/EUSPEN-2010.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/EUSPEN-2011.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/EUSPEN-2011.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Erlangen-workshop-microforming.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Erlangen-workshop-microforming.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/EuroNanoForum.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/EuroNanoForum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/European-Medical-Polymers-Conference.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/European-Medical-Polymers-Conference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/FP7-NMP-Day.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/FP7-NMP-Day.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Final-meeting-4M-Metals-Division.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Final-meeting-4M-Metals-Division.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Final-meeting-4M-Polymer-Processing-division.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Final-meeting-4M-Polymer-Processing-division.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/ICOMM-2011.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/ICOMM-2011.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/ICOMM-2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/ICOMM-2012.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/ICOMM-2014-9th-International-Conference-Micromanufacturing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/ICOMM-2014-9th-International-Conference-Micromanufacturing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/ICOMM4M.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/ICOMM4M.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/IEEE-IROS-2009.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/IEEE-IROS-2009.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/IEEE-ISAM2009.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/IEEE-ISAM2009.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/IFMM10.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/IFMM10.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/IPAS-2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/IPAS-2010.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/IPAS2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/IPAS2012.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/ISEM-XVI.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/ISEM-XVI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/IWMF-2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/IWMF-2012.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Industrial-Technologies-2014.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Industrial-Technologies-2014.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Integ-micro-seminar.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Integ-micro-seminar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/International-Conference-Micromanufacturing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/International-Conference-Micromanufacturing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Knowledge-Exchange-New-Routes-Business.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Knowledge-Exchange-New-Routes-Business.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Knowledge-based-Manufacturing-Colloquium.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Knowledge-based-Manufacturing-Colloquium.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/LAMOM-XVII.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/LAMOM-XVII.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/LBMP-VI.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/LBMP-VI.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Launching-Nanofutures.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Launching-Nanofutures.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/MAM2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/MAM2010.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/MEMSCON-workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/MEMSCON-workshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/MEMSMicrofluidics-Course.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/MEMSMicrofluidics-Course.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/METROLOGY-WORKSHOP-ALICONA.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/METROLOGY-WORKSHOP-ALICONA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/MICROSYS-2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/MICROSYS-2010.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/MMLive-2009.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/MMLive-2009.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/MMLive-2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/MMLive-2012.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/MMMEMSNANO-Live-USA-2012.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/MMMEMSNANO-Live-USA-2012.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/MULTILAYER-Workshop-0.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/MULTILAYER-Workshop-0.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/MULTILAYER-Workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/MULTILAYER-Workshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Metrology-Micro-Manufacturing-workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Metrology-Micro-Manufacturing-workshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Micro-Nano-Bio-Convergence-Systems.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Micro-Nano-Bio-Convergence-Systems.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Micro-mechanical-system-design-manufacture.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Micro-mechanical-system-design-manufacture.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Micro-nano-moulding-seminar.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Micro-nano-moulding-seminar.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Microparts’-Interest-Group-Workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Microparts’-Interest-Group-Workshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Mikrosystemtechnik-Kongress-2009.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Mikrosystemtechnik-Kongress-2009.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Nano-Net-2009.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Nano-Net-2009.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/NanoaccessCardiff.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/NanoaccessCardiff.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Nanocharacterization-techniques-tools.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Nanocharacterization-techniques-tools.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Nanofutures-meeting.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Nanofutures-meeting.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Opening-ceremony-Integ-Micro-Precision-Factory.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Opening-ceremony-Integ-Micro-Precision-Factory.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Optics-Key-technology-future.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Optics-Key-technology-future.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/PPE09-International-Conference.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/PPE09-International-Conference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/PowerMEMS-2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/PowerMEMS-2010.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Production-Technologies-Equipment-Micro-Manufacturing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Production-Technologies-Equipment-Micro-Manufacturing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/SME-Micromanufacturing-Conference.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/SME-Micromanufacturing-Conference.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/SPE-EUROTEC-CONFERENCE.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/SPE-EUROTEC-CONFERENCE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/SPIE-Photonics-West-2013.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/SPIE-Photonics-West-2013.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Smart-Sensors-Actuators-and-MEMS.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Smart-Sensors-Actuators-and-MEMS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Solid-State-Sensors-Actuators-and-Microsystems-Workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Solid-State-Sensors-Actuators-and-Microsystems-Workshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Summer-School-Micro-Manufacturing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Summer-School-Micro-Manufacturing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Summer-School-Micro-Mechanical-Systems-Design-and-Manufacturing.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Summer-School-Micro-Mechanical-Systems-Design-and-Manufacturing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Summer-School-Microrobotics-and-Self-Assembly-Hybrid-MEMS.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Summer-School-Microrobotics-and-Self-Assembly-Hybrid-MEMS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Topical-Meeting-MicroNano-Manufacturing-Workshop.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Topical-Meeting-MicroNano-Manufacturing-Workshop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Topical-Meeting-Structured-and-Freeform-Surfaces.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Topical-Meeting-Structured-and-Freeform-Surfaces.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Training-Professionals-No2.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Training-Professionals-No2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Training-Professionals.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Training-Professionals.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Workshop-Microfluidics-cells.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Workshop-Microfluidics-cells.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/Workshop-Tape-3D-structuring.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/Workshop-Tape-3D-structuring.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/iCAT-2010.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/iCAT-2010.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/articles/event/meetin-vienna.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/articles/event/meetin-vienna.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/assets/javascript/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/content/assets/javascript/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/404-Page-Not-Found.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/404-Page-Not-Found.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/bulletin/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/bulletin/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/conference/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/conference/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/cookies/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/cookies/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/event.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/event.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/home.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/interest-group.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/interest-group.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/join/members.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/join/members.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/join4m.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/join4m.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/members.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/members.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/news.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/18.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/18.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/19.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/19.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/20.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/20.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/21.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/21.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/28.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/28.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/411.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/411.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/422.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/422.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/426.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/426.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/428.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/428.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/430.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/430.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/437.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/437.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/44.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/44.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/442.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/442.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/448.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/448.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/449.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/449.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/454.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/454.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/457.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/457.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/46.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/46.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/460.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/460.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/462.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/462.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/47.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/47.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/472.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/472.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/476.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/476.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/480.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/480.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/481.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/481.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/485.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/485.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/490.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/490.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/493.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/493.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/497.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/497.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/499.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/499.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/501.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/501.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/506.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/506.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/51.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/51.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/510.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/510.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/518.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/518.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/519.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/519.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/520.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/520.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/522.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/522.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/526.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/526.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/528.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/528.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/529.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/529.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/531.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/531.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/533.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/533.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/537.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/537.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/538.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/538.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/539.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/539.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/541.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/541.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/60.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/60.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/62.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/62.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/748.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/748.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/751.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/751.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/773.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/773.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/775.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/775.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/777.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/777.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/778.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/778.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/779.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/779.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/781.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/781.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/782.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/782.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/784.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/784.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/787.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/787.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/792.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/792.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/793.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/793.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/798.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/798.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/8.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/800.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/800.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/801.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/801.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/802.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/802.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/node/804.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/node/804.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/terms.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/terms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/pages/welcome.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/pages/welcome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/templates/homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/templates/homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/always_modified/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/always_modified/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/author_images/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/author_images/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/autopages/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/autopages/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/better_codeblock_line_numbering/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/better_codeblock_line_numbering/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/better_figures_and_images/test_data/images-test.rst" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/better_figures_and_images/test_data/images-test.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/better_tables/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/better_tables/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/bootstrap-rst/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/bootstrap-rst/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/clean_summary/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/clean_summary/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/collate_content/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/collate_content/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/collate_content/test_collate_content.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/collate_content/test_collate_content.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/creole_reader/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/creole_reader/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/ctags_generator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/ctags_generator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_duplicate_tags_authors.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_duplicate_tags_authors.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_markdown_and_nonascii_summary.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_markdown_and_nonascii_summary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_md_extension.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/ctags_generator/test_content/article_with_md_extension.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/disqus_static/disqus_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/disqus_static/disqus_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/extract_toc/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/extract_toc/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/feed_summary/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/feed_summary/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/footer_insert/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/footer_insert/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/gallery/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/gallery/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/github-wiki/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/github-wiki/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/glossary/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/glossary/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/interlinks/test_data/testme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/interlinks/test_data/testme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/jinja2content/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/jinja2content/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/libravatar/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/libravatar/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/libravatar/libravatar.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/libravatar/libravatar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/libravatar/test_libravatar.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/libravatar/test_libravatar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/linker/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/linker/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/liquid_tags/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/liquid_tags/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-generic-config-tag.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-generic-config-tag.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat4.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/liquid_tags/test_data/content/test-ipython-notebook-nbformat4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/more_categories/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/more_categories/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/more_categories/more_categories.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/more_categories/more_categories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/neighbors/test_data/article.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/neighbors/test_data/article.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/org_reader/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/org_reader/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/org_reader/org_reader.el" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/org_reader/org_reader.el" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/org_reader/org_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/org_reader/org_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican-rdf/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican-rdf/ReadMe.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/avatars.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/avatars.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/feed.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/feed.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/import.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/import.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/installation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/quickstart.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/doc/quickstart.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/identicon/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/pelican_comment_system/identicon/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/photos/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/photos/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/photos/test_data/filename.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/photos/test_data/filename.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/photos/test_data/photo.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/photos/test_data/photo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/reddit_poster/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/reddit_poster/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/render_math/test_data/article.nbdata" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/render_math/test_data/article.nbdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/representative_image/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/representative_image/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/rmd_reader/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/rmd_reader/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/rmd_reader/test_rmd_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/rmd_reader/test_rmd_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/test_content/dummy_article.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/test_content/dummy_article.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/test_content/other_dummy_article.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/shaarli_poster/test_content/other_dummy_article.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/share_post/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/share_post/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/shortcodes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/shortcodes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/slim/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/slim/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/noparent.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/noparent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent--implicit.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent--implicit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent-explicit.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent-explicit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/sub_parts/test_data/parent.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/subcategory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/subcategory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/summary/Readme.rst" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/summary/Readme.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_5.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/tag_cloud/test_data/article_5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/test_data/content/cat1/markdown-article.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/test_data/content/cat1/markdown-article.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/textile_reader/Readme.textile" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/textile_reader/Readme.textile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/textile_reader/textile_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/textile_reader/textile_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/twitter_bootstrap_rst_directives/Demo.rst" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/twitter_bootstrap_rst_directives/Demo.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/twitter_bootstrap_rst_directives/bootstrap_rst_directives.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/twitter_bootstrap_rst_directives/bootstrap_rst_directives.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/video_privacy_enhancer/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/video_privacy_enhancer/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/w3c_validate/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/w3c_validate/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelican-plugins/webring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pelican-plugins/webring/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pelicanconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/pelicanconf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pelican-chameleon" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pelican-chameleon" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/pelican-chameleon/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/pelican-chameleon/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-749">
+              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/tags.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="53" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/articles/about/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="51">
+                <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/articles/event/CFP-Symposium-Micro-and-Nano-manufacturing.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/articles/event/13th-International-Conference-Metrology-and-Properties-Engineering-Surfaces.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/templates/homepage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="137" selection-start-line="10" selection-start-column="121" selection-end-line="10" selection-end-column="137" />
+              <folding>
+                <element signature="e#426#3231#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/author.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/article_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="48" selection-start-line="2" selection-start-column="4" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/tag.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'index'</find>
+      <find>drafts</find>
+      <find>%</find>
+      <find>output</find>
+      <find>en_</find>
+      <find>^## (.*)</find>
+      <find>##  Theme</find>
+      <find>^##  (.*)</find>
+      <find>en</find>
+      <find>wcmn</find>
+      <find>Metals-Processing.md</find>
+      <find>Micro-Fluidics-Interest-Group.md</find>
+      <find>slu</find>
+      <find>Int</find>
+      <find>PAGE_URL</find>
+      <find>date: 2021-03-31</find>
+      <find>tags: event, home</find>
+      <find>Management of Innovative Technologies</find>
+      <find>tags:</find>
+      <find>tag</find>
+      <find>EXCLUDES</find>
+      <find>DIRECT_TEMPLATES</find>
+      <find>/bulletin/2016/September/Expert-Workshop-FOCUS.html</find>
+      <find>^###</find>
+      <find>^###</find>
+      <find>inc</find>
+      <find>test</find>
+      <find>for tag</find>
+      <find>bulletin-index.html</find>
+      <find>Art</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>date: 2020-03-29 12:00</replace>
+      <replace>Date:</replace>
+      <replace>layout: sidebar_page</replace>
+      <replace>date: $1</replace>
+      <replace>## $1&lt;/p&gt;</replace>
+      <replace>title: $1</replace>
+      <replace>## $1</replace>
+      <replace>&quot;/</replace>
+      <replace>static/</replace>
+      <replace>&lt;img width=&quot;100%&quot; src</replace>
+      <replace>&lt;a href=&quot;/4m-association/content/$1.html&quot;</replace>
+      <replace>&lt;a href=&quot;/content/$1.html&quot;</replace>
+      <replace>href=&quot;/$1.html&quot;</replace>
+      <replace>href=&quot;/4m-association/$1&quot;</replace>
+      <replace>=&quot;/4m-association/$1&quot;</replace>
+      <replace>width=&quot;100%&quot;</replace>
+      <replace>/images</replace>
+      <replace>/images/</replace>
+      <replace>\(/content/$1.html</replace>
+      <replace>\(/content/$1\)</replace>
+      <replace>\(/contents/$1\)</replace>
+      <replace>\(/contents/$1\)\.</replace>
+      <replace>\(/contents/$1.html\)</replace>
+      <replace />
+      <replace>/</replace>
+      <replace>title:</replace>
+      <replace>##</replace>
+      <replace>^### $1</replace>
+      <replace>###</replace>
+      <replace>articles</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Dev\4m\4m-association-pelican\active-theme\pelican-bootstrap3\templates</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\pages\</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\pages\contents</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\pages</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\articles\content</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\active-theme\pelican-bootstrap3</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\pages\node\</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\pages\node</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\articles\event</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\</dir>
+      <dir>C:\Dev\4m\4m-association-pelican\content\articles\event\</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/content/articles/node/1.md" />
+        <option value="$PROJECT_DIR$/content/articles/content/1st-Call-Papers.md" />
+        <option value="$PROJECT_DIR$/content/articles/event/4M-Governing-Council.md" />
+        <option value="$PROJECT_DIR$/content/articles/event/index.md" />
+        <option value="$PROJECT_DIR$/content/articles/event/9th-International-euspen-Conference.md" />
+        <option value="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/includes/translations.html" />
+        <option value="$PROJECT_DIR$/content/articles/about/structure.md" />
+        <option value="$PROJECT_DIR$/content/pages/members.md" />
+        <option value="$PROJECT_DIR$/content/pages/join/members.md" />
+        <option value="$PROJECT_DIR$/content/articles/conference/WCMNM2020.md" />
+        <option value="$PROJECT_DIR$/content/articles/conference/WCMNM2019.md" />
+        <option value="$PROJECT_DIR$/content/articles/conference/2012/index.md" />
+        <option value="$PROJECT_DIR$/content/articles/conference/2011/index.md" />
+        <option value="$PROJECT_DIR$/content/articles/conference/2010/index.md" />
+        <option value="$PROJECT_DIR$/content/articles/conference/2009/index.md" />
+        <option value="$PROJECT_DIR$/content/articles/projects/Integ-Micro.md" />
+        <option value="$PROJECT_DIR$/content/articles/interest-group/metals_processing.md" />
+        <option value="$PROJECT_DIR$/content/articles/interest-group/metals-processing.md" />
+        <option value="$PROJECT_DIR$/content/articles/interest-group/metrology.md" />
+        <option value="$PROJECT_DIR$/content/pages/cookies/index.md" />
+        <option value="$PROJECT_DIR$/content/pages/conference/index.md" />
+        <option value="$PROJECT_DIR$/content/pages/bulletin/index.md" />
+        <option value="$PROJECT_DIR$/content/pages/index.md" />
+        <option value="$PROJECT_DIR$/content/pages/event.md" />
+        <option value="$PROJECT_DIR$/content/pages/about.md" />
+        <option value="$PROJECT_DIR$/content/pages/interest-group.md" />
+        <option value="$PROJECT_DIR$/content/pages/join4m.md" />
+        <option value="$PROJECT_DIR$/content/pages/news.md" />
+        <option value="$PROJECT_DIR$/content/pages/projects.md" />
+        <option value="$PROJECT_DIR$/content/pages/terms.md" />
+        <option value="$PROJECT_DIR$/content/pages/welcome.md" />
+        <option value="$PROJECT_DIR$/content/pages/404-Page-Not-Found.md" />
+        <option value="$PROJECT_DIR$/content/pages/node/1.md" />
+        <option value="$PROJECT_DIR$/content/articles/about/faq.md" />
+        <option value="$PROJECT_DIR$/content/articles/bulletin/2009/August/August09-Bulletin.md" />
+        <option value="$PROJECT_DIR$/content/articles/bulletin/2010/December/December10.md" />
+        <option value="$PROJECT_DIR$/content/articles/bulletin/2019/index.md" />
+        <option value="$PROJECT_DIR$/content/articles/bulletin/2010/August/August10-Bulletin.md" />
+        <option value="$PROJECT_DIR$/output/index.html" />
+        <option value="$PROJECT_DIR$/content/assets/javascript/footer.js" />
+        <option value="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/base.html" />
+        <option value="$PROJECT_DIR$/content/pages/home.md" />
+        <option value="$PROJECT_DIR$/content/articles/event/2nd-Aachen-Precision-Days.md" />
+        <option value="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/article_list.html" />
+        <option value="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/homepage.html" />
+        <option value="$PROJECT_DIR$/content/templates/projects.html" />
+        <option value="$PROJECT_DIR$/content/articles/event/3rd-MicroNano-Moulding-ATV-SEMAPP-Seminar.md" />
+        <option value="$PROJECT_DIR$/content/templates/homepage.html" />
+        <option value="$PROJECT_DIR$/content/articles/about/index.md" />
+        <option value="$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/index.html" />
+        <option value="$PROJECT_DIR$/pelicanconf.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="4076" />
+    <option name="y" value="62" />
+    <option name="width" value="1596" />
+    <option name="height" value="915" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="active-theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="active-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="pelican-bootstrap3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="active-theme" type="462c0819:PsiDirectoryNode" />
+              <item name="pelican-bootstrap3" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="articles" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4m-association-pelican" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4m-association-pelican" type="462c0819:PsiDirectoryNode" />
+              <item name="output" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620394108800" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\4m\4m-association-pelican\content\templates" />
+      <recent name="C:\Dev\4m\4m-association-pelican\content" />
+      <recent name="C:\Dev\4m\4m-association-pelican\content\pages" />
+      <recent name="C:\Dev\4m\4m-association-pelican\content\articles" />
+      <recent name="C:\Dev\4m\4m-association-pelican\output\projects" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\4m\4m-association-pelican\content\templates" />
+      <recent name="C:\Dev\4m\4m-association-pelican\content\pages" />
+      <recent name="C:\Dev\4m\4m-association-pelican\content" />
+      <recent name="C:\Dev\4m\4m-association-pelican\active-theme" />
+      <recent name="C:\Dev\4m\4m-association-pelican\pelican-plugins" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bb42aa1-4044-42ef-b6dc-f20717e0ddb6" name="Default Changelist" comment="" />
+      <created>1616769357004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616769357004</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4076" y="62" width="1596" height="915" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20247395" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3286445" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20247395" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/content/pages/join4m.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/members.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/news.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/projects.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="68">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/terms.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/welcome.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/404-Page-Not-Found.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/node/2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/node/100.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/node/1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="238">
+            <caret line="9" column="184" selection-start-line="9" selection-start-column="184" selection-end-line="9" selection-end-column="184" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelican-plugins/pelican-page-hierarchy/page_hierarchy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/bulletin/bulletin-index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/archives.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/about.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="16" selection-start-line="1" selection-end-line="1" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/about/faq.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/bulletin/2010/December/December10.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/bulletin/2019/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="11" selection-start-column="11" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/bulletin/2019/october.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/bulletin/2009/August/August09-Bulletin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/bulletin/2010/August/August10-Bulletin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/index60.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/assets/javascript/footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/assets/javascript/bootstrap/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/static/js/github.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/pages/home.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/content/10th-conference-Management-Innovative-Technologies.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/event/2nd-Aachen-Precision-Days/2nd-aachen-precision-days.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/bulletin/2016/September/Expert-Workshop-FOCUS/expert-workshop-focus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/templates/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="71" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/templates/bulletin.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/event/2nd-Aachen-Precision-Days.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/event/3rd-MicroNano-Moulding-ATV-SEMAPP-Seminar.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="85">
+            <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publishconf.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4m-association-pelican.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/plumage/templates/tag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/plumage/templates/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="63" column="13" selection-start-line="63" selection-start-column="13" selection-end-line="63" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/tag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/author.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/article_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="48" selection-start-line="2" selection-start-column="4" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/templates/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="137" selection-start-line="10" selection-start-column="121" selection-end-line="10" selection-end-column="137" />
+          <folding>
+            <element signature="e#426#3231#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/about/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/event/CFP-Symposium-Micro-and-Nano-manufacturing.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/articles/event/13th-International-Conference-Metrology-and-Properties-Engineering-Surfaces.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/active-theme/pelican-bootstrap3/templates/tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pelicanconf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-749">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Python 3.7 virtualenv at C:\Dev\relib\django\venv</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

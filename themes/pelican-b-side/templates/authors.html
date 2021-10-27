@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block title %}Authors - {{ SITENAME }}{% endblock %}
+
+{% block style %}
+  {% include "partials/head-style-wide.html" %}
+{% endblock %}
+
+{% block main %}
+  <section>
+  	<div>
+	  <h1>Authors</h1>  	  
+  	  {% for author, articles in authors %}
+        <h2>Articles by {{ author }}</h2>
+        {% for article in articles %}
+          {% include "summary.html" with context %}
+  	    {% endfor %}
+      {% endfor %}
+  	</div>
+  </section>
+
+{% endblock main %}

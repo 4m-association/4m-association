@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title|striptags }} | {{ SITENAME }}{% endblock %}
+{% block ogtitle %}{{ article.title|striptags }}{% endblock %}
+{% block ogurl %}{{ SITEURL }}/{{ article.url }}{% endblock %}
+{% block ogtype %}article{% endblock %}
+{% block canonicalurl %}{{ SITEURL }}/{{ article.url }}{% endblock %}
+
+{% block databehavior %}2{% endblock %}
+
+{% block content %}
+<section>
+	<div class="content-wrap">
+		<article id="article">
+
+			{% include 'article_adsense.html' %}
+
+			<h1 class="post-title">{{ article.title }}</h1>
+
+			<div class="post-info">
+				{% if article.author %}
+				<span>{{ article.author }}</span>
+				{% endif %}
+
+				posted on {{ article.date.strftime('%b %d, %Y') }}
+
+				{% if DISQUS_SITENAME %}
+				<script id="dsq-count-scr" src="//hansliu.disqus.com/count.js" async></script>
+				| <i class="far fa-comment"></i> <a href="{{ SITEURL }}/{{ article.url }}#disqus_thread"></a>
+				{% endif %}
+
+				{% if PDF_PROCESSOR %}
+				| <a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">Get the pdf</a>
+				{% endif %}
+
+				{% import 'translations.html' as translations with context %}
+				{{ translations.translations_for(article) }}
+			</div><!-- /.post-info -->
+
+			<div class="post-content">
+				{% if article.cover %}
+				<figure>
+					<a href="{{ article.cover }}"><img src="{{ article.cover }}"></a>
+					{% if article.cover_caption %}
+					<figcaption>{{ article.cover_caption }}</figcaption>
+					{% endif %}
+				</figure>
+				{% endif %}
+
+				{{ article.content }}
+			</div>
+
+			{% if article.tags %}
+			<div class="post-tag">
+				{% for tag in article.tags %}
+				<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>
+				{% endfor %}
+			</div>
+			{% endif %}
+
+			{% include 'article_info.html' %}
+
+			{% if article.related_posts %}
+			<div class="related-posts">
+				<h3>Related posts</h3>
+				<!-- TODO: Use fancier related layout, as in http://kevin.deldycke.com/2012/04/beautify-contextual-related-posts-wordpress-plugin/ -->
+				<ul>
+					{% for related_post in article.related_posts %}
+						<li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
+					{% endfor %}
+				</ul>
+			</div>
+			{% endif %}
+
+			{% include 'disqus.html' %}
+		</article>
+	</div><!-- /.content-wrap -->
+</section>
+{% endblock %}

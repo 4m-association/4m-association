@@ -1,0 +1,32 @@
+table {
+    margin-bottom: 1.3rem;
+    display: inline-block;
+    vertical-align: top;
+    max-width: 100%;
+    overflow-x: auto;
+    border-collapse: collapse;
+    border-spacing: 0;
+
+    -webkit-overflow-scrolling: touch;
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+table caption {
+    font-style: italic;
+    font-size: 1rem;
+    margin: 1rem 0 .5rem 0;
+    text-align: center;
+    color: rgba(0,0,0,.55);
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+th, td {
+    border: 1px solid #e9ebec;
+    padding: .5rem 1rem;
+}
+
+th {
+    font-weight: bold;
+}
+
+

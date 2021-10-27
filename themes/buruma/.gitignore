@@ -1,0 +1,5 @@
+node_modules/
+package-lock.json
+docs/__pycache__
+docs/output
+docs/plugins

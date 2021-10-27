@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock %}
+
+
+{% block content_title_text %}
+{{ page.title }}
+{% endblock %}
+
+{% block content %}
+<section class="post">
+	<div class="post-description">
+	{{ page.content }}
+	{% set article = page %}
+	{% include 'comments.html' %}
+	</div>
+</section>
+{% endblock %}

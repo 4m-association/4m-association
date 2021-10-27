@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{% block html_lang %}{{ DEFAULT_LANG }}{% endblock html_lang %}">
+  <head>
+    <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+    <link rel="canonical" href="{{ SITEURL }}">
+    {% include "partials/head-style-base.html" %}
+    {% include "partials/head-meta.html" %}
+    {% include "partials/head-rss.html" %}
+    {% block style %}
+    {% endblock %}
+  </head>
+  <body>
+    {% include "partials/body-header.html" %}
+    {% block main %}
+    {% endblock %}
+    {% include "partials/body-footer.html" %}
+  </body>
+</html>

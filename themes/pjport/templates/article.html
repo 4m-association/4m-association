@@ -1,0 +1,50 @@
+{% extends '_base.html' %}
+
+{% block head %}
+  {{ super() }}
+  {% for keyword in article.keywords %}
+    <meta name="keywords" content="{{keyword}}" />
+  {% endfor %}
+
+  {% for description in article.description %}
+    <meta name="description" content="{{description}}" />
+  {% endfor %}
+
+  {% for tag in article.tags %}
+    <meta name="tags" content="{{tag}}" />
+  {% endfor %}
+
+{% endblock %}
+
+{% block breadcrumbs %}
+  {{ super() }}
+  / <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category|capitalize }}</a>
+  / {{ article.title }}
+{% endblock %}
+
+{% block content %}
+  <div class="sectiontitle">
+    <h4>{{ article.title }}</h4>
+    <br>
+  </div>
+  <p>
+    <i>Published on <b>{{ article.date.strftime("%d %B %Y") }}</b> in <a href="{{ article.category.url }}">{{ article.category }}</a></i>
+  </p>
+  {{ article.content }}
+  <br/>
+  <div class="panel">
+    <div class="avatar">
+      <img src="{{ article.author_gravatar }}" alt="{{ author_gravatar }}">
+    </div>
+    <h5 class="left">{{ _('author')|upper }}: {{ article.author }} </h5>
+    <div class="right">
+      {% for title, url in SOCIAL %}
+        <a href="{{ url }}" target="_blank">
+          <div class="social {{ title }}">
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+    <p class="clear authortext"></p>
+  </div>
+{% endblock %}

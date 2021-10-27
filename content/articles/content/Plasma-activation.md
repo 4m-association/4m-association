@@ -1,0 +1,4 @@
+title: Plasma activation
+date: 2009-05-12  
+
+Plasma activation is done with the intent to alter or improve adhesion properties of surfaces prior to coating, etc. Weakly ionised oxygen plasma is used and several processes take place. Plasma removes surface layers with the lowest molecular weight, at the same time it oxidises the uppermost atomic layer of the polymer. Oxygen radicals (and UV radiation, if present) help break up bonds and promote the three dimensional cross bonding of molecules. Oxidation of the polymer is responsible for the increase in polar groups which is directly related to the adhesion properties of the polymer surface.

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+	<!-- html5 meta -->
+	<meta charset="UTF-8">
+	<meta name="author" content="{{ AUTHOR }}">
+	<meta name="description" content="{{ SITENAME }}{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}">
+	<meta name="keywords" content="{% if SITESUBTITLE %}{{ SITESUBTITLE }}{% endif %}">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+	<link rel="canonical" href="{% block canonicalurl %}{{ SITEURL }}{% endblock %}">
+
+	<!-- icon -->
+	{% if SITEFAVICON %}
+	<link rel="icon" type="image/x-icon" href="{{ SITEFAVICON }}">
+	{% else %}
+	<link rel="icon" type="image/x-icon" href="{{ SITEURL }}/theme/images/favicon.ico">
+	{% endif %}
+
+	<!-- parser -->
+	<meta name="robots" content="index, follow">
+	<meta name="googlebot" content="index, follow">
+	<meta name="baiduspider" content="index, nofollow">
+
+	<!-- og -->
+	<meta property="og:title" content="{% block ogtitle %}{{ SITENAME }}{% endblock %}">
+	<meta property="og:url" content="{% block ogurl %}{{ SITEURL }}{% endblock %}">
+	<meta property="og:site_name" content="{{ SITENAME }}">
+	<meta property="og:type" content="{% block ogtype %}website{% endblock %}">
+
+	<!-- cdn css -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+		integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog=="
+		crossorigin="anonymous" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap-grid.min.css"
+		integrity="sha384-AQznhoDGj2aKQxm9Hz1U8fvaEgnQDyn0LhRc1UdE2tJbig9H8xMsr4onwOB7RkPu"
+		crossorigin="anonymous" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css"
+		integrity="sha512-+EoPw+Fiwh6eSeRK7zwIKG2MA8i3rV/DGa3tdttQGgWyatG/SkncT53KHQaS5Jh9MNOT3dmFL0FjTY08And/Cw=="
+		crossorigin="anonymous" />
+
+	<!-- css -->
+	<link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css?v={{ THEME_VERSION }}" type="text/css">
+
+	<!-- feed -->
+	{% if FEED_ALL_ATOM %}
+	<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME|e }} Full Atom Feed"/>
+	{% endif %}
+	{% if FEED_ALL_RSS %}
+	<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME|e }} Full RSS Feed"/>
+	{% endif %}
+	{% if FEED_ATOM %}
+	<link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME|e }} Atom Feed"/>
+	{% endif %}
+	{% if FEED_RSS %}
+	<link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME|e }} RSS Feed"/>
+	{% endif %}
+
+	{% include 'analytics.html' %}
+
+</head>
+
+<body>
+	<div id="blog">
+
+		<!-- canvas -->
+		<div id="button-close-sidebar"></div>
+
+		<nav id="sidebar" data-behavior="{% block databehavior %}1{% endblock %}">
+			<div class="sidebar-container">
+				<div class="sidebar-profile">
+					<img class="sidebar-profile-image" src="{{ SITEAUTHORS.get(AUTHOR|string).image }}" alt="Author's image"></img>
+				</div>
+				<p class="sidebar-profile-name">
+					{{ SITENAME }}</br>
+					{{ SITESUBTITLE }}
+				</p>
+				{% if GOOGLE_CUSTOM_SEARCH %}
+				<div id="google-custom-search">
+					<script async src="https://cse.google.com/cse.js?cx={{ GOOGLE_CUSTOM_SEARCH }}"></script>
+					<div class="gcse-search"></div>
+				</div>
+				{% endif %}
+				<ul class="fa-ul">
+					{% if MENUITEMS %}
+						{% for name, link in MENUITEMS %}
+							<li><a href="{{ SITEURL }}/{{ link }}">{{ name }}</a></li>
+						{% endfor %}
+					{% endif %}<!-- /.Menuitems -->
+					{% if THEME_MENUITEMS %}
+						{% for name, link, icon in THEME_MENUITEMS %}
+							{% if icon %}
+								<li><a href="{{ SITEURL }}/{{ link }}"><i class="fa-li {{ icon }}"></i>{{ name }}</a></li>
+							{% else %}
+								<li><a href="{{ SITEURL }}/{{ link }}">{{ name }}</a></li>
+							{% endif %}
+						{% endfor %}
+					{% endif %}
+
+					{% if DISPLAY_CATEGORIES_ON_MENU %}
+						{% for cat, articles in categories %}
+							<li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}"><i class="fa-li fas fa-folder-open"></i> {{ cat }} ({{ articles|count }})</a></li>
+						{% endfor %}
+					{% endif %}<!-- /.Categories -->
+
+					{% if ARCHIVES_SAVE_AS %}
+						<li><a href="{{ SITEURL }}/{{ ARCHIVES_SAVE_AS }}"><i class="fa-li fas fa-archive"></i>Archives</a></li>
+					{% endif %}
+
+					{% if DISPLAY_FEEDS_ON_MENU %}
+						{% if FEED_BURNER_URL %}
+							<li><a href="{{ FEED_BURNER_URL }}"><i class="fa-li fas fa-rss-square"></i> Burner Feed</a></li>
+						{% elif TAG_FEED_ATOM and tag is defined %}
+							<li><a href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM.format(slug=tag.slug) }}"><i class="fa-li fas fa-rss-square"></i> Tag Atom Feed</a></li>
+						{% elif TAG_FEED_RSS and tag is defined %}
+							<li><a href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS.format(slug=tag.slug) }}"><i class="fa-li fas fa-rss-square"></i> Tag Rss Feed</a></li>
+						{% elif CATEGORY_FEED_ATOM and category is defined %}
+							<li><a href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM.format(slug=category.slug) }}"><i class="fa-li fas fa-rss-square"></i> Category Atom Feed</a></li>
+						{% elif CATEGORY_FEED_RSS and category is defined %}
+							<li><a href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS.format(slug=category.slug) }}"><i class="fa-li fas fa-rss-square"></i> Category Rss Feed</a></li>
+						{% elif FEED_ALL_ATOM %}
+							<li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}"><i class="fa-li fas fa-rss-square"></i> Atom Feed</a></li>
+						{% elif FEED_ALL_RSS %}
+							<li><a href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}"><i class="fa-li fas fa-rss-square"></i> Rss Feed</a></li>
+						{% endif %}
+					{% endif %}<!-- /.Feeds -->
+				</ul>
+			</div>
+		</nav>
+
+		<header id="header" data-behavior="{{ self.databehavior() }}">
+			<a id="button-open-sidebar"><i class="fas fa-bars"></i></a>
+			<div class="header-title">
+				<a class="header-title-link" href="{{ SITEURL }}" rel="bookmark" title="Permalink to {{ SITENAME }}">{{ SITENAME }}{% if SITESUBTITLE %} - {{ SITESUBTITLE }}{% endif %}</a>
+			</div>
+			<span class="header-right">
+				<img class="header-image" src="{{ SITEAUTHORS.get(AUTHOR|string).image }}" alt="Author's image"></img>
+			</span>
+		</header>
+
+		<div id="main" data-behavior="{{ self.databehavior() }}">
+			{% block content %}{% endblock %}
+
+			<section>
+				<div class="content-wrap">
+					<footer id="footer">
+						<div class="links">
+						{% if INTERNAL_LINKS %}
+							{% for name, link in INTERNAL_LINKS %}
+								<a href="{{ SITEURL }}/{{ link }}">{{ name }}</a>
+							{% endfor %}
+						{% endif %}
+						{% if LINKS %}
+							{% for name, link in LINKS %}
+								<a href="{{ link }}" target="_blank">{{ name }}</a>
+							{% endfor %}
+						{% endif %}
+						</div><!-- /.Links -->
+						<span class="copyrights">Copyrights © 2020 {{ AUTHOR }}. All Rights Reserved.</span>
+					</footer>
+				</div>
+			</section>
+
+		</div>
+
+	</div>
+
+	{% if SITECOVER %}
+	<div id="cover" style="background-image:url('{{ SITECOVER }}');"></div>
+	{% else %}
+	<div id="cover" style="background-image:url('{{ SITEURL }}/theme/images/cover.jpg');"></div>
+	{% endif %}
+
+	<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+		integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/1.9.1/jquery.lazyload.min.js"
+		integrity="sha512-jNDtFf7qgU0eH/+Z42FG4fw3w7DM/9zbgNPe3wfJlCylVDTT3IgKW5r92Vy9IHa6U50vyMz5gRByIu4YIXFtaQ=="
+		crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"
+		integrity="sha512-IsNh5E3eYy3tr/JiX2Yx4vsCujtkhwl7SLqgnwLNgf04Hrt9BT9SXlLlZlWx+OK4ndzAoALhsMNcCmkggjZB1w=="
+		crossorigin="anonymous"></script>
+
+		<script src="{{ SITEURL }}/theme/js/main.js?v={{ THEME_VERSION }}"></script>
+</body>
+</html>

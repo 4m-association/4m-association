@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}{{ SITESUBTITLE }}{% endblock %} | {% block sitename %}{{ SITENAME }}{% endblock %}</title>
+
+  <meta name="author" content="{{ AUTHOR }}">
+  <meta name="description" content="{% block description %}{{ SITEDESCRIPTION }}{% endblock %}">
+  <meta name="robots" content="{% block robots %}index,follow{% endblock %}">
+
+  <meta property="og:site_name" content="{{ SITENAME }}">
+  <meta property="og:type" content="website">
+  {% if article %}
+    {% if article.meta %}
+      <meta name="keywords" content="{{ article.meta.keywords }}">
+      <meta property="og:title" content="{{ article.meta.og_title }}">
+      <meta property="og:description" content="{{ article.meta.og_description }}">
+      <meta property="og:url" content="{{ article.meta.og_url }}">
+      <meta property="og:image" content="{{ article.meta.og_image }}">
+    {% elif article.ogtags %}
+      {% for tag in article.ogtags %}
+        <meta property="{{tag[0]}}" content="{{tag[1]|striptags|e}}" />
+      {% endfor %}
+    {% endif %}
+  {% elif DEFAULT_OG_IMAGE %}
+    <meta property="og:image" content="{{ DEFAULT_OG_IMAGE }}">
+  {% endif %}
+
+  {% if FACEBOOK_APP_ID %}
+    <meta property="fb:app_id" content="{{ FACEBOOK_APP_ID }}">
+  {% endif %}
+
+  {% if GOOGLE_SITE_VERIFICATION %}
+    <meta name="google-site-verification" content="{{ GOOGLE_SITE_VERIFICATION }}">
+  {% endif %}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  {% if FAVICON_URL %}
+    <link rel="icon" type="image/x-icon" href="{{ FAVICON_URL }}">
+  {% endif %}
+
+  <link rel="alternate" type="application/rss+xml" title="{{ SITENAME }} &raquo; Feed" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}">
+  <link rel="canonical" href="{% block canonical_url %}{{ SITEURL }}/{{ page_name }}{% if articles_page and articles_page.number != 1 %}{{ articles_page.number }}{% endif %}.html{% endblock %}">
+
+  {% block styles %}
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+    {% assets filters="postcss", output="css/styles.min.css", "css/styles.css" %}
+      <link rel="stylesheet" href="{{ SITEURL }}/{{ ASSET_URL }}">
+    {% endassets %}
+  {% endblock %}
+</head>
+<body>
+  <div class="Page pure-g {% block page_css %}{% endblock %}">
+    {% include "includes/header.html" %}
+
+    <div class="PageContent pure-u-1">
+      {% block content %}{% endblock %}
+    </div>
+
+    {% include "includes/footer.html" %}
+  </div>
+
+  {% block scripts %}{% endblock %}
+  {% include "includes/analytics.html" %}
+</body>
+</html>

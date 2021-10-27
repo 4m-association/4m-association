@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+    <head>
+        {% block head %}
+        <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+        <meta charset="utf-8" />
+        <meta http-equiv="cache-control" content="no-cache" />
+        <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/base.css" />
+        <meta name="author" value="{% block meta_author %}{{ AUTHOR }}{% endblock %}" />
+        <meta name="description" value="{% block meta_description %}{% endblock %}" />
+        <meta name="keywords" value="{% block meta_keywords %}{% endblock %}" />
+        {% endblock %}
+    </head>
+    <body>
+        <header class="site highlight">
+            {% if SITESUBTITLES %}
+                <h1 class="stamp lrot bs">{{ SITESUBTITLES[0] }}</h1>
+                <h1 class="stamp rrot rfloat">{{ SITESUBTITLES[1] }}</h1>
+            {% else %}
+                <h1 class="stamp lrot">{{ SITESUBTITLE }}</h1>
+            {% endif %}
+        </header>
+        <div class="site clearfix">
+            {% include 'nav.html' %}
+            <section class="content">
+                <h1 class="stamp">{% block section_title %}{% endblock %}</h1>
+                {% if category and CATEGORY_FEED_ATOM %}
+                    <a href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category) }}" class="feed"><img src="/theme/images/icons/rss.png"/></a>
+                {% elif tag and TAG_FEED_ATOM %}
+                    <a href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(category) }}" class="feed"<img src="/theme/images/icons/rss.png"/></a>
+                {% endif %}
+                <div class="body">
+                    {% block content %}{% endblock %}
+                </div>
+            </section>
+        {% include 'footer.html' %}
+        </div>
+        {% include 'analytics.html' %}
+    </body>
+</html>

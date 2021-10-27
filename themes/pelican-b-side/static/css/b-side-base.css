@@ -1,0 +1,884 @@
+/* Base CSS for theme
+ * -- loosely derived from html4css1.css from Docutils
+ */
+
+
+/*****************************************************************************/
+/* Colors:
+ * foreground: #111111
+ * background: #fffff6 -- from Edward Morbius (for a very warm "white")
+ * selection color: #b4d5fe -- straight from Adam Schwartz's "Smarter Link"
+ * Borders: #cccccc, and #eeeeee maybe #e4e4e4
+ * Yellow highlight: #fbe54e hsl(yellow/52, 96%, 65%)
+ * Yellow for Error: #f2f2a6 (yellow, 75% saturation, 80% lightness)
+ * Citation table and left-edge of admonitons: #808080
+ * Rubric and headers: #a00000
+ * "dim" sets foreground to: #444444
+ */
+
+
+
+/*****************************************************************************/
+/* Some basic settings                                                       */
+
+@charset "UTF-8";
+
+body {
+	font-family: "Roboto", Ariel, Helvetica, sans-serif;
+	background-color: #fffff6;
+	color: #111111;
+}
+
+
+
+/*****************************************************************************/
+/* reStructuredText settings                                                 */
+
+
+/* -- Overall -------------------------------------------------------------- */
+
+article {
+	line-height: 1.5;
+}
+
+dl.docutils,
+div.topic,
+div.legend,
+div.figure,
+div.sidebar,
+div.admonition,
+div.line-block,
+article > section pre,
+article > section table,
+article > section blockquote {
+        /* Certain elements are typeset densely, different from main text */
+        font-size: 0.75rem;
+        line-height: 1.25;
+}
+
+
+
+/* -- special classes ------------------------------------------------------ */
+
+img.align-left,
+.figure.align-left,
+object.align-left {
+	clear: left;
+	float: left;
+	margin-right: 1rem;
+}
+
+img.align-right,
+.figure.align-right,
+object.align-right {
+	clear: right;
+	float: right;
+	margin-left: 1rem;
+}
+
+img.align-center,
+.figure.align-center,
+object.align-center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.align-right {
+	text-align: right;
+}
+
+div.narrow,
+blockquote.narrow {
+	margin: 0.5em 1rem 0.5em 0rem;
+	clear: left;
+	float: left;
+	width: 25%;
+}
+
+div.titleless p.topic-title,
+div.titleless p.sidebar-title,
+div.titleless p.admonition-title {
+        display: none;
+}
+
+
+/* -- figures --------------------------------------------------------------- */
+
+
+
+/* -- sidebars -------------------------------------------------------------- */
+
+div.sidebar {
+	margin: 0 0 0.5em 1em;
+	border: 1px solid #cccccc;
+	padding: 0.5rem 0.5em 0 0.5em;
+	background-color: #fffff6; /* Edward Morbius */
+	width: 40%;
+	float: right;
+}
+
+p.sidebar-title {
+	font-weight: bold;
+}
+
+
+/* -- topics ---------------------------------------------------------------- */
+
+div.topic {
+	margin: 1rem 0 1rem 0;
+	border: 1px solid #cccccc;
+	padding: 0.5rem 0.5em 0 0.5em;
+}
+
+p.topic-title {
+	text-align: center;
+	font-size: 1.25rem;
+	font-weight: bold;
+	margin-top: 1rem;
+}
+
+ul.auto-toc {
+	list-style-type: none
+}
+
+
+/* -- admonitions ----------------------------------------------------------- */
+
+div.admonition {
+	border: solid 1px #808080;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	padding: 0.5rem 0.5em 0.5rem 0.5em;
+}
+
+div.admonition dt {
+	font-weight: bold;
+}
+
+div.admonition dl {
+	margin-bottom: 0;
+}
+
+p.admonition-title {
+	margin: 0 1rem 0.5em 0;
+	font-weight: bold;
+}
+div.attention p.admonition-title {
+	color: #a00000;
+}
+div.caution p.admonition-title {
+	color: #a00000;
+}
+div.danger p.admonition-title {
+	color: #a00000;
+}
+div.error p.admonition-title {
+	color: #a00000;
+}
+
+div.body p.centered {
+	text-align: center;
+	margin-top: 0.5em;
+}
+
+
+/* -- quotes and messages --------------------------------------------------- */
+
+.system-message {
+	background-color: #f2f2a6;
+	padding: 0.25em 0.25rem 0.25em 0.25rem;
+	border: 3px solid red;
+}
+
+.line-block {
+	display: block;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.line-block .line-block {
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 1.5em;
+}
+
+blockquote {
+	font-family: "Roboto Condensed", Ariel, Helvetica, sans-serif;
+	margin-left: 2em;
+	margin-right: 2em;
+	border-left: solid 1px #808080;
+	overflow: auto;
+	overflow-y: hidden;  /* fixes display issues on Chrome browsers */
+}
+
+blockquote p.attribution {
+	text-align: right;
+}
+blockquote.epigraph {
+	font-size: 1.125rem;
+	font-weight: 300;
+	font-style: oblique;
+	padding-left: 1em
+}
+blockquote.epigraph p.attribution {
+        font-size: 0.75rem;
+	font-weight: 400;
+	font-style: normal;
+}
+
+blockquote.pull-quote {
+	padding: 0.5em 4rem 0.5em 2rem;
+        font-weight: bold;
+        font-style: oblique;
+        font-size: 1.5rem;
+        color: #a00000;
+        position: relative;
+}
+blockquote.pull-quote p.attribution {
+        display: block;
+	font-weight: normal;
+	font-style: normal;
+        font-size: 0.75rem;
+        color: #111111;
+}
+blockquote.pull-quote p {
+        display: inline;
+        font-weight: bold;
+        font-style: oblique;
+        font-size: 2rem;
+        color: #a00000;
+}
+
+p.rubric {
+	color: #a00000;
+	margin-top: 2em;
+	font-weight: bold;
+}
+
+
+/* -- code displays --------------------------------------------------------- */
+
+pre {
+	margin-left: 2em;
+	margin-right: 2em;
+	border-left: solid 1px #808080;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	overflow: auto;
+	overflow-y: hidden;  /* fixes display issues on Chrome browsers */
+	font-family: "Roboto Mono", monospace;
+}
+tt {
+	font-family: "Roboto Mono", monospace;
+}
+
+pre.address {
+	margin: 0 1rem 0 0;
+}
+
+
+/* -- tables ---------------------------------------------------------------- */
+
+.footnote-reference {
+	vertical-align: super;
+	font-size: 0.5em;
+	line-height: normal;
+}
+.citation-reference {
+	font-size: 0.75em;
+	line-height: normal;
+}
+
+/* Docutils generates footnotes as a table, make borderless */
+table.footnote,
+table.footnote td,
+table.footnote th {
+	border: none;
+}
+
+table.citation {
+	border: none;
+	border-left: solid 1px #808080;
+	margin-left: 1px;
+}
+table.citation td {
+	border-bottom: none;
+}
+
+/* -- tables ---------------------------------------------------------------- */
+
+table.docutils {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	border: 0;
+	border-collapse: collapse;
+	border-top: 1px solid #cccccc;
+	border-bottom: 1px solid #cccccc;
+}
+
+table.docutils th {
+	padding: 1px 0.5rem 1px 0.5rem;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 1px solid #cccccc;
+}
+table.docutils td {
+	padding: 1px 0.5rem 1px 0.5rem;
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+	border-bottom: 1px solid #e4e4e4;
+}
+
+/* Ensure there are no borders for the Docutils-generated tables */
+table.field-list,
+table.field-list td,
+table.field-list th {
+	border: 0 !important;
+}
+/* ... and Docutils generates footnotes as a table */
+/* but since we border the notes, we don't set "none" for the outer table */
+table.footnote td,
+table.footnote th {
+        border: none;
+}
+
+table.citation td {
+	border-bottom: none;
+}
+
+th {
+	text-align: left;
+	padding-right: 5px;
+}
+
+
+/* -- headings -------------------------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-top: 0;
+	padding-top: 1em;
+	font-weight: bold;
+	color: #a00000;
+}
+h1 {
+	font-size: 1.5rem;
+}
+h2 {
+	font-size: 1.25rem;
+}
+h3 {
+	font-size: 1.0rem;
+}
+h4 {
+	font-size: 0.875rem;
+}
+h5 {
+	font-size: 0.75rem;
+}
+h6 {
+	font-size: 0.5rem;
+}
+
+
+/* -- other body styles ----------------------------------------------------- */
+
+div.body p.caption {
+	text-align: inherit;
+}
+
+div.body td {
+	text-align: left;
+}
+
+.field-list ul {
+	padding-left: 1rem;
+}
+
+.first {
+	/* uncomment to force first elements to not have a top margin ...
+	margin-top: 0 !important;
+	... */
+}
+
+ol.arabic {
+	list-style: decimal;
+}
+
+ol.loweralpha {
+	list-style: lower-alpha;
+}
+
+ol.upperalpha {
+	list-style: upper-alpha;
+}
+
+ol.lowerroman {
+	list-style: lower-roman;
+}
+
+ol.upperroman {
+	list-style: upper-roman;
+}
+
+dl {
+	margin-bottom: 1em;
+}
+
+dd p {
+	margin-top: 0px;
+}
+
+dd ul,
+dd table {
+	margin-bottom: 1em;
+}
+
+dd {
+	margin-top: 0.25em;
+	margin-bottom: 1em;
+	margin-left: 2rem;
+}
+
+dl.docutils dt {
+	font-weight: bold
+}
+
+dt:target,
+.highlighted {
+	background-color: #fbe54e;
+}
+
+dl.glossary dt {
+	font-weight: bold;
+	font-size: 1.125em;
+}
+
+.field-list ul {
+	margin: 0;
+	padding-left: 1em;
+}
+
+.field-list p {
+	margin: 0;
+}
+
+.optional {
+	font-size: 1.25em;
+}
+
+.versionmodified {
+	font-style: italic;
+}
+
+.accelerator {
+	text-decoration: underline;
+}
+
+.classifier {
+	font-style: oblique;
+}
+
+abbr,
+acronym {
+	border-bottom: dotted 1px;
+	cursor: help;
+}
+
+.newthought {
+	/* Hack at a Tufte effect, used for first few words of a section */
+	padding-top: 4em;
+	font-variant: small-caps;
+}
+
+
+/*****************************************************************************/
+/* B-Side Header & Footer                                                    */
+
+/* -- article header --------------------------------------------------------*/
+
+ul.bulletless {
+	list-style-type: none;
+}
+
+
+/* -- page header/footer ----------------------------------------------------*/
+
+header,
+footer {
+	font-family: "Roboto Condensed", Ariel, Helvetica, sans-serif;
+}
+header {
+	padding-top: 1rem;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+footer {
+	font-size: 0.75rem;
+	clear: both;
+}
+
+header > nav {
+	padding-top: 2em;
+}
+header > nav > ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+header > nav > ul > li {
+	float: left;
+	padding-right: 0rem;
+	letter-spacing: 0.125em;
+}
+header > nav::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+header > nav li > a:before {
+	content: "\0003c";
+	visibility: hidden;
+}
+header > nav li > a:after {
+	content: ">";
+	visibility: hidden;
+}
+header > nav li > a.active:before {
+	content: "\0003c";
+	visibility: visible;
+}
+header > nav li > a.active:after {
+	content: ">";
+	visibility: visible;
+}
+
+header > nav a:link,
+header > nav a:visited,
+footer a.link-transition {
+	/* unset the fancy underlining used in body text */
+	text-decoration: none;
+	background: none;
+	-webkit-background-size: auto auto;
+	-moz-background-size: auto auto;
+	background-size: auto auto;
+	background-repeat: repeat;
+	background-position: initial;
+	text-shadow: none;
+}
+header > nav a:link,
+header > nav a:visited {
+	color: #a00000;
+}
+header > nav a {
+	display: block;
+	vertical-align: baseline;
+	text-transform: uppercase;
+}
+footer a.link-transition {
+	text-transform: uppercase;
+	vertical-align: baseline;
+	padding: 0.125rem;
+}
+
+header > nav a img {
+	height: 5rem;
+	position: relative;
+	max-width: 100%;
+	top: -1.5rem;
+}
+
+div.bside-footer-copy {
+	float: left;
+}
+div.bside-footer-info {
+	float: right;
+}
+div.bside-footer::after {
+	content: "";
+	display: block;
+	clear: both;
+}
+
+
+
+/*****************************************************************************/
+/* B-Side Flourishes                                                         */
+
+/* -- Modifiers -------------------------------------------------------------*/
+.dim {
+	color: #444444;
+}
+
+.smaller {
+	font-size: 75%;
+}
+
+
+/* -- Fancy underlining for links -------------------------------------------*/
+/*    (as opposed to simple blue-underlined text) */
+
+/* Seeking the effect of "text-decoration-skip: ink"
+ * Derived from https://github.com/adamschwartz/magic-of-css/commit/35fa2f5ab36aa8c81f053f5a8c7b67b60c79ae5b
+ * Covered more recently: https://css-tricks.com/styling-underlines-web/
+ */
+
+a:link, a:visited {
+	color: inherit;
+}
+
+a:link {
+	text-decoration: none;
+	background: -webkit-linear-gradient(#fffff6, #fffff6), -webkit-linear-gradient(#fffff6, #fffff6), -webkit-linear-gradient(#111111, #111111);
+	background: linear-gradient(#fffff6, #fffff6), linear-gradient(#fffff6, #fffff6), linear-gradient(#111111, #111111);
+	-webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+	-moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+	background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+	background-repeat: no-repeat, no-repeat, repeat-x;
+	background-position: 0% 93%, 100% 93%, 0% 93%;
+	/*
+	 * Note: degree of complexity of underline can be adjusted:
+	 * Original (offers clear whitespace around descenders)
+	 *	text-shadow: 0.03em 0 $bgcolor, -0.03em 0 $bgcolor, 0 0.03em $bgcolor, 0 -0.03em $bgcolor, 0.06em 0 $bgcolor, -0.06em 0 $bgcolor, 0.09em 0 $bgcolor, -0.09em 0 $bgcolor, 0.12em 0 $bgcolor, -0.12em 0 $bgcolor, 0.15em 0 $bgcolor, -0.15em 0 $bgcolor;
+	 * Simplification (minimal whitespace around descenders)
+	 * as used by http://adrianroselli.com/2016/06/on-link-underlines.html
+	 *	text-shadow: .07em 0 0 $bgcolor,-.07em 0 0 $bgcolor,0 .05em 0 $bgcolor;
+	 */
+	text-shadow: 0.03em 0 #fffff6, -0.03em 0 #fffff6, 0 0.03em #fffff6, 0 -0.03em #fffff6, 0.06em 0 #fffff6, -0.06em 0 #fffff6, 0.09em 0 #fffff6, -0.09em 0 #fffff6, 0.12em 0 #fffff6, -0.12em 0 #fffff6, 0.15em 0 #fffff6, -0.15em 0 #fffff6;
+}
+
+
+/* Drop out the underline when the text is selected */
+a:link::selection {
+	background: #b4d5fe;
+	text-shadow: none;
+}
+
+a:link::-moz-selection {
+	background: #b4d5fe;
+	text-shadow: none;
+}
+
+/* Do not underline the links that are in H1 to H6 elements */
+h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link {
+	background: #fffff6;
+}
+/* Do not underline the links that are in images */
+a.image-reference {
+	background: #fffff6;
+}
+
+
+/* -- Horizontal lines use gradients ---------------------------------------- */
+
+hr.docutils {
+	border: 0;
+	height: 1px;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	background-image: -webkit-linear-gradient(left, transparent, rgba(0, 0, 0, 0.75), transparent);
+	background-image: -moz-linear-gradient(left, transparent, rgba(0, 0, 0, 0.75), transparent);
+	background-image: -ms-linear-gradient(left, transparent, rgba(0, 0, 0, 0.75), transparent);
+	background-image: -o-linear-gradient(left, transparent, rgba(0, 0, 0, 0.75), transparent);
+}
+
+
+/* -- Code Syntax Highlighting ----------------------------------------------*/
+
+/* formats for <PRE class="code"> */
+/* lovelace */
+/* Replaced with short form for Pelican/Pygments */
+.code  { background: #fffff6; } /*  */
+.code .c { color: #888888; font-style: italic }
+.code .ch { color: #287088; font-style: italic }
+.code .cm { color: #888888; font-style: italic }
+.code .cp { color: #289870 }
+.code .cpf { color: #888888; font-style: italic }
+.code .c1 { color: #888888; font-style: italic }
+.code .cs { color: #888888; font-style: italic }
+.code .err { background-color: #a848a8 }
+.code .gd { color: #c02828 }
+.code .ge { font-style: italic }
+.code .gr { color: #c02828 }
+.code .gh { color: #666666 }
+.code .gi { color: #388038 }
+.code .go { color: #666666 }
+.code .gp { color: #444444 }
+.code .gs { font-weight: bold }
+.code .gu { color: #444444 }
+.code .gt { color: #2838b0 }
+.code .hll { background-color: #ffffcc }
+.code .k { color: #2838b0 }
+.code .kc { color: #444444; font-style: italic }
+.code .kd { color: #2838b0; font-style: italic }
+.code .kn { color: #2838b0 }
+.code .kp { color: #2838b0 }
+.code .kr { color: #2838b0 }
+.code .kt { color: #2838b0; font-style: italic }
+.code .mb { color: #444444 }
+.code .m { color: #444444 }
+.code .mf { color: #444444 }
+.code .mh { color: #444444 }
+.code .mi { color: #444444 }
+.code .il { color: #444444 }
+.code .mo { color: #444444 }
+.code .sa { color: #444444 }
+.code .sb { color: #b83838 }
+.code .sc { color: #a848a8 }
+.code .s { color: #b83838 }
+.code .dl { color: #b85820 }
+.code .sd { color: #b85820; font-style: italic }
+.code .s2 { color: #b83838 }
+.code .se { color: #709030 }
+.code .sh { color: #b83838 }
+.code .si { color: #b83838; text-decoration: underline }
+.code .sx { color: #a848a8 }
+.code .sr { color: #a848a8 }
+.code .s1 { color: #b83838 }
+.code .ss { color: #b83838 }
+.code .na { color: #388038 }
+.code .nb { color: #388038 }
+.code .bp { color: #388038; font-style: italic }
+.code .nc { color: #287088 }
+.code .no { color: #b85820 }
+.code .nd { color: #287088 }
+.code .ni { color: #709030 }
+.code .ne { color: #908828 }
+.code .nf { color: #785840 }
+.code .fm { color: #b85820 }
+.code .nl { color: #289870 }
+.code .nn { color: #289870 }
+.code .nt { color: #2838b0 }
+.code .vc { color: #b04040 }
+.code .nv { color: #b04040 }
+.code .vg { color: #908828 }
+.code .vi { color: #b04040 }
+.code .vm { color: #b85820 }
+.code .o { color: #666666 }
+.code .ow { color: #a848a8 }
+.code .p { color: #888888 }
+.code .w { color: #a89028 }
+
+/* Formats for <CODE> elements (inline) */
+/* Replaced with short form for Pelican/Pygments */
+code  { background: #fffff6; } /*  */
+code .c { color: #888888; font-style: italic }
+code .ch { color: #287088; font-style: italic }
+code .cm { color: #888888; font-style: italic }
+code .cp { color: #289870 }
+code .cpf { color: #888888; font-style: italic }
+code .c1 { color: #888888; font-style: italic }
+code .cs { color: #888888; font-style: italic }
+code .err { background-color: #a848a8 }
+code .gd { color: #c02828 }
+code .ge { font-style: italic }
+code .gr { color: #c02828 }
+code .gh { color: #666666 }
+code .gi { color: #388038 }
+code .go { color: #666666 }
+code .gp { color: #444444 }
+code .gs { font-weight: bold }
+code .gu { color: #444444 }
+code .gt { color: #2838b0 }
+code .hll { background-color: #ffffcc }
+code .k { color: #2838b0 }
+code .kc { color: #444444; font-style: italic }
+code .kd { color: #2838b0; font-style: italic }
+code .kn { color: #2838b0 }
+code .kp { color: #2838b0 }
+code .kr { color: #2838b0 }
+code .kt { color: #2838b0; font-style: italic }
+code .mb { color: #444444 }
+code .m { color: #444444 }
+code .mf { color: #444444 }
+code .mh { color: #444444 }
+code .mi { color: #444444 }
+code .il { color: #444444 }
+code .mo { color: #444444 }
+code .sa { color: #444444 }
+code .sb { color: #b83838 }
+code .sc { color: #a848a8 }
+code .s { color: #b83838 }
+code .dl { color: #b85820 }
+code .sd { color: #b85820; font-style: italic }
+code .s2 { color: #b83838 }
+code .se { color: #709030 }
+code .sh { color: #b83838 }
+code .si { color: #b83838; text-decoration: underline }
+code .sx { color: #a848a8 }
+code .sr { color: #a848a8 }
+code .s1 { color: #b83838 }
+code .ss { color: #b83838 }
+code .na { color: #388038 }
+code .nb { color: #388038 }
+code .bp { color: #388038; font-style: italic }
+code .nc { color: #287088 }
+code .no { color: #b85820 }
+code .nd { color: #287088 }
+code .ni { color: #709030 }
+code .ne { color: #908828 }
+code .nf { color: #785840 }
+code .fm { color: #b85820 }
+code .nl { color: #289870 }
+code .nn { color: #289870 }
+code .nt { color: #2838b0 }
+code .vc { color: #b04040 }
+code .nv { color: #b04040 }
+code .vg { color: #908828 }
+code .vi { color: #b04040 }
+code .vm { color: #b85820 }
+code .o { color: #666666 }
+code .ow { color: #a848a8 }
+code .p { color: #888888 }
+code .w { color: #a89028 }
+
+
+/*****************************************************************************/
+/* Simple 'responsive' behavior                                              */
+
+html {
+	font-size: 12px;
+}
+
+@media (min-width: 400px) {
+	html {
+		font-size: 16px;
+	}
+}
+
+@media (min-width: 800px) {
+	html {
+		font-size: 24px;
+	}
+}
+
+@media (min-width: 900px) {
+	section {
+		padding-left: 10%;
+	}
+}
+
+@media (min-width: 1300px) {
+	section {
+		padding-left: 20%;
+	}
+}
+
+

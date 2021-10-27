@@ -1,0 +1,18 @@
+{% extends "index.html" %}
+
+{% block title %}{{ SITENAME }} - {{ category }}{% endblock %}
+{% block ogtitle %}{{ SITENAME }} - {{ category }}{% endblock %}
+{% block ogurl %}{{ SITEURL }}/{{ category.url }}{% endblock %}
+{% block canonicalurl %}{{ SITEURL }}/{{ category.url }}{% endblock %}
+
+{% block content_title %}
+<section>
+	<div class="content-title-wrap">
+		<h1 class="category-title">
+			<a class="category-title-link" href="{{ SITEURL }}/{{ category.url }}" rel="bookmark" title="Permalink to {{ category|striptags }}">{{ category }}</a>
+		</h1>
+
+		<p class="category-latest">Latest</p>
+	</div>
+</section>
+{% endblock %}

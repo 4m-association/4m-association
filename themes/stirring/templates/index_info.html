@@ -1,0 +1,12 @@
+{% if article.author %}
+<div class="row index-article-info">
+	<div class="col-2">
+		<img class="index-article-author-image" src="{{ SITEAUTHORS.get(article.author|string).image }}" alt="Author's image"></img>
+	</div>
+	<div class="col-10">
+		<span class="index-article-author-name">{{ article.author }}</span>
+		<br>
+		<span>{{ article.date.strftime('%b %d, %Y') }}</span>
+	</div>
+</div>
+{% endif %}

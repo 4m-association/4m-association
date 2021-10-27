@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'DejaVu Sans Mono';
+    src: url('/theme/fonts/DejaVuSansMono-book.eot');
+    src: url('/theme/fonts/DejaVuSansMono-book.eot?#iefix') format('embedded-opentype'),
+    url('/theme/fonts/DejaVuSansMono-book.woff') format('woff'),
+    url('/theme/fonts/DejaVuSansMono-book.ttf') format('truetype'),
+    url('/theme/fonts/DejaVuSansMono-book.svg#dejavu_sans_monobook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "Source Sans Pro",sans-serif;
+    line-height: 1.3;
+    font-size: 1.25em;
+    word-wrap: break-word;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    margin: 2rem 0 1rem 0;
+}
+
+h1 { font-size: 2.5em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.15em; }
+h5 { font-size: 1em; }
+h6 { font-size: 0.93rem; }
+
+p, ol, ul, dl, .math-display {
+    line-height: 1.58;
+    margin-bottom: 1em;
+}
+
+ul, ol {
+    padding-left: 2rem;
+    font-family: "Source Serif Pro", serif;
+}
+
+ol.arabic {
+    list-style-type: decimal;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+.site-header h1 {
+    font-size: 1.75rem;
+}
+
+.site-header p {
+    color: rgba(255, 255, 255, .7);
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.site-footer {
+    text-align: center;
+}
+
+article header p {
+    color: rgba(0, 0, 0, .55);
+}
+
+p.caption {
+    font-style: italic;
+    font-size: 1rem;
+    margin: .5rem 0 1rem 0;
+    text-align: center;
+    color: rgba(0,0,0,.55);
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+pre {
+    font-family: "DejaVu Sans Mono", monospace;
+    font-size: 1rem;
+}
+
+#content {
+    font-family: "Source Serif Pro", serif;
+}
+
+#content h1, #content h2, #content h3, #content h4, #content h5, #content h6 {
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+/* Tablets */
+
+@media screen and (min-width: 42em) and (max-width: 54em) {
+    .site-header h1 {
+        font-size: 2.25rem;
+    }
+}
+
+
+/* Desktop */
+
+@media screen and (min-width: 54em) {
+    .site-header h1 {
+        font-size: 3.25rem;
+    }
+}

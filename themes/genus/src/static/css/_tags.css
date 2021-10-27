@@ -1,0 +1,8 @@
+.tags a {
+    font-size: .8em;
+    border-radius: 0.3em;
+    border: none;
+    display: inline-block;
+    padding: .4em .75em;
+    margin-top: .4rem;
+}

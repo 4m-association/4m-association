@@ -1,0 +1,214 @@
+{% extends "base.html" %}
+
+{% block meta %}
+    <meta name="author" content="{{ article.author.name }}" />
+    <meta name="description" content="{{ article.summary|striptags|escape }}" />
+    <meta name="keywords" content="{{ article.tags|join(', ')|escape }}">
+    {% include "include/og_article.html" %}
+{% endblock meta%}
+
+{% block title %}
+    {{ article.title|striptags|escape }} &ndash; {{ SITENAME }}
+{% endblock title %}
+
+{% block header %}
+	<div class="container">
+		<h3 id="{{ article.slug }}">{{ article.title }}</h3>
+		<p style="font-size:larger;">{{ article.summary }}</p>
+        <div class="row mx-auto mt-3">
+            <div class="col-xs-12 col-sm-12 col-md-6 text-left" style="padding: 0">
+                <a href="{{ SITEURL }}/{{ article.author.url }}" class="card-link">{{ article.author }}</a>
+                <span class="card-link text-success">
+                    <span class="post-date" title="Post date">{{ article.locale_date }}</span>
+                    <span class="text-info modified-date" title="Updated date">
+                        {% if article.modified %}
+                            {{ article.locale_modified }}
+                        {% else %}
+                            {{ article.locale_date }}
+                        {% endif %}
+                    </span>
+                </span>
+                {% if article.stats %}
+                    <span class="card-link text-secondary" title="~{{ article.stats['wc'] }} words">{{ article.stats['read_mins'] }} mins</span>
+                {% elif article.readtime %}
+                    <span class="card-link text-secondary" title="Read time">{{ article.readtime }}</span>
+                {% endif %}
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 text-right" style="padding: 0">
+                <a class="badge badge-success" href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category|lower }}</a>
+                {% for tag in article.tags %}
+                    <a class="badge badge-info" href="{{ SITEURL }}/{{ tag.url }}">{{ tag|lower }}</a>
+                {% endfor %}
+            </div>
+        </div>
+	</div>
+{% endblock header %}
+
+{% block content %}
+    <!-- 2 columns layout -->
+    {% if article.toc == 'show' %}
+        <div class="row">
+            <div class="col-xs-12 col-sm-12 col-md-10">
+                {% block add_this %}
+                {# remove ADD_THIS in content, move to inner column #}
+                {% endblock add_this %}
+
+                <!-- Sharing -->
+                {% if ADD_THIS_ID and (page_name or page or article) %}
+                    <div class="text-right mb-2 small" style="height: 26px">
+                        <div class="addthis_inline_share_toolbox"></div>
+                    </div>
+                {% endif %}
+
+                <!-- Article -->
+                {{ article.content }}
+
+                <!-- Neighbors -->
+                {% if article.prev_article or article.next_article %}
+                    <br>
+                    <b>Read more:</b><br>
+                    {% include "include/neighbors.html" %}
+                {% endif %}
+
+                <!-- Google Adsense -->
+                {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.sidebar %}
+                    <br>
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- ad-sidebar -->
+                    <ins class="adsbygoogle"
+                         style="display:block"
+                         data-ad-client="{{ GOOGLE_ADSENSE.id }}"
+                         data-ad-slot="{{ GOOGLE_ADSENSE.ads.sidebar }}"
+                         data-ad-format="auto"
+                         data-full-width-responsive="true"></ins>
+                    <script>
+                         (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                {% endif %}
+            </div>
+
+            <!-- Sidebar -->
+            <div class="col-md-2 d-none d-md-block small">
+                <div class="sticky-top">
+                    <!-- ToC -->
+                    <nav id="toc" data-toggle="toc" ></nav>
+
+                    <!-- Share post -->
+                    {% if SHARE_POST and article.share_post and article.status != 'draft' %}
+                    <hr>
+                    <div id="post-share-links">
+                        <p>Share on:</p>
+                        <a class="mx-auto" href="{{article.share_post['twitter']}}" target="_blank" title="Share on Twitter">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.066 9.645c.183 4.04-2.83 8.544-8.164 8.544-1.622 0-3.131-.476-4.402-1.291 1.524.18 3.045-.244 4.252-1.189-1.256-.023-2.317-.854-2.684-1.995.451.086.895.061 1.298-.049-1.381-.278-2.335-1.522-2.304-2.853.388.215.83.344 1.301.359-1.279-.855-1.641-2.544-.889-3.835 1.416 1.738 3.533 2.881 5.92 3.001-.419-1.796.944-3.527 2.799-3.527.825 0 1.572.349 2.096.907.654-.128 1.27-.368 1.824-.697-.215.671-.67 1.233-1.263 1.589.581-.07 1.135-.224 1.649-.453-.384.578-.87 1.084-1.433 1.489z" fill="currentColor"></path>
+                            </svg>
+                        </a>
+                        <a class="mx-auto" href="{{article.share_post['facebook']}}" target="_blank" title="Share on Facebook">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z" fill="currentColor"></path>
+                            </svg>
+                        </a>
+                        <a class="mx-auto" href="{{article.share_post['linkedin']}}" target="_blank" title="Share on LinkedIn">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 16h-2v-6h2v6zm-1-6.891c-.607 0-1.1-.496-1.1-1.109 0-.612.492-1.109 1.1-1.109s1.1.497 1.1 1.109c0 .613-.493 1.109-1.1 1.109zm8 6.891h-1.998v-2.861c0-1.881-2.002-1.722-2.002 0v2.861h-2v-6h2v1.093c.872-1.616 4-1.736 4 1.548v3.359z" fill="currentColor"></path>
+                            </svg>
+                        </a>
+                    </div>
+                    {% endif %}
+
+                    <!-- Google Adsense -->
+                    {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.sidebar %}
+                        <br>
+                        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                        <!-- ad-sidebar -->
+                        <ins class="adsbygoogle"
+                             style="display:block"
+                             data-ad-client="{{ GOOGLE_ADSENSE.id }}"
+                             data-ad-slot="{{ GOOGLE_ADSENSE.ads.sidebar }}"
+                             data-ad-format="auto"
+                             data-full-width-responsive="true"></ins>
+                        <script>
+                             (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    {% else %}
+    <!-- single column layout -->
+        <!-- Sharing -->
+        {% if ADD_THIS_ID and (page_name or page or article) %}
+            <div class="text-right mb-2 small" style="height: 26px">
+                <div class="addthis_inline_share_toolbox"></div>
+            </div>
+        {% endif %}
+
+        <!-- Share post -->
+        {% if SHARE_POST and article.share_post and article.status != 'draft' %}
+        <div id="post-share-links" class="text-right mb-2">
+            Share on: 
+            <a href="{{article.share_post['twitter']}}" target="_blank" title="Share on Twitter">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm6.066 9.645c.183 4.04-2.83 8.544-8.164 8.544-1.622 0-3.131-.476-4.402-1.291 1.524.18 3.045-.244 4.252-1.189-1.256-.023-2.317-.854-2.684-1.995.451.086.895.061 1.298-.049-1.381-.278-2.335-1.522-2.304-2.853.388.215.83.344 1.301.359-1.279-.855-1.641-2.544-.889-3.835 1.416 1.738 3.533 2.881 5.92 3.001-.419-1.796.944-3.527 2.799-3.527.825 0 1.572.349 2.096.907.654-.128 1.27-.368 1.824-.697-.215.671-.67 1.233-1.263 1.589.581-.07 1.135-.224 1.649-.453-.384.578-.87 1.084-1.433 1.489z" fill="currentColor"></path>
+                </svg>
+            </a>
+            <a href="{{article.share_post['facebook']}}" target="_blank" title="Share on Facebook">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm3 8h-1.35c-.538 0-.65.221-.65.778v1.222h2l-.209 2h-1.791v7h-3v-7h-2v-2h2v-2.308c0-1.769.931-2.692 3.029-2.692h1.971v3z" fill="currentColor"></path>
+                </svg>
+            </a>
+            <a href="{{article.share_post['linkedin']}}" target="_blank" title="Share on LinkedIn">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                    <path d="M12 0c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm-2 16h-2v-6h2v6zm-1-6.891c-.607 0-1.1-.496-1.1-1.109 0-.612.492-1.109 1.1-1.109s1.1.497 1.1 1.109c0 .613-.493 1.109-1.1 1.109zm8 6.891h-1.998v-2.861c0-1.881-2.002-1.722-2.002 0v2.861h-2v-6h2v1.093c.872-1.616 4-1.736 4 1.548v3.359z" fill="currentColor"></path>
+                </svg>
+            </a>
+        </div>
+        {% endif %}
+
+        <!-- Article -->
+        <div>
+            {{ article.content }}
+        </div>
+
+        <!-- Neighbors -->
+        {% if article.prev_article or article.next_article %}
+            <br>
+            <b>Read more:</b><br>
+            {% include "include/neighbors.html" %}
+        {% endif %}
+
+        <!-- Google Adsense -->
+        {% if GOOGLE_ADSENSE and GOOGLE_ADSENSE.ads.article %}
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+            <!-- ad-home -->
+            <ins class="adsbygoogle"
+                 style="display:block"
+                 data-ad-client="{{ GOOGLE_ADSENSE.id }}"
+                 data-ad-slot="{{ GOOGLE_ADSENSE.ads.article }}"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+        {% endif %}
+    {% endif %}
+
+    <!-- Releated posts -->
+    {% if article.related_posts %}
+        <hr>
+        <div>
+            <h5>Related posts:</h5>
+            <ul>
+            {% for related_post in article.related_posts %}
+                <li><a href="{{ SITEURL }}/{{ related_post.url }}">{{ related_post.title }}</a></li>
+            {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+
+    <!-- Comments -->
+    {% if DISQUS_SITENAME %}
+        <hr>
+        {% include "include/disqus.html" %}
+    {% endif %}
+{% endblock content %}
