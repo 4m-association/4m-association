@@ -1,5 +1,9 @@
 name: Pelican
-on: [pull_request]
+on: 
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 jobs:
   Build-Pelican-Site:
     runs-on: ubuntu-latest
