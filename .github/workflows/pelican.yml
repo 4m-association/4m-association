@@ -21,11 +21,10 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: Install pelican files
         run: |
-          python -m pip install "pelican[markdown]"
+          python -m pip install "pelican[markdown]"==4.6.0
           python -m pip install webassets
           python -m pip install --upgrade jinja2
-          python -m pip install ghp-import==0.2.2
-          python -m pip install python-gettext
+          python -m pip install ghp-import==0.2.2          
       - name: Clone pelican-plugins
         run: |
           git clone --recursive https://github.com/getpelican/pelican-plugins
