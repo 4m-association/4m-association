@@ -24,7 +24,8 @@ jobs:
           python -m pip install "pelican[markdown]"==4.6.0
           python -m pip install webassets
           python -m pip install --upgrade jinja2
-          python -m pip install ghp-import==0.2.2          
+          python -m pip install ghp-import==0.2.2 
+          python -m pip install i18n_subsites
       - name: Clone pelican-plugins
         run: |
           git clone --recursive https://github.com/getpelican/pelican-plugins
