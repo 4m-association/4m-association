@@ -31,7 +31,8 @@ jobs:
           git clone --recursive https://github.com/getpelican/pelican-plugins
       - name: Build site
         run: |
-          LOCALE=C pelican content -o output -s pelicanconf.py
+          locale -a
+          pelican content -o output -s pelicanconf.py
       - name: Print contents of the pelican-plugins dir
         run: |
           ls pelican-plugins
