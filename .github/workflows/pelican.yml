@@ -35,7 +35,7 @@ jobs:
           git clone --recursive https://github.com/getpelican/pelican-plugins
       - name: Build site
         run: |
-          pelican content -o output -s pelicanconf.py
+          pelican -v content -o output -s pelicanconf.py
       - name: Print contents of the pelican-plugins dir
         run: |
           ls pelican-plugins
