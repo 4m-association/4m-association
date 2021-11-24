@@ -10,7 +10,7 @@ This is a web application for the 4M Association. It is developed and managed at
 
 ## Authors
 
-* **Cerys Lewis** - on behalf of the [College of Arts and Law](https://www.birmingham.ac.uk/university/colleges/artslaw/index.aspx) and the [Research Software Group](http://www.birmingham.ac.uk/bear-software) at the [University of Birmingham](https://www.birmingham.ac.uk/)
+* **Cerys Lewis** - on behalf of the [Research Software Group](http://www.birmingham.ac.uk/bear-software) at the [University of Birmingham](https://www.birmingham.ac.uk/)
 
 ## License
 
