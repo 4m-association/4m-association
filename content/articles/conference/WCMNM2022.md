@@ -36,7 +36,8 @@ Herestraat 49, 3000 Leuven
 KU Leuven
 
 The Katholieke Universiteit Leuven (briefly known as KU) is the oldest university, established in 1425, in Belgium. For almost six centuries, KU has been a center of learning. Known to be a leading European research university & co-founder of the League of European Research Universities, KU’s programs are supported by high-quality research to ensure that students get an innovative, up-to-date & evolving experience.
-g scr="/4m-association/content/images/Leuven.jpg" alt="Leuven"/>
+
+<img scr="/4m-association/content/images/Leuven 2.jpg" alt="Leuven"/>
 	
 
 ##  Important Dates
