@@ -6,7 +6,7 @@ tags: conference, home
 	
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 	
-<img scr="/4m-association/content/images/Leuven.jpg" alt="Leuven" />
+<img scr="/4m-association/content/images/Leuven.jpg" alt="Leuven"/>
 	
 ##  Congress Chair
 	
@@ -31,8 +31,12 @@ Dominiek Reynaerts, KU Leuven, Belgium
 
 ##  Venue
 	
+<strong>Campus Gasthuisberg, School of Medicine of KU Leuven</strong>
+Herestraat 49, 3000 Leuven
+KU Leuven
 
-Leuven
+The Katholieke Universiteit Leuven (briefly known as KU) is the oldest university, established in 1425, in Belgium. For almost six centuries, KU has been a center of learning. Known to be a leading European research university & co-founder of the League of European Research Universities, KU’s programs are supported by high-quality research to ensure that students get an innovative, up-to-date & evolving experience.
+g scr="/4m-association/content/images/Leuven.jpg" alt="Leuven"/>
 	
 
 ##  Important Dates
