@@ -2,13 +2,11 @@ title: WCMNM2022
 date: 2021-11-30
 tags: conference, home
 
-
 ## World Congress on Micro and Nano Manufacturing
 	
-
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 	
-<img scr="/4m-association/content/images/Leuven.jpg" alt="Leuven"/>
+<img scr="/4m-association/content/images/Leuven.jpg" alt="Leuven" />
 	
 ##  Congress Chair
 	
@@ -44,32 +42,27 @@ The main congress programme takes place from the <strong>19th to the 22d of Sept
 	
 
 
-##  Congress Theme
-	
+##  Congress Theme	
 
 <ul>
-<li>Micro fabrication technologies, process chains and process characterisatio</li>
-<li>Miniaturization of machines and equipment; positioning, motion generation, sensors systems, and control</li>
-	 <li>Novel product designs, micro-assembly technologies and micro-handling</li>
-	 <li>Surface engineering and interface nanotechnology</li>
-         <li>Process modelling and simulation</li>
-	 <li>Processing and characterization of smart materials, energy materials, metamaterials and nanomaterials</li>
-	 <li>Micro and nano additive, subtractive, joining, and hybrid manufacturing technologies</li>
-	 <li>Micro and desktop factory concepts, systems, components and module</li>
-	 <li>On-line monitoring and inspection systems/method</li>
-	 <li>Standardization in micro manufacturing and micro factorie</li>
-         <li>Applications of micro and nano technologies</li>
-         <li>Emerging micro manufacturing methods and equipment, including those that bridge the nano- and macro- worlds</li>
-         <li>Biomanufacturing and biomedical devices</li>
-	</ul>
+	<li>Micro fabrication technologies, process chains and process characterisatio</li>
+	<li>Miniaturization of machines and equipment; positioning, motion generation, sensors systems, and control</li>
+	<li>Novel product designs, micro-assembly technologies and micro-handling</li>
+	<li>Surface engineering and interface nanotechnology</li>
+	<li>Process modelling and simulation</li>
+	<li>Processing and characterization of smart materials, energy materials, metamaterials and nanomaterials</li>
+	<li>Micro and nano additive, subtractive, joining, and hybrid manufacturing technologies</li>
+	<li>Micro and desktop factory concepts, systems, components and module</li>
+	<li>On-line monitoring and inspection systems/method</li>
+	<li>Standardization in micro manufacturing and micro factorie</li>
+	<li>Applications of micro and nano technologies</li>
+	<li>Emerging micro manufacturing methods and equipment, including those that bridge the nano- and macro- worlds</li>
+	<li>Biomanufacturing and biomedical devices</li>
+</ul>
 	 
 ##  Contact Us
 	
-
-	
-
 For further information on:
-	
 
 - sponsorship
 - registration
@@ -77,4 +70,4 @@ For further information on:
 	
 
 	 
-Contact: <a href="mailto:a.svetozarova@bham.ac.uk">Ms Adriana Svetozarova.</strong></a>
+Contact: <strong><a href="mailto:a.svetozarova@bham.ac.uk">Ms Adriana Svetozarova.</a></strong>
