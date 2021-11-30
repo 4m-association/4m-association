@@ -1,3 +1,7 @@
+title: WCMNM2022 
+date: 2021-11-30 
+tags: conference, home
+
 
 ## World Congress on Micro and Nano Manufacturing
 	
