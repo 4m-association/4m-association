@@ -77,6 +77,7 @@ FORMATTED_FIELDS = ['summary', 'title']
 USE_PAGER = True  # Prev / Next vs Page no block
 ARTICLE_EXCLUDES = ['templates']
 TEMPLATE_PAGES = {
+    'templates/homepage.html': 'index.html',
     'templates/bulletin.html': 'bulletin/index.html',
     'templates/conference-series.html': 'conference/index.html',
 
