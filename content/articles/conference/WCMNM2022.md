@@ -1,12 +1,11 @@
-title: WCMNM2022
-date: 2021-11-30
-tags: conference, home
 
 ## World Congress on Micro and Nano Manufacturing
 	
+<strong>19-22 September 2022</strong>
+
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 	
-<img scr="/4m-association/content/images/Leuven.jpg" alt="Leuven"/>
+<img src="/4m-association/content/images/Leuven.jpg" width="100%"/>
 <img src="/4m-association/images/slovenia_image.png" width="100%">
 	
 ##  Congress Chair
@@ -38,7 +37,7 @@ KU Leuven
 
 The Katholieke Universiteit Leuven (briefly known as KU) is the oldest university, established in 1425, in Belgium. For almost six centuries, KU has been a center of learning. Known to be a leading European research university & co-founder of the League of European Research Universities, KU’s programs are supported by high-quality research to ensure that students get an innovative, up-to-date & evolving experience.
 
-<img scr="/4m-association/content/images/Leuven 2.jpg" alt="Leuven"/>
+<img src="/4m-association/content/images/Leuven 2.jpg" alt="Leuven"/>
 	
 
 ##  Important Dates
