@@ -10,7 +10,7 @@ tags: conference, home
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 	
 <img src="/4m-association/images/Leuven.jpg" width="100%">
-<img src="/4m-association/images/slovenia_image.png" width="100%">
+
 	
 ##  Congress Chair
 	
