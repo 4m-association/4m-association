@@ -1,5 +1,5 @@
 title: Call for Papers 2022
-date: 2018-02-03
+date: 2022-01-05
  
 ### Deadline Extended: 8th of April 2018
 
