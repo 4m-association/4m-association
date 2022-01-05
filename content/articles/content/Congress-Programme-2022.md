@@ -1,5 +1,5 @@
 title: Congress Programme 2022
-date: 2018-08-01  
+date: 2022-01-05  
 
 **A reception is available on the evening of the 9th September at the congress venue.**
 
