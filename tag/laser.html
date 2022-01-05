@@ -453,7 +453,10 @@ $(document).ready(function() {
         console.log('year: 2020');
         $(".conference-2020").show();
     }
-
+    if(url.indexOf('/conference/WCMNM2022') > -1) {
+        console.log('year: 2022');
+        $(".conference-2022").show();
+    }
     $("table").addClass("table-responsive").addClass("table-striped");
 
     var w = $(window).width();
