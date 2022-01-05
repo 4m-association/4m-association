@@ -49,6 +49,7 @@ Leuven is the capital and largest city of the province of Flemish Brabant in the
 	
 
 The main congress programme takes place from the <strong>19th to the 22d of September 2022</strong>
+Submission deadline for full papers: <strong>30th of April 2022</strong>                       
 	
 
 
