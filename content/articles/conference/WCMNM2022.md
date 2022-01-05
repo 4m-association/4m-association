@@ -41,8 +41,7 @@ KU Leuven
 
 The Katholieke Universiteit Leuven (briefly known as KU) is the oldest university, established in 1425, in Belgium. For almost six centuries, KU has been a center of learning. Known to be a leading European research university & co-founder of the League of European Research Universities, KU’s programs are supported by high-quality research to ensure that students get an innovative, up-to-date & evolving experience.
 
-<img src="/4m-association/images/O&N.jpg" width="100%"/>
-<img src="/4m-association/images/leuven-pic3.jpg" width="100%"> 
+<img src="/4m-association/images/leuven-pic3.jpg" width="80%"> 
 
 Leuven is the capital and largest city of the province of Flemish Brabant in the Flemish Region of Belgium. It is located about 25 kilometres (16 miles) east of Brussels.  With its historic centre Leuven is one of the most beautiful and atmospheric towns in Belgium.	
 
