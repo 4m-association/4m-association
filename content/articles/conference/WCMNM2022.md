@@ -9,7 +9,7 @@ tags: conference, home
 
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
 	
-<img src="/4m-association/content/images/leuven-pic.jpg" width="100%"> 
+<img src="/4m-association/images/leuven-pic2.jpg" width="100%"> 
 	
 ##  Congress Chair
 	
@@ -40,7 +40,7 @@ KU Leuven
 
 The Katholieke Universiteit Leuven (briefly known as KU) is the oldest university, established in 1425, in Belgium. For almost six centuries, KU has been a center of learning. Known to be a leading European research university & co-founder of the League of European Research Universities, KU’s programs are supported by high-quality research to ensure that students get an innovative, up-to-date & evolving experience.
 
-<img src="/4m-association/content/images/O&N.jpg" width="100%"/>
+<img src="/4m-association/images/O&N.jpg" width="100%"/>
 	
 Leuven is the capital and largest city of the province of Flemish Brabant in the Flemish Region of Belgium. It is located about 25 kilometres (16 miles) east of Brussels.  With its historic centre Leuven is one of the most beautiful and atmospheric towns in Belgium.	
 
