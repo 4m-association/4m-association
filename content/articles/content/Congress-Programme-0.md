@@ -7,3 +7,6 @@ The main congress programme starts with the registration at 8:30 on the 10th Sep
 
 
 Kindly download the detailed programme from the link below.
+| Attachment | Size |
+|---|---|
+| <a href="/4m-association/files/Detailed Programme.pdf">Detailed Programme.pdf</a> | 815 KB |
