@@ -11,6 +11,8 @@ Jointly organised by the 4M Association, the International Institution for Micro
 	
 <img src="/4m-association/images/leuven-pic2.jpg" width="100%"> 
 
+Due to the ongoing <strong>Covid-19</strong> pandemic the format of the conference will be announced in due course.
+
 	
 ##  Congress Chair
 	
