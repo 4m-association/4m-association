@@ -7,7 +7,7 @@ tags: conference, home
 	
 <strong>19-22 September 2022</strong>
 
-Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM)
+Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM),  the Congress hopes to bring together the worldwide community of micro- & nano-manufacturing experts."
 	
 <img src="/4m-association/images/leuven-pic2.jpg" width="100%"> 
 
@@ -24,11 +24,11 @@ Sylvie Castagne, KU Leuven, Belgium
 
 	
 
-Stefan Dimov, University of Birmingham, UK [4M]
+Stefan Dimov, University of Birmingham, UK 
   
-Lawrence Kulinsky, University of California, Irvine, USA [I2M2]
+Lawrence Kulinsky, University of California, Irvine, USA 
   
-Kuniaki Dohda, Northwestern University, USA [IFMM]
+Kuniaki Dohda, Northwestern University, USA 
  
 Dominiek Reynaerts, KU Leuven, Belgium
 
@@ -37,15 +37,14 @@ Dominiek Reynaerts, KU Leuven, Belgium
 
 ##  Venue
 	
-<strong>Campus Gasthuisberg, School of Medicine of KU Leuven</strong>
+<strong>Campus Gasthuisberg, KU Leuven</strong>
 Herestraat 49, 3000 Leuven
 KU Leuven
 
-The Katholieke Universiteit Leuven (briefly known as KU) is the oldest university, established in 1425, in Belgium. For almost six centuries, KU has been a center of learning. Known to be a leading European research university & co-founder of the League of European Research Universities, KU’s programs are supported by high-quality research to ensure that students get an innovative, up-to-date & evolving experience.
 
 <img src="/4m-association/images/leuven-pic3.jpg" width="100%"> 
 
-Leuven is the capital and largest city of the province of Flemish Brabant in the Flemish Region of Belgium. It is located about 25 kilometres (16 miles) east of Brussels.  With its historic centre Leuven is one of the most beautiful and atmospheric towns in Belgium.	
+Leuven is the largest city of the province of Flemish Brabant in the Flemish Region of Belgium. It is located about 25 kilometres (16 miles) east of Brussels.  With its historic centre Leuven is one of the most beautiful and atmospheric towns in Belgium.	
 
 ##  Important Dates
 	
@@ -59,19 +58,20 @@ Submission deadline for full papers: <strong>30th of April 2022</strong>
 ##  Congress Theme	
 
 <ul>
-	<li>Micro fabrication technologies, process chains and process characterisatio</li>
+	<li>Micro fabrication technologies, process chains and process characterisation</li>
 	<li>Miniaturization of machines and equipment; positioning, motion generation, sensors systems, and control</li>
 	<li>Novel product designs, micro-assembly technologies and micro-handling</li>
 	<li>Surface engineering and interface nanotechnology</li>
 	<li>Process modelling and simulation</li>
 	<li>Processing and characterization of smart materials, energy materials, metamaterials and nanomaterials</li>
 	<li>Micro and nano additive, subtractive, joining, and hybrid manufacturing technologies</li>
-	<li>Micro and desktop factory concepts, systems, components and module</li>
-	<li>On-line monitoring and inspection systems/method</li>
-	<li>Standardization in micro manufacturing and micro factorie</li>
+	<li>Micro and desktop factory concepts, systems, components and modules</li>
+	<li>On-line monitoring and inspection systems, and smart manufacturing /method</li>
+	<li>Standardization in micro manufacturing and micro factories</li>
 	<li>Applications of micro and nano technologies</li>
 	<li>Emerging micro manufacturing methods and equipment, including those that bridge the nano- and macro- worlds</li>
 	<li>Biomanufacturing and biomedical devices</li>
+
 </ul>
 	 
 ##  Contact Us
