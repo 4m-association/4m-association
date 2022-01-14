@@ -14,4 +14,4 @@ This is a web application for the 4M Association. It is developed and managed at
 
 ## License
 
-See the [LICENSE.md](LICENSE.md) file for details
+See the [LICENSE.md](./LICENSE.md) file for details
