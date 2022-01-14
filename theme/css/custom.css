@@ -110,5 +110,8 @@ h1 a:hover {
 .well-lg {
 	padding: 8px 24px 24px 24px;
 	border-radius: 8px;
+}
+
+#sidebar aside section {
 	word-break: keep-all;
 }
