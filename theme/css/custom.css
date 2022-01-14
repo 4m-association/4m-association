@@ -52,7 +52,7 @@ h1 a:hover {
     color: #e94b0c;
 }
 .navbar-default .navbar-nav > li:active > a {
-    background: #fff;
+    bacgkround: #fff;
 }
 
 .navbar {
