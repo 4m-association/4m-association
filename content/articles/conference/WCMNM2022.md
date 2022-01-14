@@ -9,7 +9,7 @@ tags: conference, home
 
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM),  the Congress hopes to bring together the worldwide community of micro- & nano-manufacturing experts."
 	
-<img src="/4m-association/images/leuven-pic2.jpg" width="100%"> 
+<img src="/images/leuven-pic2.jpg" width="100%"> 
 
 Due to the ongoing <strong>Covid-19</strong> pandemic the format of the conference will be announced in due course.
 
@@ -42,7 +42,7 @@ Herestraat 49, 3000 Leuven
 KU Leuven
 
 
-<img src="/4m-association/images/leuven-pic3.jpg" width="100%"> 
+<img src="/images/leuven-pic3.jpg" width="100%"> 
 
 Leuven is the largest city of the province of Flemish Brabant in the Flemish Region of Belgium. It is located about 25 kilometres (16 miles) east of Brussels.  With its historic centre Leuven is one of the most beautiful and atmospheric towns in Belgium.	
 
