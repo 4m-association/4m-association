@@ -9,4 +9,4 @@ See the [event website](http://www.4spe.org/conferences/spe-european-conference-
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/SPE European Medical Polymers Conference 2010.pdf">SPE European Medical Polymers Conference 2010.pdf</a> | 490.65 KB |
+| <a href="/files/SPE European Medical Polymers Conference 2010.pdf">SPE European Medical Polymers Conference 2010.pdf</a> | 490.65 KB |

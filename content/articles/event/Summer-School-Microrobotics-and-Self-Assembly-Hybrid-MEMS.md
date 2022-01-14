@@ -43,5 +43,5 @@ More information is available on the website and you can download a flyer by cli
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/flyer-summer-school.pdf">flyer-summer-school.pdf</a> | 422.8 KB |
+|<a href="/files/flyer-summer-school.pdf">flyer-summer-school.pdf</a> | 422.8 KB |
 

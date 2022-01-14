@@ -21,7 +21,7 @@ At least one of the following criteria must be met to obtain an invitation lette
 
 
 
-**IMPORTANT:** Current 4M and I2M2 Members can register at a special rate, details below. For a list of current members, click [here>>](/4m-association/members). Students are also eligible for the discount but must provide evidence.  If you are not a member or a student then you are not eligible for the 4M/I2M2 discounts.
+**IMPORTANT:** Current 4M and I2M2 Members can register at a special rate, details below. For a list of current members, click [here>>](/members). Students are also eligible for the discount but must provide evidence.  If you are not a member or a student then you are not eligible for the 4M/I2M2 discounts.
  
 Those who are not 4M or I2M2 members are not eligible for the 4M or I2M2 discount. 
 
@@ -51,7 +51,7 @@ Late payers for I2M2 members: **£580**
 Late payers for non-members: **£650**
 
 Those who are not 4M or I2M2 members are not eligible for the 4M or I2M2 discount.
-Check the following link for information on 4M membership. [Joining 4M](/4m-association/join4m.html)
+Check the following link for information on 4M membership. [Joining 4M](/join4m.html)
 
 
 The conference fees (in GBP) include printed proceedings, lunches, refreshments, and conference dinner.

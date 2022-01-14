@@ -10,7 +10,7 @@ Pontstr. 55, 52062 Aachen, Germany
 <!--break-->
 **Biography**
 
-![Christian Hopmann](/4m-association/images/profile_hopmann.jpg)
+![Christian Hopmann](/images/profile_hopmann.jpg)
 
 Christian Hopmann, born 1968, studied Mechanical Engineering with particular focus on Plastics Processing at RWTH Aachen, Germany. Following his diploma 1996, he received his doctoral  degree (Dr.-Ing.) with a thesis on Ceramic Injection Moulding supervised by Professor Dr.-Ing. Dr.-Ing. E.h. Walter Michaeli in 2000. He was research fellow at the Institute of Plastics Processing (IKV) at RWTH Aachen, Germany, 1996 to 1999 and head of its department of Part Design/Materials Technology in 2000. From 2001 to 2004 he was Chief Engineer and Senior Vice Director of the institute.
 

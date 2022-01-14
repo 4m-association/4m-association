@@ -8,4 +8,4 @@ Full details for this position, which is available from 1st September 2009, can 
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/MCF-1176-GMP.pdf">MCF-1176-GMP.pdf</a> | 65.44 KB |
+| <a href="/files/MCF-1176-GMP.pdf">MCF-1176-GMP.pdf</a> | 65.44 KB |

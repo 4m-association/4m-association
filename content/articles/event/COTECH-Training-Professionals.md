@@ -13,4 +13,4 @@ This free seminar, with a stimulating programme (see below) that brings you the 
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/2nd Micro-Nano Moulding Workshop @ Stuttgart V3.doc</a> | 31.5 KB |
+|<a href="/files/2nd Micro-Nano Moulding Workshop @ Stuttgart V3.doc</a> | 31.5 KB |

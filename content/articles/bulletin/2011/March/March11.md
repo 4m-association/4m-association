@@ -3,26 +3,26 @@ date: 2011-03-02
 tags: bulletin, home
 
 
-![4m bulletin](/4m-association/images/4mbulletin168.png)
+![4m bulletin](/images/4mbulletin168.png)
 
 <!--break-->
 ###  4M 2011 - Stuttgart, Germany, 8-10th November
 
 
-![4M2011](/4m-association/images/4m-2011_web1.jpg)
-The 4M2011 [submission site](/4m-association/conference/2011/Submission_Guidelines) is now **OPEN**. The **deadline for submission of full (4-page) papers** is **8th April 2011.** The Call for Papers for the 4M2011 Conference is published and available to [download from the conference webpages.](/4m-association/conference/2011/Call_for_Papers) Please distribute the Call for Papers to all those who may be interested to enable our conference to continue to grow.   
+![4M2011](/images/4m-2011_web1.jpg)
+The 4M2011 [submission site](/conference/2011/Submission_Guidelines) is now **OPEN**. The **deadline for submission of full (4-page) papers** is **8th April 2011.** The Call for Papers for the 4M2011 Conference is published and available to [download from the conference webpages.](/conference/2011/Call_for_Papers) Please distribute the Call for Papers to all those who may be interested to enable our conference to continue to grow.   
      
 ###  Michaeli's successor at IKV named
 
-University Professor Dr.-Ing. Christian Hopmann is to become [new head of the Institute](/4m-association/content/Michaelis-successor-IKV-named/Michaelis-successor-IKV-named.html) of Plastics Processing (IKV).
+University Professor Dr.-Ing. Christian Hopmann is to become [new head of the Institute](/content/Michaelis-successor-IKV-named/Michaelis-successor-IKV-named.html) of Plastics Processing (IKV).
    
 ###  MEMS makers: machinists who work in silicon
 
-Interesting article [here](/4m-association/content/MEMS-makers-machinists-who-work-silicon/MEMS-makers-machinists-who-work-silicon.html) published in the latest edition of Micromanufacturing magazine.
+Interesting article [here](/content/MEMS-makers-machinists-who-work-silicon/MEMS-makers-machinists-who-work-silicon.html) published in the latest edition of Micromanufacturing magazine.
 
 ###  Christine Neuy joins MST BW
 
-MST BW (Mikrosystemtechnik Baden-Württemberg) have announced that [Christine Neuy has joined their team.](/4m-association/content/Christine-Neuy-joins-MST-BW/Christine-Neuy-joins-MST-BW.html)
+MST BW (Mikrosystemtechnik Baden-Württemberg) have announced that [Christine Neuy has joined their team.](/content/Christine-Neuy-joins-MST-BW/Christine-Neuy-joins-MST-BW.html)
   
 ###  I2M2
 
@@ -34,11 +34,11 @@ The publishers of Commercial Micro Manufacturing (CMM) are proud to announce [th
   
 ###  POLYNET uses Youtube for dissemination
 
-The Polynet Project has [posted a video](/4m-association/content/POLYNET-uses-YouTube-platform-dissemination/POLYNET-uses-YouTube-platform-dissemination.html) which illustrates its project outcomes on Youtube..html
+The Polynet Project has [posted a video](/content/POLYNET-uses-YouTube-platform-dissemination/POLYNET-uses-YouTube-platform-dissemination.html) which illustrates its project outcomes on Youtube..html
   
 ###  EUMINAfab opens 4th Call
 
-EUMINAfab opens the [4th Call](/4m-association/content/EUMINAfab-opens-4th-Call/EUMINAfab-opens-4th-Call.html) for no fee access to 36 installations containing equipment to high end micro and nano technologies.  .html
+EUMINAfab opens the [4th Call](/content/EUMINAfab-opens-4th-Call/EUMINAfab-opens-4th-Call.html) for no fee access to 36 installations containing equipment to high end micro and nano technologies.  .html
   
 ###  EUMINAfab launches online survey
 
@@ -47,7 +47,7 @@ EUMINAfab’s roadmapping team has identified two “Hot Topics”. They have la
   
 ###  Training Courses in Microsystems
 
-![FSRM](/4m-association/images/fsrm_logo_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses/fsrm-training-courses.html)
+![FSRM](/images/fsrm_logo_web.gif)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
 
-[&larr; Bulletins](/4m-association/bulletin/index.html)
+[&larr; Bulletins](/bulletin/index.html)

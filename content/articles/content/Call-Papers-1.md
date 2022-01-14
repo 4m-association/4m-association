@@ -7,4 +7,4 @@ Kindly download the call for papers in the attachment below, it contains all the
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/Fourth Call for Papers WCMNM 2018.pdf">Fourth Call for Papers WCMNM 2018.pdf</a> | 450.07 KB KB |
+|<a href="/files/Fourth Call for Papers WCMNM 2018.pdf">Fourth Call for Papers WCMNM 2018.pdf</a> | 450.07 KB KB |

@@ -3,12 +3,12 @@ date: 2018-08-29
 tags: bulletin, home
 
 
-![4m bulletin](/4m-association/images/4mbulletin168.png)
+![4m bulletin](/images/4mbulletin168.png)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/41HDjl55CwL._SX327_BO1,204,203,200_.jpg" width="100%">
 
 
-<img src="/4m-association/images/micro_molding_book_hanser_com_(2018).png" width="100%">
+<img src="/images/micro_molding_book_hanser_com_(2018).png" width="100%">
 
 
 The 4M Association is delighted to announce the publication of the book **'Micro Injection Molding'** by fellow 4M member Guido Tosello. For more details, click on one of the links below:
@@ -26,6 +26,6 @@ The book provides a comprehensive, up-to-date and detailed treatment of the main
 
 **Micro Injection Molding** is available to buy on [Amazon](https://www.amazon.co.uk/Micro-Injection-Molding-Tosello-author/dp/156990653X) !
 
-[&larr; Bulletins](/4m-association/bulletin/index.html)
+[&larr; Bulletins](/bulletin/index.html)
 
 

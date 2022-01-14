@@ -5,7 +5,7 @@ date: 2018-07-10
 
 Please note, that 4M Membership is Annual (1st January to 30th April). Requests will be sent out each year to ask whether you want to renew your membership for yourself, or your organisation.
 
-For membership benefits, please <a href="/4m-association/join4m.html">click here>></a> 
+For membership benefits, please <a href="/join4m.html">click here>></a> 
 
 ### SME/Research Organisations
 
@@ -34,4 +34,4 @@ List available in the attached document.
 	
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/I2M2 Members - 2017_2018.pdf">I2M2 Members - 2017_2018.pdf</a> | 512.37 KB |
+|<a href="/files/I2M2 Members - 2017_2018.pdf">I2M2 Members - 2017_2018.pdf</a> | 512.37 KB |

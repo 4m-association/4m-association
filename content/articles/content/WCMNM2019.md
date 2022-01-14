@@ -29,7 +29,7 @@ Late registration for students: **$530**
     <li>I2M2, 4M, IFMM members can receive discount codes from the chair of their institution.</li>
 </ul>    
 
-_Note: For a 4M discount please see the following link with information on 4M membership. [Joining 4M](/4m-association/join4m.html)_
+_Note: For a 4M discount please see the following link with information on 4M membership. [Joining 4M](/join4m.html)_
 <ul>
     <li>Students can use the discount code WCMNMSTUDENT.</li>
 </ul>

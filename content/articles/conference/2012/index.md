@@ -3,7 +3,7 @@ date: 2012-03-01
 tags: 4m-conference-series, conference, home
 slug: conference-2012-index
 
-![Vienna, Austria](/4m-association/images/wien_stephansdom_karlskirche.jpg)
+![Vienna, Austria](/images/wien_stephansdom_karlskirche.jpg)
 
 ##  Venue
 
@@ -15,4 +15,4 @@ The main conference programme takes place from 9th - 11th October 2012
   
 ##  COTECH Training for Professionals
 
-On the 8th October, the COTECH project will be holding its final [training event](/4m-association/event/Training-Professionals) at the same venue, for which you can [**REGISTER HERE**.](http://www.inscription-facile.com/events/register/pIwLKBz0jhP3wBSnZIqc)
+On the 8th October, the COTECH project will be holding its final [training event](/event/Training-Professionals) at the same venue, for which you can [**REGISTER HERE**.](http://www.inscription-facile.com/events/register/pIwLKBz0jhP3wBSnZIqc)

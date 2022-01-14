@@ -45,4 +45,4 @@ Download the call for papers by opening attachment below.
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/4M-ICOMM-2015_cfp_v3.pdf">4M-ICOMM-2015_cfp_v3.pdf</a> | 325.01 KB |
+|<a href="/files/4M-ICOMM-2015_cfp_v3.pdf">4M-ICOMM-2015_cfp_v3.pdf</a> | 325.01 KB |

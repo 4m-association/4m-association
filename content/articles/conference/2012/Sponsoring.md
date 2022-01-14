@@ -10,11 +10,11 @@ Stand out from the rest in front of more than 100 micro-manufacturing experts fr
 ##  What our Sponsors say:
 
   
-![Victoire de Margerie](/4m-association/images/photo-victoire_web.jpg)   *"Rondol are pleased to be sponsoring this year's conference. Its focus on micro-manufacturing fits well with our business and we recognise it as a valuable means of staying alert to the latest developments in various aspects of cross-sectoral research. We look forward to meeting the 4M Members and delegates in Austria."*    
+![Victoire de Margerie](/images/photo-victoire_web.jpg)   *"Rondol are pleased to be sponsoring this year's conference. Its focus on micro-manufacturing fits well with our business and we recognise it as a valuable means of staying alert to the latest developments in various aspects of cross-sectoral research. We look forward to meeting the 4M Members and delegates in Austria."*    
 
 Victoire de Margerie, [Rondol Technology Ltd.](http://www.rondol.com/)  
      
-![Angelo Quadroni at 4M2010](/4m-association/images/sarix_crop4.jpg)  *"SARIX is proud to have participated in 4M conferences for the last 7 years. The network of enthusiastic specialists in multi-material micro-manufacturing that come together in the 4M Association has been the seed of many initiatives in the field, and its events have been a source of stimuli for our activity and innovation too. We look forward to participating in this network for many more years to come."*   
+![Angelo Quadroni at 4M2010](/images/sarix_crop4.jpg)  *"SARIX is proud to have participated in 4M conferences for the last 7 years. The network of enthusiastic specialists in multi-material micro-manufacturing that come together in the 4M Association has been the seed of many initiatives in the field, and its events have been a source of stimuli for our activity and innovation too. We look forward to participating in this network for many more years to come."*   
  
 Angelo Quadroni, CEO, [SARIX SA.](http://sarix.com/)  
   

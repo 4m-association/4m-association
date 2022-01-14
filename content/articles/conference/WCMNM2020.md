@@ -14,7 +14,7 @@ The 2020 World Congress on Micro and Nano Manufacturing will take place from **2
 It is jointly organised by the International Institution for Micro Manufacturing (I2M2), the 4M Association and the International Forum on Micro Manufacturing (IFMM).
 
 
-<img src="/4m-association/images/mumbai-1.jpg" width="100%">
+<img src="/images/mumbai-1.jpg" width="100%">
 
 The Congress will take place in the **Victor Menezes Convention Centre (VMCC), IIT Bombay**.
 
@@ -81,4 +81,4 @@ or contact: <a href="mailto:wcmnm@me.iitb.ac.in"> wcmnm@me.iitb.ac.in</strong></
 For Visa invitation letter please fill up this [form>>](https://docs.google.com/forms/d/e/1FAIpQLSdrSDeIaviJ7snY6F7id-sNY1rr9xqvrgTRLWD_k_aFW_4ZYw/viewform) 
 
 
-<img src="/4m-association/images/iitb,_mumbai_1.jpg" width="100%">
+<img src="/images/iitb,_mumbai_1.jpg" width="100%">

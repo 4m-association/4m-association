@@ -15,5 +15,5 @@ For full Call for Papers, with details of how to submit, click on icon below.
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/MM 2012 Call for Papers.pdf">MM 2012 Call for Papers.pdf</a> | 435.22 KB |
+| <a href="/files/MM 2012 Call for Papers.pdf">MM 2012 Call for Papers.pdf</a> | 435.22 KB |
 	

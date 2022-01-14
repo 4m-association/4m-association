@@ -3,13 +3,13 @@ date: 2014-04-07
 tags: bulletin, home
 
 
-![4m bulletin](/4m-association/images/4mbulletin168.png)
+![4m bulletin](/images/4mbulletin168.png)
 
 4M/ICOMM2009, Ceramic Processing Handbook, Changes to Project Officer, Micropumps Workshop, PhD Award, Vacancies, Flexible Organice Electronics Conference
 <!--break-->
 ### 4M/ICOMM 2009
 
-4M/ICOMM 2009 takes place in Karlsruhe, Germany, from 23rd to 25th September 2009 and is the first joint conference organised by the teams behind the USA based International Conference on Micromanufacturing (ICOMM) and the International Conference on Multi-Material Micro-Manufacture (4M) which has its roots in Europe. The submission site to receive papers is open and the **deadline to submit is 13th February 2009.** Visit the [conference webpages](/4m-association/conference/2009 "conference webpages") for further information.
+4M/ICOMM 2009 takes place in Karlsruhe, Germany, from 23rd to 25th September 2009 and is the first joint conference organised by the teams behind the USA based International Conference on Micromanufacturing (ICOMM) and the International Conference on Multi-Material Micro-Manufacture (4M) which has its roots in Europe. The submission site to receive papers is open and the **deadline to submit is 13th February 2009.** Visit the [conference webpages](/conference/2009 "conference webpages") for further information.
 
 ### Handbook on Ceramics Processing in Microtechnology
 
@@ -26,26 +26,26 @@ Hans' successor as project officer for 4M will be Mr. Kai PETERS.
 ### Workshop on Micropumps
 
 
-With more than 50 participants, mostly from industry, this annual workshop on micropumps continues to grow. The latest, which took place in October 2008 was really very successful, and  it resulted in several follow up activities. [Report on last workshop](/4m-association/node/64 "Micropumps")
+With more than 50 participants, mostly from industry, this annual workshop on micropumps continues to grow. The latest, which took place in October 2008 was really very successful, and  it resulted in several follow up activities. [Report on last workshop](/node/64 "Micropumps")
 
 ### Best PhD in 2009
 
 
-Guido Tosello of DTU has been awarded a prize for the [Best DTU PhD Project 2008](/4m-association/node/65 "DTU Article") among all the graduates of the university for 2008. Hearty congratulations from all in 4M go to Guido for this achievement. 
+Guido Tosello of DTU has been awarded a prize for the [Best DTU PhD Project 2008](/node/65 "DTU Article") among all the graduates of the university for 2008. Hearty congratulations from all in 4M go to Guido for this achievement. 
 
 ### Vacancy for Assistant Professor
 
 
-A research position of Assistant Professor is available at Chalmers University, in the area of packaging for electronics, MEMS and bioelectronics. [Full details of the position and how to apply](/4m-association/node/59 "Job details at Chalmers") are here. Deadline for applications is 28th February 2009.
+A research position of Assistant Professor is available at Chalmers University, in the area of packaging for electronics, MEMS and bioelectronics. [Full details of the position and how to apply](/node/59 "Job details at Chalmers") are here. Deadline for applications is 28th February 2009.
 
 ### Flexible organic electronics - Conference
 
 
-The 2nd International Symposium on Flexible Organic Electronics has been announced, full details on [the conference website](/4m-association/node/66 "4M events list")
+The 2nd International Symposium on Flexible Organic Electronics has been announced, full details on [the conference website](/node/66 "4M events list")
 
 ### NN09
 
 
-Nanosciences & Nanotechnologies – NN09. for more information [see event listing](/4m-association/node/67 "4M events list")
+Nanosciences & Nanotechnologies – NN09. for more information [see event listing](/node/67 "4M events list")
 
-[&larr; Bulletins](/4m-association/bulletin/index.html)
+[&larr; Bulletins](/bulletin/index.html)

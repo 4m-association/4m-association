@@ -2,7 +2,7 @@ title: 2011 Summer School on Micro Mechanical Systems Design and Manufacture
 date: 2011-11-21
 tags: home, summer-school
 
-![2011 attendees](/4m-association/images/dsc_4771_b.jpg)   
+![2011 attendees](/images/dsc_4771_b.jpg)   
 The 2011 edition of the Summer School on “Micro Mechanical Systems Design and Manufacture” organised by DTU was attended by 20 students representing 7 countries of affiliation and 10 nationalities!
 <!--break-->
 The students took part in an intense training made of lectures mainly in the mornings and project work in the afternoons. This year the summer school was spiced up with involvement in the activities of the cutting edge [FP7 research project Cotech](http://www.fp7-cotech.eu/), featuring guest teachers from CEA, MEC, Sonion and Fotec, partners of this EU project. The students’ task was to create a fully working prototype of a microfluidic cooler for industrial applications, including design, fabrication and testing according to functional specifications. This case study was offered by the EU project Cotech.  

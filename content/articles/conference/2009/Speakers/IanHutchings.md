@@ -3,7 +3,7 @@ date: 2009-02-05
 tags: conference, home
 
 
-![Ian Hutchins](/4m-association/images/ianhutchings.jpg) 
+![Ian Hutchins](/images/ianhutchings.jpg) 
 ##  Name
 
 ‭Ian Michael Hutchings

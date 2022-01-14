@@ -9,4 +9,4 @@ More information in the attached file and on the official Ceramic Interconnect a
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/Announcement and Call for Papers CICMT2012.pdf">Announcement and Call for Papers CICMT2012.pdf</a> | 93.15 KB |	
+|<a href="/files/Announcement and Call for Papers CICMT2012.pdf">Announcement and Call for Papers CICMT2012.pdf</a> | 93.15 KB |	

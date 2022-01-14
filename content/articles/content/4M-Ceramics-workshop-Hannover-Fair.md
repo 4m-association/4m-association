@@ -6,4 +6,4 @@ The second workshop about ceramics processing and application was held during th
  
 Though only attended by 10 persons, there were some really valuable contributions from the industrial (Finecut and Bosch) attendees.
 
-This workshop followed on from the [first workshop held in Goteborg.](/4m-association/node/106/106.html)
+This workshop followed on from the [first workshop held in Goteborg.](/node/106/106.html)

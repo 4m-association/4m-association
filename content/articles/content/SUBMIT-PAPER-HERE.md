@@ -19,6 +19,6 @@ date: 2014-10-30
 
  * If required, for example after review, you can re-upload the paper, using the [Re-Upload Paper](http://conference.4m-association.org/author/upload.php?t=reup) link
 
-* Don't forget to send us the [copyright forms](/4m-association/content/License-Agreement-2015)  by **12th of January 2015**
+* Don't forget to send us the [copyright forms](/content/License-Agreement-2015)  by **12th of January 2015**
 
 **Note:** All authors will be asked to review papers and will be automatically entered into the reviewer pool for the conference. We will send further reviewer guidelines.

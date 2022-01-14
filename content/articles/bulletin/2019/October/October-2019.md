@@ -3,7 +3,7 @@ date: 2019-11-05
 tags: bulletin, home
 
 
-![4m bulletin](/4m-association/images/4mbulletin168.png)
+![4m bulletin](/images/4mbulletin168.png)
 
 ###  WCMNM2020, Call for papers
 
@@ -55,6 +55,6 @@ For more information on **WCMNM2020** please see  [here>>](https://www.me.iitb.a
  
 or contact: <a href="mailto:wcmnm@me.iitb.ac.in"> wcmnm@me.iitb.ac.in</strong></a>
 
-<img src="/4m-association/images/iitb,_mumbai_1.jpg" width="100%">
+<img src="/images/iitb,_mumbai_1.jpg" width="100%">
 
-[&larr; Bulletins](/4m-association/bulletin/index.html)
+[&larr; Bulletins](/bulletin/index.html)

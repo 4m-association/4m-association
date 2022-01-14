@@ -3,7 +3,7 @@ date: 2009-02-05
 tags: conference, home
 
 
-![Dr. Shiv G. Kapoor](/4m-association/images/kapoor.jpg) Dr. Shiv G. Kapoor is  Grayce Wicall Gauthier Chair Professor in the Department of Mechanical Science and Engineering at the University of Illinois, Urbana-Champaign. He has been a significant contributor to the field of manufacturing engineering research and education and a pioneer in the field of mathematical modelling and simulation of machining processes both at micro and macro-scale.  
+![Dr. Shiv G. Kapoor](/images/kapoor.jpg) Dr. Shiv G. Kapoor is  Grayce Wicall Gauthier Chair Professor in the Department of Mechanical Science and Engineering at the University of Illinois, Urbana-Champaign. He has been a significant contributor to the field of manufacturing engineering research and education and a pioneer in the field of mathematical modelling and simulation of machining processes both at micro and macro-scale.  
   
 He has published more than 200 technical articles in technical Journals including ASME Journal of Manufacturing Science and Engineering, Transactions of the North American Manufacturing Research Institution, International Journal of Machine Tool and Manufacture , International Journal of Wear, Journal of Corrosion Science, etc. The funding for his research program has come from both government agencies including the National Science Foundation, the National Institute of Standards and Technology, the Department of Energy, the Department of Defense, and companies, including Motorola, John Deere, Mori Seiki, General Electric Corporate Research and Development, Caterpillar, Inc., General Motors Research Laboratory, Ford Motor Company Scientific Research Laboratory, and Kennametal Inc.  
   

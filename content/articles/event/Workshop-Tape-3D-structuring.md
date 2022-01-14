@@ -29,4 +29,4 @@ registration fee charged (deadline for registration by e-mail : 29th October 201
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/Agenda_SP2_Workshop_V3.1.pdf">Agenda_SP2_Workshop_V3.1.pdf</a> | 61.81 KB |
+|<a href="/files/Agenda_SP2_Workshop_V3.1.pdf">Agenda_SP2_Workshop_V3.1.pdf</a> | 61.81 KB |

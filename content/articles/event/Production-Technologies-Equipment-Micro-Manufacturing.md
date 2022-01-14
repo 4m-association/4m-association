@@ -35,6 +35,6 @@ For full information download the flyer and programme below. Any questions - con
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/summe_school brochure _01.pdf">summe_school brochure _01.pdf</a> | 2.71 MB |
-|<a href="/4m-association/files/1st European Integ-Micro Summer School - program 01.pdf">1st European Integ-Micro Summer School - program 01.pdf</a> | 204.97 KB |
+|<a href="/files/summe_school brochure _01.pdf">summe_school brochure _01.pdf</a> | 2.71 MB |
+|<a href="/files/1st European Integ-Micro Summer School - program 01.pdf">1st European Integ-Micro Summer School - program 01.pdf</a> | 204.97 KB |
 	

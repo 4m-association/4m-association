@@ -19,6 +19,6 @@ Full details are on the flyer that you can download from below, along with infor
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/Flyer-4M_Workshop-Vienna_2009.pdf">Flyer-4M_Workshop-Vienna_2009.pdf</a> | 536.52 KB |
-<a href="/4m-association/files/Hotelplan.pdf">Hotelplan.pdf</a> | 361.53 KB |
-<a href="/4m-association/files/HOTELLISTE 2009.doc">HOTELLISTE 2009.doc</a> | 26.5 KB |
+| <a href="/files/Flyer-4M_Workshop-Vienna_2009.pdf">Flyer-4M_Workshop-Vienna_2009.pdf</a> | 536.52 KB |
+<a href="/files/Hotelplan.pdf">Hotelplan.pdf</a> | 361.53 KB |
+<a href="/files/HOTELLISTE 2009.doc">HOTELLISTE 2009.doc</a> | 26.5 KB |

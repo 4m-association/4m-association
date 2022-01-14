@@ -6,6 +6,6 @@ tags: interest-group, micro-fluidics
 <!--break-->
 In the column on the right you will find useful information about the manufacturing of micro-fluidic devices.  
 
-[Here](/4m-association/tag/micro-fluidics.html) you will find recent posts on the 4M Association which are considered to be of interest to the Micro-fluidics Interest Group.
+[Here](/tag/micro-fluidics.html) you will find recent posts on the 4M Association which are considered to be of interest to the Micro-fluidics Interest Group.
 
-[&larr; Interest Groups](/4m-association/interest-groups.html)
+[&larr; Interest Groups](/interest-groups.html)

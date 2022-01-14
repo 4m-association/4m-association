@@ -4,7 +4,7 @@ date: 2009-06-02
 ### Dr. H.-J. Ritzhaupt-Kleissl and Assoc. Professor Per Johander
 
 
-![4M Ceramics Division](/4m-association/images/ceramicbook.jpg)Ceramics Processing in Microtechnology presents an overview of the current status and future prospects for the processing of ceramic materials in microtechnology. It encompasses the complete process from requirements of the design process, through material development, microforming and thermal processing, and metrology. Also included are the vitally important aspects of quality control, dimensional stability, reproducibility and final properties.  
+![4M Ceramics Division](/images/ceramicbook.jpg)Ceramics Processing in Microtechnology presents an overview of the current status and future prospects for the processing of ceramic materials in microtechnology. It encompasses the complete process from requirements of the design process, through material development, microforming and thermal processing, and metrology. Also included are the vitally important aspects of quality control, dimensional stability, reproducibility and final properties.  
 
 Due to their outstanding properties of hardness, use in high temperatures, abrasion resistance and chemical inertness, as well as their di-, ferro- and piezoelectricity, conductivity and sensor properties, ceramics can be considered for use in a wide field of components and applications. The growth of microsystem technology (MST) requires the miniaturization of technical devices and therefore ceramic microcomponents find wide use as precision parts in medical and dental applications, piezocomponents, sensors, tunable dielectrics for high-frequency application, and microcomponents for microreaction technology.  
 

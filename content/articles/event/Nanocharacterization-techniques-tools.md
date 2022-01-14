@@ -11,5 +11,5 @@ For more information you can download a flyer below:
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/Winter_School_nanocharacterisation.pdf">Winter_School_nanocharacterisation.pdf</a> | 59.84 KB |
+|<a href="/files/Winter_School_nanocharacterisation.pdf">Winter_School_nanocharacterisation.pdf</a> | 59.84 KB |
 	

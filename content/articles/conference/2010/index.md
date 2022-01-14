@@ -3,7 +3,7 @@ date: 2009-10-21
 tags: 4m-conference-series, conference, home
 slug: conference-2010-index
 
-![PEP,Plastipolis, Oyonnax, France](/4m-association/images/pep-for-web.jpg )
+![PEP,Plastipolis, Oyonnax, France](/images/pep-for-web.jpg )
 
 ##  Aim and Themes
 

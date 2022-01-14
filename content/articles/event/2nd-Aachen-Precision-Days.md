@@ -17,5 +17,5 @@ For more information, download a flyer by clicking on the icon below, or contact
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/2.Aachener Präzisionstage_engl.pdf">2.Aachener Präzisionstage_engl.pdf</a> | 214.75 KB |
+|<a href="/files/2.Aachener Präzisionstage_engl.pdf">2.Aachener Präzisionstage_engl.pdf</a> | 214.75 KB |
 	

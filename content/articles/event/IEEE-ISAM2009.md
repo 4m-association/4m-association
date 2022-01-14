@@ -13,4 +13,4 @@ The full Call for Papers is available to download by clicking on the icon below.
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/CFP-ISAM2009.pdf">CFP-ISAM2009.pdf</a> | 78.19 KB |
+|<a href="/files/CFP-ISAM2009.pdf">CFP-ISAM2009.pdf</a> | 78.19 KB |

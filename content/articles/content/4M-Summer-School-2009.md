@@ -2,7 +2,7 @@ title: 4M Summer School 2009
 date: 2009-06-02
 tags: summer-school, training
 
-![4M Ceramics Workshop in Goteborg](/4m-association/images/group_dtusummerschool2009web1.jpg)  
+![4M Ceramics Workshop in Goteborg](/images/group_dtusummerschool2009web1.jpg)  
 The 2009 edition of DTU/4M summerschool in “micro mechanical system design and manufacture” gathered twenty students from all over Europe (as their institution would suggest, although some were from outside Europe in terms of country of birth!).
 <!--break-->
 As with the previous years, they were treated with two weeks of mainly lectures in the morning and practical work in the afternoons. The final goal had been shifted from actual production of parts to fully justified design reporting: technical drawings with tolerances (both manufacturing wise and from a functional point of view), process chain choice and description, and project management scheme. Nonetheless the students managed to be efficient enough to allow time for prototyping a micro injection moulding insert and therefore the design was tested on actual parts.

@@ -38,7 +38,7 @@ The conference fees include printed proceedings, lunches, conference dinner, bus
 ##  Registration
 
 
-Please email, fax or post completed [form](/4m-association/files/Registration%20form.pdf) with payment to:  
+Please email, fax or post completed [form](/files/Registration%20form.pdf) with payment to:  
 
 Miss J Whyte  
 Manufacturing Engineering Centre (MEC)   

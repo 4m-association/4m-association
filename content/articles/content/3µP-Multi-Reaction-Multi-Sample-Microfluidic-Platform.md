@@ -15,4 +15,4 @@ The target platform intends to integrate conventional microfluidics with electro
 
 Contacts: [Erik Jung](mailto:Erik.Jung@izm.fraunhofer.de) and/or [Chantal Khan Malek.](mailto:chantal.khan-malek@femto-st.fr)
 
-[&larr; Projects](/4m-association/projects.html)
+[&larr; Projects](/projects.html)

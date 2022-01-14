@@ -3,10 +3,10 @@ date: 2019-02-27
 tags: bulletin, home
 
 
-![4m bulletin](/4m-association/images/4mbulletin168.png)
+![4m bulletin](/images/4mbulletin168.png)
 
 ### 4M/ICOMM2015 Feedback Survey
-![4M2020 Logo](/4m-association/images/feedback.jpg)
+![4M2020 Logo](/images/feedback.jpg)
 Did you attend 4M/ICOMM2015?
 We greatly value your thoughts on how the conference went and would appreciate you taking a couple of minutes to complete a short feedback survey on how you think the conference went. This will help us to organise future conferences
 
@@ -15,20 +15,20 @@ Give us your feedback in this short survey [Here](http://www.4m-icomm-2015.polim
 
 ###  4M 2016 Announcement
 
-![4M2020 Logo](/4m-association/images/2016-conference.jpg)
+![4M2020 Logo](/images/2016-conference.jpg)
 On behalf of the 4M Association, we are pleased to announce that the next 4M Conference in partnership with IWMF will be held during September 2016 in Copenhagen, Denmark.  For more information about the conference, contact Lisa Jones, Secretariat of 4M Association.
 
 
 ###  4M/ICOMM2015 Awards
 
-![4M2020 Logo](/4m-association/images/best-paper.jpg) 
-Best Paper Award: “Experimental Investigation of the Effect of Dielectric Conductivity on Characteristics of Micro-EDM Process” Soham S. Mujumdar, Shiv G. Kapoor and Davide Curreli (University of Illinois at Urbana Champaign, USA) [READ MORE](/4m-association/conference/2015)
+![4M2020 Logo](/images/best-paper.jpg) 
+Best Paper Award: “Experimental Investigation of the Effect of Dielectric Conductivity on Characteristics of Micro-EDM Process” Soham S. Mujumdar, Shiv G. Kapoor and Davide Curreli (University of Illinois at Urbana Champaign, USA) [READ MORE](/conference/2015)
 
-The Elena Ulieru Innovation Award was given to Miss Rossella Surace for her excellent presentation at conference of the paper entitled :  "Design and fabrication of a polymeric micro-filter" [READ MORE](/4m-association/content/Elena-Ulieru-Innovation-Award/Elena-Ulieru-Innovation-Award.html)
+The Elena Ulieru Innovation Award was given to Miss Rossella Surace for her excellent presentation at conference of the paper entitled :  "Design and fabrication of a polymeric micro-filter" [READ MORE](/content/Elena-Ulieru-Innovation-Award/Elena-Ulieru-Innovation-Award.html)
 
 ###   DTU Summer School 2015 - Micro mechanical  systems design and manufacturing
 
-![4M2020 Logo](/4m-association/images/dtu.jpg) 
+![4M2020 Logo](/images/dtu.jpg) 
 22nd June - 3rd July 2015
 For the 9th consecutive year, DTU is organising the PhD Summer School on "Micro Mechanical Systems Design and Manufacturing". The Summer School, supported by 4M is scheduled to run for two weeks. 4M are offering six sponsored places for PhD students. [Read More](http://www.conferencemanager.dk/mppsummerschool2015)
 
@@ -71,4 +71,4 @@ Self-funded overseas/non-EU applicants are welcome to apply for the MRes/PhD pro
 
 More information available [here](http://www.ultraprecision.org/research/vacancies/)
 
-[&larr; Bulletins](/4m-association/bulletin/index.html)
+[&larr; Bulletins](/bulletin/index.html)

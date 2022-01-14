@@ -14,6 +14,6 @@ In [A_1], referring to Masuzawa [A_2], in micro metal cutting, the first require
 
  
 
-[A_1]      Metal cutting in microstructures, *E. Brinksmeier, O. Riemer,* Multi-material Micro Manufacture, W. Menz & S. Dimov, [2005,](/4m-association/content/4M-conference-series.html) pp. 19 - 25.
+[A_1]      Metal cutting in microstructures, *E. Brinksmeier, O. Riemer,* Multi-material Micro Manufacture, W. Menz & S. Dimov, [2005,](/content/4M-conference-series.html) pp. 19 - 25.
 
 [A_2]      *Masuzawa, T.,* 2000, State of the art of micromachining, Annals of the CIRP, 49/2:473-488.

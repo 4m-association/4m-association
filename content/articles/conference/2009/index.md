@@ -5,7 +5,7 @@ slug: conference-2009-index
 
 **23-25 September 2009** 
 
-![Karlsrhue](/4m-association/images/karlsrhue.jpg) 
+![Karlsrhue](/images/karlsrhue.jpg) 
 <small>Photo: Courtesy of FZK, Germany</small>
 
 This conference is jointly organised by the International Conference on Multi-Material Micro-Manufacture(4M) and the International Conference on Micro-Manufacture [(ICOMM)](http://manufacturing.northwestern.edu/ICOMM09/), bringing together for the first time the worldwide community of micro-manufacturing experts.  
@@ -48,5 +48,5 @@ Forschungszentrum Karlsruhe, Germany
 ##  Supported by
 
 <div style="width:100%">
-<img src="/4m-association/images/logos/sme-namri.gif" title="north american manufacturing research institution of the society of manufacturing engineers (namri/sme)" /> <img src="/4m-association/images/logos/asme_logo.jpg" title="manufacturing engineering division of the american society of mechanical engineers (med/asme)" />  <img src="/4m-association/images/logos/cotech-logo-75.png" /> <img src="/4m-association/images/logos/flexpaet-logo-75.png" /> <img src="/4m-association/images/logos/multilayer-logo-75.png" /> <img src="/4m-association/images/logos/euminafab.png" title="euminafab" /> <img src="/4m-association/images/logos/fzklogo.jpg" /> <a href="http://www.kit.edu/" title="karlsruhe institute of technology"><img src="/4m-association/images/logos/kit_logo.gif" title="karlsruhe institute of technology" /></a> <img src="/4m-association/images/logos/minam.jpg" /> 
+<img src="/images/logos/sme-namri.gif" title="north american manufacturing research institution of the society of manufacturing engineers (namri/sme)" /> <img src="/images/logos/asme_logo.jpg" title="manufacturing engineering division of the american society of mechanical engineers (med/asme)" />  <img src="/images/logos/cotech-logo-75.png" /> <img src="/images/logos/flexpaet-logo-75.png" /> <img src="/images/logos/multilayer-logo-75.png" /> <img src="/images/logos/euminafab.png" title="euminafab" /> <img src="/images/logos/fzklogo.jpg" /> <a href="http://www.kit.edu/" title="karlsruhe institute of technology"><img src="/images/logos/kit_logo.gif" title="karlsruhe institute of technology" /></a> <img src="/images/logos/minam.jpg" /> 
 </div>

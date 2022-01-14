@@ -31,4 +31,4 @@ The guidelines and procedure for submission of an abstract is described in the a
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/LBMP 2012 CFP.pdf">LBMP 2012 CFP.pdf</a> | 422.76 KB |
+|<a href="/files/LBMP 2012 CFP.pdf">LBMP 2012 CFP.pdf</a> | 422.76 KB |

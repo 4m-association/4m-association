@@ -4,4 +4,4 @@ tags: bulletin, home
 
 
 
-![4m bulletin](/4m-association/images//4mbulletin168.png)
+![4m bulletin](/images//4mbulletin168.png)

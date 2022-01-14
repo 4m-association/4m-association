@@ -4,7 +4,7 @@ tags: project, integ-micro
 
 
 <!--break-->
-![Integ-Micro](/4m-association/images/logo_integmicro_web2.jpg)  
+![Integ-Micro](/images/logo_integmicro_web2.jpg)  
   
 ###  Integ-Micro: New production technologies of complex 3D micro-devices through multi-process integration of ultra precision engineering techniques.
  
@@ -56,4 +56,4 @@ The Integ-Micro project is coordinated by [Scuola Superiore Sant'Anna – CRIM L
 (20) WZL, Rheinisch Westfälische Technische Hochschule Aachen/WZL, Aachen (Germany)
 
 
-[&larr; Projects](/4m-association/projects.html)
+[&larr; Projects](/projects.html)

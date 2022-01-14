@@ -108,7 +108,7 @@ SITEMAP = {
 DEFAULT_DATE = 'fs'
 DEFAULT_DATE_FORMAT = ('%d-%m-%Y')
 
-SITEURL = 'www.4m-association.org'
+SITEURL = 'https://www.4m-association.org'
 
 # Static files
 STATIC_PATHS = [

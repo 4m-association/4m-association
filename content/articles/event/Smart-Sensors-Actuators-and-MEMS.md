@@ -11,4 +11,4 @@ For more details click on link below to download the Call for Papers.
 
 | Attachment | Size |
 | --- | --- |
-| <a href="/4m-association/files/EMT2011-Call for Papers SSAM.pdf">EMT2011-Call for Papers SSAM.pdf</a> | 36.69 KB |
+| <a href="/files/EMT2011-Call for Papers SSAM.pdf">EMT2011-Call for Papers SSAM.pdf</a> | 36.69 KB |

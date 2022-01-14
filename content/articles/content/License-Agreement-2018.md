@@ -29,4 +29,4 @@ Mr. Afif Batal<br /> School of Engineering<br  /> University of Birmingham<br />
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/WCMNM2018_Copyright License Agreement.docx">WCMNM2018_Copyright License Agreement.docx</a> | 18.76 KB |
+|<a href="/files/WCMNM2018_Copyright License Agreement.docx">WCMNM2018_Copyright License Agreement.docx</a> | 18.76 KB |

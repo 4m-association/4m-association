@@ -3,7 +3,7 @@ date: 2009-03-10
 tags: conference, home
 
 
-<!--break-->![Karlsrhue](/4m-association/images/karlsrhue-pyramid.jpg)  
+<!--break-->![Karlsrhue](/images/karlsrhue-pyramid.jpg)  
 <small>Photo: Courtesy of FZK, Germany</small>
 
 Suggestions for visitor tours in and around Karlsruhe

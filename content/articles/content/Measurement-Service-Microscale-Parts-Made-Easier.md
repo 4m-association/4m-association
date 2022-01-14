@@ -12,4 +12,4 @@ For further information you can download the full Press Release from InsituTec I
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/InsituTec measurement service.doc">InsituTec measurement service.doc</a> | 406.5 KB |
+| <a href="/files/InsituTec measurement service.doc">InsituTec measurement service.doc</a> | 406.5 KB |

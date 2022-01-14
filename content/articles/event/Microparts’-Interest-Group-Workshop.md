@@ -56,4 +56,4 @@ You can download the workshop flyer below:
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/091028_microparts_flyer_20090612141343.pdf">091028_microparts_flyer_20090612141343.pdf</a> | 1.87 MB |
+| <a href="/files/091028_microparts_flyer_20090612141343.pdf">091028_microparts_flyer_20090612141343.pdf</a> | 1.87 MB |

@@ -6,7 +6,7 @@ The Board of Rondol Technology Limited  has decided that its Chairperson Victoir
 
 The Board would like to wish Quentin well in his new venture and thank him for his contribution during his term as Managing Director.  
 
-![Victoire - MD Rondol](/4m-association/images/victoirecrop.jpg)  
+![Victoire - MD Rondol](/images/victoirecrop.jpg)  
 
 Victoire de Margerie has 20 years operational experience in materials and material processing of both metals and polymers in France, Germany and the USA. She is a Professor at Grenoble School of Management since 2003 and a visiting Professor at Cranfield University since 2009. She is also  a Non-Executive Director of Ciments Francais (Building Materials) and Outokumpu (Stainless Steel).  
 

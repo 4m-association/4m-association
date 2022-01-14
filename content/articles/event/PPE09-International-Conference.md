@@ -4,7 +4,7 @@ tags: home, conferences
 
 
 <!--break-->
-![polymer processing engineering conference 2009](/4m-association/images/ppe_logo.jpg)
+![polymer processing engineering conference 2009](/images/ppe_logo.jpg)
 
 [PPE'09](http://www.polyeng.com/ppe09/) aims to:  
 
@@ -26,5 +26,5 @@ The draft programme on the attached flyer and available to download below.
 
 | Attachment | Size |
 | --- | --- |
-| <a href="/4m-association/files/PPE09programme7Oct.pdf">PPE09programme7Oct.pdf</a> | 442.09 KB |
+| <a href="/files/PPE09programme7Oct.pdf">PPE09programme7Oct.pdf</a> | 442.09 KB |
 

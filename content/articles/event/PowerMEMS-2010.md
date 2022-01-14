@@ -27,4 +27,4 @@ For full information visit the [PowerMEMS website](http://www.powermems.org/) or
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/PowerMEMS_2010.pdf">PowerMEMS_2010.pdf</a> | 395.85 KB |
+| <a href="/files/PowerMEMS_2010.pdf">PowerMEMS_2010.pdf</a> | 395.85 KB |

@@ -4,7 +4,7 @@ tags: home
 
 
 <!--break-->
-![IWMF2010](/4m-association/images/org_banner_iwmf2010.gif) 
+![IWMF2010](/images/org_banner_iwmf2010.gif) 
 The International Workshop on Microfactories is held biennially and attempts to share in the latest innovations, advances and future multidisciplinary research and development in Microfactories. 
 
 The 7th International Workshop on Microfactories(IWMF2010) will be held on October 24-27, 2010 at Daejeon Convention Center (DCC), Daejeon, Korea. It will offer researchers and engineers in the area of microfactories invaluable opportunities to leverage new technologies across the whole spectrum of Microfactories.   

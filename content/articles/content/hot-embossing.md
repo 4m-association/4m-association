@@ -6,7 +6,7 @@ The quality of the structure strongly depends on the structuring tool. Hot embos
 
 Latest research activities of Fraunhofer IBMT have focussed on roll-to-roll hot embossing of microstructures. Compared to stamp hot embossing the rotative roll-to-roll process is suited for real mass production at the expanse of a lower replication quality.
 <!--break-->
-![Lithography](/4m-association/images/hotemboss.jpg)    
+![Lithography](/images/hotemboss.jpg)    
 *Picture (above) of a micro channel fabricated by reel-to-reel hot embossing*  
 
 __Contact:__

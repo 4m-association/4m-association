@@ -20,13 +20,13 @@ tags: conference, home
   * fill in the form, ensuring all required information is present and correct
   * make sure you remember your password. Each paper has a paper id and password, which allows all authors to update the submission information or re-upload the paper
   * the submitted paper **must** be in **DOC** format
-  * Make sure you follow the template of the sample paper in [MS Word](/4m-association/files/Sample%20pages-%20full%20paper%20Instructions_1.doc) or [Open Office](/4m-association/files/Sample%20pages-%20full%20paper%20Instructions_0.odt) format
+  * Make sure you follow the template of the sample paper in [MS Word](/files/Sample%20pages-%20full%20paper%20Instructions_1.doc) or [Open Office](/files/Sample%20pages-%20full%20paper%20Instructions_0.odt) format
   * the total **number of pages** should not exceed four(4)
   * submit the paper by **Feb 13, 2009** deadline
 3. If required, update the submission information, like author details, by following the [Edit Submission](http://conference.4m-association.org/author/edit.php) link
 4. If required, for example after review, re-upload the paper, using the [Re-Upload Paper](http://conference.4m-association.org/author/upload.php?t=reup) link
 5. If your paper is accepted with revisions, re-upload the revised paper as above, by **April 24, 2009**
-6. Submit the final version of the paper and send us the [copyright forms](/4m-association/conference/2009/License_Agreement)  by **Jun 12, 2009**
+6. Submit the final version of the paper and send us the [copyright forms](/conference/2009/License_Agreement)  by **Jun 12, 2009**
 
 **Note:** All authors will be asked to review papers and will be automatically entered into the reviewer pool for the conference. We will send further reviewer guidelines
 

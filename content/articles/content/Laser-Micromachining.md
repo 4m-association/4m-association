@@ -16,6 +16,6 @@ Laser ablation is a cost-effective process for manufacturing small batches of pa
 
  
 
-[A_48]     A Comparison between Microfabrication Technologies for Metal Tooling, *L. Uriarte, A. Ivanov, H. Oosterling, L. Staemmler, P. T. Tang  and D. Allen.* Multi-material Micro Manufacture, W. Menz & S. Dimov, [4M2005](/4m-association/content/4M-conference-series.html), pp. 351 - 358.
+[A_48]     A Comparison between Microfabrication Technologies for Metal Tooling, *L. Uriarte, A. Ivanov, H. Oosterling, L. Staemmler, P. T. Tang  and D. Allen.* Multi-material Micro Manufacture, W. Menz & S. Dimov, [4M2005](/content/4M-conference-series.html), pp. 351 - 358.
 
 [A_49]     *Pham D.T., e.a.* Laser milling as a rapid micro manufacturing process. Journal of Engineering Manufacture, vol. 218, January 2004.

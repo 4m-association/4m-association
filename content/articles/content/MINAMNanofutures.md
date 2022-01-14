@@ -7,5 +7,5 @@ Download the latest Newsletter from MINAM below.
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/MINAM Newsletter Feb 2010.pdf">MINAM Newsletter Feb 2010.pdf</a> | 1.88 MB |  
+| <a href="/files/MINAM Newsletter Feb 2010.pdf">MINAM Newsletter Feb 2010.pdf</a> | 1.88 MB |  
   

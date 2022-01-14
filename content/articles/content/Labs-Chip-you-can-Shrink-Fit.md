@@ -1,7 +1,7 @@
 title: Labs-on-a-Chip that you can Shrink to Fit 
 date: 2009-11-17  
 
-![Sensor 4M(WP11)](/4m-association/images/wp11%20-%20sensor.jpg) 
+![Sensor 4M(WP11)](/images/wp11%20-%20sensor.jpg) 
 
 INTEL's latest microchip technology has created transistors 22 nanometres wide - a mere 200 times the width of a hydrogen molecule.
 <!--break-->

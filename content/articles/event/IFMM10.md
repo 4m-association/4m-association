@@ -31,4 +31,4 @@ For further details you can visit the [IFMM'10 website](http://www.ifmm10.org) o
 
 | Attachment | Size |
 | --- | --- |
-| <a href="/4m-association/files/1st announcement__225.1.pdf">1st announcement__225.1.pdf</a> | 588.82 KB |
+| <a href="/files/1st announcement__225.1.pdf">1st announcement__225.1.pdf</a> | 588.82 KB |

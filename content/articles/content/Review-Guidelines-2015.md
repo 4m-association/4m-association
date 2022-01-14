@@ -26,7 +26,7 @@ When ready, they will fill in the review forms.
 
 Reviewers don't need to complete the reviews in one go, they can always come back. They can just submit the unfinished form. 
 
-To finish a review, tick the complete box and submit the form. Complete the reviews by 8th of December 2014. **REVIEW NOW**  click [here>>](/4m-association/http://conference.4m-association.org/review/signin.php)
+To finish a review, tick the complete box and submit the form. Complete the reviews by 8th of December 2014. **REVIEW NOW**  click [here>>](/http://conference.4m-association.org/review/signin.php)
 
 
 When carrying out this task you should consider the:

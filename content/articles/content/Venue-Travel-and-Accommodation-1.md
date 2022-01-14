@@ -5,7 +5,7 @@ date: 2015-11-28
 
 REMISENS are offering reduced prices at their range of hotels in Portorož for participants in WCMNM 2018:
 
-<img src="/4m-association/images/hotel_offer.png" width="520px">
+<img src="/images/hotel_offer.png" width="520px">
 
 All the above hotels are very close to the conference venue.
 

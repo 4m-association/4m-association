@@ -41,6 +41,6 @@ Workshop flyer is attached below.
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/Agenda_SP3_Workshop_Printing.pdf">Agenda_SP3_Workshop_Printing.pdf</a> | 89.23 KB |
+| <a href="/files/Agenda_SP3_Workshop_Printing.pdf">Agenda_SP3_Workshop_Printing.pdf</a> | 89.23 KB |
 
-[&larr; Projects](/4m-association/projects.html)
+[&larr; Projects](/projects.html)

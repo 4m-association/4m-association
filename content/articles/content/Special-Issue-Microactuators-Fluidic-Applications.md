@@ -11,5 +11,5 @@ Authors are encouraged to submit primarily research papers with a length of at l
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/2009SpecialIssue_FluidicApps.pdf">2009SpecialIssue_FluidicApps.pdf</a> | 119.17 KB |
+| <a href="/files/2009SpecialIssue_FluidicApps.pdf">2009SpecialIssue_FluidicApps.pdf</a> | 119.17 KB |
 	

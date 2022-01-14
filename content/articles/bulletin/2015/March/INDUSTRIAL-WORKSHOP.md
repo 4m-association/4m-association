@@ -3,7 +3,7 @@ date: 2015-03-06
 tags: bulletin, home
 
 
-![4m bulletin](/4m-association/images/4mbulletin168.png)
+![4m bulletin](/images/4mbulletin168.png)
 
 **INDUSTRIAL WORKSHOP Higher Value production technologies and KET enabled applications**
 
@@ -41,4 +41,4 @@ Please find attached the workshop flyer with its programme.
 
 **4M2020** - Advanced Manufacturing of Multi-Material Multi-Functional Products Towards 2020 and Beyond
 
-[&larr; Bulletins](/4m-association/bulletin/index.html)
+[&larr; Bulletins](/bulletin/index.html)

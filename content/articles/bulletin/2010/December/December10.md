@@ -3,7 +3,7 @@ date: 2010-12-09
 tags: bulletin, home
 
 
-![4m bulletin](/4m-association/images/4mbulletin168.png)
+![4m bulletin](/images/4mbulletin168.png)
 
 <!--break-->
 ###  European Ceramics Society
@@ -13,13 +13,13 @@ Our 4M Association colleagues at SwereaIVF in Gothenburg are co-organisers of th
 ###  4M 2010
 
 
-![4M2010](/4m-association/images/4m-logotight_web.png)
+![4M2010](/images/4m-logotight_web.png)
 4M2010, thanks to the excellent organisation by [Plastipolis](http://www.plastipolis.fr/index.php?lg=gb) and [PEP](http://www.poleplasturgie.net/), was considered a success by all those who attended. With over 110 attendees from 23 countries, 60 papers presented, 15 exhibiting sponsors and with four EC-funded projects hosting Special Sessions it was also a very effective form of knowledge exchange. The **Proceedings from 4M2010 can now be accessed online** at the [RPS website](http://rpsonline.com.sg/proceedings/9789810865559.html).    
   
 ###  4M 2011 - Dates and venue announced
 
 
-![4M2011](/4m-association/images/4m-2011_web1.jpg)
+![4M2011](/images/4m-2011_web1.jpg)
 We were pleased that Prof. Heinz Kück of Stuttgart University and the HSG-IMAT Institute, was able to attend 4M2010 and to announce the dates and venue for **4M2011, which will take place from 8th - 10th November 2011 in Stuttgart, Germany**. The first Call for Papers will be made in the new year.   
  
 ###  Laser Micromachining of Polymers
@@ -28,11 +28,11 @@ A chapter with the above title appears in a new book entitled <em>Generating Mic
   
 ###  IPAS 2012
 
-The dates and first call for papers for IPAS 2012 has been issued. See [event page](/4m-association/event/IPAS2012) for details.
+The dates and first call for papers for IPAS 2012 has been issued. See [event page](/event/IPAS2012) for details.
   
 ###  Training Courses in Microsystems
 
-![FSRM](/4m-association/images/fsrm_logo_web.gif)
-fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/4m-association/content/fsrm-training-courses/fsrm-training-courses.html)
+![FSRM](/images/fsrm_logo_web.gif)
+fsrm (Fondation suisse pour la recherche en microtechnique) offers a comprehensive range of training courses, in a number of languages (English, French, German). They are pleased to offer members of the 4M Association a <b>10% discount on course fees.</b> More information [here.](/content/fsrm-training-courses/fsrm-training-courses.html)
 
-[&larr; Bulletins](/4m-association/bulletin/index.html)
+[&larr; Bulletins](/bulletin/index.html)

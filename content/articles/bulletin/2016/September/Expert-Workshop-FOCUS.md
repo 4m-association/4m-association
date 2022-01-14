@@ -3,7 +3,7 @@ date: 2016-09-21
 tags: bulletin, home
 
 
-![4m bulletin](/4m-association/images/4mbulletin168.png)
+![4m bulletin](/images/4mbulletin168.png)
 
 ###  Postdoc Position uTwente
 
@@ -13,4 +13,4 @@ For more information please visit the link below:
 
 [https://www.utwente.nl/organisatie/werken-bij-de-ut/vacatures/!/vacature/609666](https://www.utwente.nl/organisatie/werken-bij-de-ut/vacatures/!/vacature/609666)
 
-[&larr; Bulletins](/4m-association/bulletin/index.html)
+[&larr; Bulletins](/bulletin/index.html)

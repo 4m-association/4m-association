@@ -18,8 +18,8 @@ tags: metals-processing
       <th>Mechanical force</th>
       <td>
       <ul class="flat">
-      <li><a href="/4m-association/content/Ultrasonic-Machining">Ultrasonic Machining</a></li>
-      <li class="darker"><a href="/4m-association/content/ECF">ECF</a></li>
+      <li><a href="/content/Ultrasonic-Machining">Ultrasonic Machining</a></li>
+      <li class="darker"><a href="/content/ECF">ECF</a></li>
       </ul>
       </td>
       <td></td>
@@ -30,27 +30,27 @@ tags: metals-processing
       <th>Melting, vaporization, ablation</th>
       <td>
       <ul class="flat">
-      <li><a href="/4m-association/content/Electro-Discharge-Machining-0" title="Electro Discharge Machining">EDM</a></li>
-      <li class="darker"><a href="/4m-association/content/Electrolytic-line-dressing" title="Electrolytic in-line dressing">ELID</a></li>
-      <li><a href="/4m-association/content/Laser-Micromachining">Laser Micromachining</a></li>
+      <li><a href="/content/Electro-Discharge-Machining-0" title="Electro Discharge Machining">EDM</a></li>
+      <li class="darker"><a href="/content/Electrolytic-line-dressing" title="Electrolytic in-line dressing">ELID</a></li>
+      <li><a href="/content/Laser-Micromachining">Laser Micromachining</a></li>
       </ul>
       </td>
       <td>
       <ul class="flat">
-      <li><a href="/4m-association/content/Chemical-vapor-deposition" title="Chemical Vapor Deposition">CVD</a></li>
-      <li class="darker"><a href="/4m-association/content/Physical-Vapour-Deposition" title="Physical Vapor Deposition">PVD</a></li>
+      <li><a href="/content/Chemical-vapor-deposition" title="Chemical Vapor Deposition">CVD</a></li>
+      <li class="darker"><a href="/content/Physical-Vapour-Deposition" title="Physical Vapor Deposition">PVD</a></li>
       </ul>
       </td>
-      <td><a href="/4m-association/content/Laser-bending">Laser Bending</a></td>
-      <td><a href="/4m-association/content/Bonding-0">Bonding</a></ul>
+      <td><a href="/content/Laser-bending">Laser Bending</a></td>
+      <td><a href="/content/Bonding-0">Bonding</a></ul>
       </td>
     </tr>
     <tr>
       <th>Dissolution</th>
       <td>
       <ul class="flat">
-      <li><a href="/4m-association/content/Electro-Chemical-Machining" title="Electro Chemical Machining">ECM</a></li>
-      <li class="darker"><a href="/4m-association/content/Lithography-and-Etching">Lithography &amp; Etching</a></li>
+      <li><a href="/content/Electro-Chemical-Machining" title="Electro Chemical Machining">ECM</a></li>
+      <li class="darker"><a href="/content/Lithography-and-Etching">Lithography &amp; Etching</a></li>
       </ul>
       </td>
       <td></td>
@@ -62,8 +62,8 @@ tags: metals-processing
       <td></td>
       <td>
       <ul class="flat">
-          <li><a href="/4m-association/content/Electroforming">Electroforming</a></li>
-          <li class="darker"><a href="/4m-association/content/Electroplating-0">Electroplating</a></li>
+          <li><a href="/content/Electroforming">Electroforming</a></li>
+          <li class="darker"><a href="/content/Electroplating-0">Electroplating</a></li>
       </ul>
       </td>
       <td></td>
@@ -72,7 +72,7 @@ tags: metals-processing
     <tr>
       <th>LIGA</th>
       <td colspan="4"><a
- href="/4m-association/content/LIGA">Combination of dissolution (x-ray lithography), recomposition (electroforming) and
+ href="/content/LIGA">Combination of dissolution (x-ray lithography), recomposition (electroforming) and
 mass containing (molding)</a></td>
     </tr>
   </tbody>

@@ -86,5 +86,5 @@ Micro replication processing technologies:
 
 | Attachment | Size |
 |---|---|
-|<a href="/4m-association/files/20120420 cotech Workshop.pdf">20120420 cotech Workshop.pdf</a> | 477.37 KB |
+|<a href="/files/20120420 cotech Workshop.pdf">20120420 cotech Workshop.pdf</a> | 477.37 KB |
 	

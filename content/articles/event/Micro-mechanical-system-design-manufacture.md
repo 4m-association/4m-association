@@ -11,4 +11,4 @@ There is a limited number of **bursaries available to 4M Association members.**
 
 **Venue:**   *DTU Mechanical Engineering, Copehhagen, Denmark*  
   
-Read more about the [2009 Summer School here,](/4m-association/content/4M-Summer-School-2009.html) and previous Summer Schools [here.](/event/4M-Summer-School/4M-Summer-School-2009.html) and previous Summer Schools [here.](/event/4M-Summer-School.html)
+Read more about the [2009 Summer School here,](/content/4M-Summer-School-2009.html) and previous Summer Schools [here.](/event/4M-Summer-School/4M-Summer-School-2009.html) and previous Summer Schools [here.](/event/4M-Summer-School.html)

@@ -16,25 +16,25 @@ date: 2009-11-13
       <th>Mechanical force</th>
       <td>
       <ul class="flat">
-      <li><a href="/4m-association/content/Micromilling">Micromilling</a></li>
-      <li class="darker"><a href="/4m-association/content/Micro-turning">Microturning</a></li>
-      <li><a href="/4m-association/content/Fly-Cutting">Fly Cutting</a></li>
-      <li class="darker"><a href="/4m-association/content/Micro-drilling-0">Microdrilling</a></li>
-      <li><a href="/4m-association/content/Microgrinding">Microgrinding</a></li>
+      <li><a href="/content/Micromilling">Micromilling</a></li>
+      <li class="darker"><a href="/content/Micro-turning">Microturning</a></li>
+      <li><a href="/content/Fly-Cutting">Fly Cutting</a></li>
+      <li class="darker"><a href="/content/Micro-drilling-0">Microdrilling</a></li>
+      <li><a href="/content/Microgrinding">Microgrinding</a></li>
       </ul>
       </td>
       <td>
       <ul class="flat">
-      <li><a href="/4m-association/content/Rolling">Rolling</a></li>
-      <li class="darker"><a href="/4m-association/content/Forging">Forging</a></li>
-      <li><a href="/4m-association/content/Deep-drawing">Deep Drawing</a></li>
-      <li class="darker"><a href="/4m-association/content/Bending">Bending</a></li>
-      <li><a href="/4m-association/content/Blanking">Blanking</a></li>
-      <li class="darker"><a href="/4m-association/content/Embossing">Embossing</a></li>
-      <li><a href="/4m-association/content/Cold-Forging">Cold Forging</a></li>
+      <li><a href="/content/Rolling">Rolling</a></li>
+      <li class="darker"><a href="/content/Forging">Forging</a></li>
+      <li><a href="/content/Deep-drawing">Deep Drawing</a></li>
+      <li class="darker"><a href="/content/Bending">Bending</a></li>
+      <li><a href="/content/Blanking">Blanking</a></li>
+      <li class="darker"><a href="/content/Embossing">Embossing</a></li>
+      <li><a href="/content/Cold-Forging">Cold Forging</a></li>
       </ul>
       </td>
-      <td><a href="/4m-association/content/Ultrasonic-Welding">Ultrasonic Welding</a>
+      <td><a href="/content/Ultrasonic-Welding">Ultrasonic Welding</a>
       </td>
     </tr>
     <tr>
@@ -43,9 +43,9 @@ date: 2009-11-13
       <td></td>
       <td>
       <ul class="flat">
-      <li><a href="/4m-association/content/Resistance_weldingsoldering">Resistance Welding/Soldering</a></li>
-      <li class="darker"><a href="/4m-association/content/Resistance-WeldingSoldering">Laser Welding/Soldering</a></li>
-      <li><a href="/4m-association/content/Bonding-0">Bonding</a></li>
+      <li><a href="/content/Resistance_weldingsoldering">Resistance Welding/Soldering</a></li>
+      <li class="darker"><a href="/content/Resistance-WeldingSoldering">Laser Welding/Soldering</a></li>
+      <li><a href="/content/Bonding-0">Bonding</a></li>
       </ul>
       </td>
     </tr>
@@ -54,7 +54,7 @@ date: 2009-11-13
       <td></td>
       <td>
       <ul class="flat">
-      <li><a href="/4m-association/content/MicrocastingInjection-Molding">Casting & Injection Molding</a></li>
+      <li><a href="/content/MicrocastingInjection-Molding">Casting & Injection Molding</a></li>
       </ul>
       </td>
       <td></td>

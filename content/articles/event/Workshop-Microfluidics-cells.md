@@ -21,5 +21,5 @@ Alternatively you can contact [Diliana Panayotova](mailto:Diliana.panayotova@izm
 
 | Attachment | Size |
 |---|---|
-| <a href="/4m-association/files/Flyer_Workshop_MicrodosingSystems.pdf">Flyer_Workshop_MicrodosingSystems.pdf</a> | 2.58 MB |
-<a href="/4m-association/files/Hotels near the Fraunhofer IZM, Munich.pdf">Hotels near the Fraunhofer IZM, Munich.pdf</a> | 288.92 KB |
+| <a href="/files/Flyer_Workshop_MicrodosingSystems.pdf">Flyer_Workshop_MicrodosingSystems.pdf</a> | 2.58 MB |
+<a href="/files/Hotels near the Fraunhofer IZM, Munich.pdf">Hotels near the Fraunhofer IZM, Munich.pdf</a> | 288.92 KB |
