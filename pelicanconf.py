@@ -108,7 +108,7 @@ SITEMAP = {
 DEFAULT_DATE = 'fs'
 DEFAULT_DATE_FORMAT = ('%d-%m-%Y')
 
-SITEURL = 'https://bear-rsg.github.io/4m-association'
+SITEURL = 'www.4m-association.org'
 
 # Static files
 STATIC_PATHS = [
@@ -159,14 +159,14 @@ DISPLAY_PAGES_ON_MENU = False
 
 
 MENUITEMS = (
-    ('Home', '/4m-association/index.html'),
-    ('About', '/4m-association/about.html'),
-    ('Interest Groups', '/4m-association/interest-groups.html'),
-    ('Projects', '/4m-association/projects.html'),
-    ('Join 4M', '/4m-association/join4m.html'),
-    ('Bulletin', '/4m-association/bulletin/index.html'),
-    ('4M Conference Series', '/4m-association/conference/index.html'),
-    ('Expert Workshop FOCUS', '/4m-association/bulletin/2016/September/Expert-Workshop-FOCUS/expert-workshop-focus.html'),
+    ('Home', '/index.html'),
+    ('About', '/about.html'),
+    ('Interest Groups', '/interest-groups.html'),
+    ('Projects', '/projects.html'),
+    ('Join 4M', '/join4m.html'),
+    ('Bulletin', '/bulletin/index.html'),
+    ('4M Conference Series', '/conference/index.html'),
+    ('Expert Workshop FOCUS', '/bulletin/2016/September/Expert-Workshop-FOCUS/expert-workshop-focus.html'),
 )
 
 LOCALE = ('en_GB', 'en')
