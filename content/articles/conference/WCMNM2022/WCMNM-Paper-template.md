@@ -4,4 +4,8 @@ tags: conference
 
 -Paper-template.md
 Please use the official Paper template .
+| Attachment | Size |
+|---|---|
+|<a href="/files/WCMNM_paper_template.docx">Paper template</a> | 35 KB |
+
 
