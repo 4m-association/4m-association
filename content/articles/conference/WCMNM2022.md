@@ -7,7 +7,7 @@ tags: conference, home
 	
 <strong>19-22 September 2022</strong>
 
-Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM),  the Congress hopes to bring together the worldwide community of micro- & nano-manufacturing experts."
+Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM),  the Congress hopes to bring together the worldwide community of micro- & nano-manufacturing experts.
 	
 <img src="/images/leuven-pic2.jpg" width="100%"> 
 
@@ -38,8 +38,10 @@ Dominiek Reynaerts, KU Leuven, Belgium
 ##  Venue
 	
 <strong>Campus Gasthuisberg, KU Leuven</strong>
+
 Herestraat 49, 3000 Leuven
-KU Leuven
+
+Belgium
 
 
 <img src="/images/leuven-pic3.jpg" width="100%"> 
