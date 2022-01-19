@@ -46,5 +46,6 @@ jobs:
           BRANCH: gh-pages # The branch name where you want to push the output
           FOLDER: output # The directory where output is generated
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub will automatically add this - you don't need to bother getting a token
+          CNAME: www.4m-association.org
           MESSAGE: "Build: ({sha}) {msg}" # The commit message
       - run: echo "🍏 This job's status is ${{ job.status }}."
