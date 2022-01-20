@@ -61,7 +61,7 @@ Please see the official call for papers  <a href="/files/First Call for Papers W
 
 We invite you to submit 4-page papers using this <a href="/files/WCMNM_paper_template.docx">Paper template</a>. 
 
-Link for submission: https://conf.papercept.net/conferences/scripts/start.pl 
+Link for submission:  [https://conf.papercept.net/conferences/scripts/start.pl](https://conf.papercept.net/conferences/scripts/start.pl)
 
 
 ##  Congress Theme	
