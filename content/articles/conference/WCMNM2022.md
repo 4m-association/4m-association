@@ -55,7 +55,13 @@ The main congress programme takes place from the <strong>19th to 22nd of Septemb
 
 Submission deadline for full papers: <strong>30th of April 2022</strong>                       
 	
+##  Call for papers
 
+Please see the official call for papers  <a href="files/First Call for Papers WCMNM 2022.pdf">here</a>
+
+We invite you to submit 4-page papers using this <a href="/files/WCMNM_paper_template.docx">Paper template</a>. 
+
+Link for submission: https://conf.papercept.net/conferences/scripts/start.pl 
 
 ##  Congress Theme	
 
