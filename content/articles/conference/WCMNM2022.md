@@ -11,8 +11,7 @@ Jointly organised by the 4M Association, the International Institution for Micro
 	
 <img src="/images/leuven-pic2.jpg" width="100%"> 
 
-Due to the ongoing <strong>Covid-19</strong> pandemic the format of the conference will be announced in due course.
-
+The conference will be organized fully in-person. However, the organizing committee may decide to modify the format if the ongoing Covid-19 pandemic requires it. Changes, if any will be announced in due course.
 	
 ##  Congress Chair
 	
