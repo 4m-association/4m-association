@@ -4,9 +4,13 @@ date: 2022-01-25
 ## Why sponsoring WCMNM 2022?
 
 The congress focuses on processes, equipment and systems for fabricating miniature parts with nano/micro/meso scale features and dimensions. This is therefore a unique opportunity to showcase your technology and promote your company’s mission to the individuals and organisations attending WCMNM 2022 while learning about the latest advances in micro and nano manufacturing research.
+
 The conference rotates yearly between Europe, Asia and America, under the umbrella of the three local associations (4M, I2M2 and IFMM) and is this year hosted by KU Leuven, one of Europe’s most innovative universities. Between 100 and 120 participants from Europe, Asia and America, attend the conference each year.
+
 WCMNM 2022 Sponsors exhibition booths are situated close to the location of the WCMNM 2022 coffee break areas and break-out sessions rooms, intended to guarantee a steady flow of attendees to the exhibition space, and to provide optimal location for gatherings and discussions.
+
 The conference starts with a welcome reception on the evening of the 19th September 2022, followed by technical sessions between the 20th and the 22nd September 2022.
+
 
 **Packages options**
 
@@ -21,6 +25,8 @@ The conference starts with a welcome reception on the evening of the 19th Septem
 | Entrance to conference, including all meals, refreshments and conference dinner, for 3 persons | Entrance to conference, including all meals, refreshments and conference dinner, for 2 persons |
 | 3 copies of Conference Proceedings | 2 copies of Conference Proceedings |
 	
+	
+	
 
 | **Silver Sponsorship Package** | **Bronze Sponsorship Package** |
 |---|---|
@@ -31,6 +37,7 @@ The conference starts with a welcome reception on the evening of the 19th Septem
 | Colour logo on outer cover of proceedings | 1 day entrance to conference, including meals and refreshments, for 1 person |
 | Entrance to conference, including all meals, refreshments and conference dinner, for 1 person | 1 copy of Conference Proceedings |
 | 1 copy of Conference Proceedings | |
+
 	
 ### Contact
 
