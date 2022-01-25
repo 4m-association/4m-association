@@ -1,6 +1,5 @@
 title: Call for Papers 2022
 date: 2022-01-05
-tags: conference
  
 ### Deadline : 30th of April 2022
 
