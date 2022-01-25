@@ -25,7 +25,7 @@ The conference starts with a welcome reception on the evening of the 19th Septem
 | Entrance to conference, including all meals, refreshments and conference dinner, for 3 persons | Entrance to conference, including all meals, refreshments and conference dinner, for 2 persons |
 | 3 copies of Conference Proceedings | 2 copies of Conference Proceedings |
 | | |
-| **Silver Sponsorship Package** | **Bronze Sponsorship Package** |
+| <span style="text-align: center;"> **Silver Sponsorship Package** </span> | <span style="text-align: center;"> **Bronze Sponsorship Package** </span> |
 | **€1200 (excl. VAT)** | **€750 (excl. VAT)** |
 | Attendance at all 3 days of conference | Attendance at 1 day of conference |
 | Sponsor’s logo, with link to own website, on 4M Association website | Sponsor’s logo, with link to own website, on 4M Association website |
