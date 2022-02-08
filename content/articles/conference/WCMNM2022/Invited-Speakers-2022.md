@@ -5,7 +5,7 @@ date: 2022-01-05
 
 <img src="/images/Jian Cao.jpg" width="172" height="163">
 <div>
-<strong>Jian Cao</strong>
+<a href="/files/CV- Jian Cao.pdf"><strong>Jian Cao</strong></a>
 <div>
   <div>Professor</div>
   <div>Northwestern University (USA)</div>
@@ -22,3 +22,5 @@ date: 2022-01-05
     <div>Department of Mechanical Engineering</div>
     
   <hr />
+
+   
