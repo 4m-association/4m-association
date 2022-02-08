@@ -4,6 +4,7 @@ date: 2022-01-05
 ### Invited Speakers
 
 <img src="/images/Jian Cao.jpg" width="15%">
+<div>
 <strong>Jian Cao</strong>
 <div>
   <div>Professor</div>
