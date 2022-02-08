@@ -3,7 +3,7 @@ date: 2022-01-05
 
 ### Invited Speakers
 
-<img src="/images/Jian Cao.jpg" width="172" height="163">
+<img src="/images/Jian Cao.jpg" width="15%">
 <strong>Jian Cao</strong>
 <div>
   <div>Professor</div>
@@ -12,7 +12,7 @@ date: 2022-01-05
 
   <hr />
 
-<img src="/images/Takashi Matsumura.jpg" width="172" height="163"> 
+<img src="/images/Takashi Matsumura.jpg" width="15%"> 
 <div>
 <strong>Takashi Matsumura</strong>
  <div>
