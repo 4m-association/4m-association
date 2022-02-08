@@ -15,7 +15,7 @@ date: 2022-01-05
 
 <img src="/images/Takashi Matsumura.jpg" width="172" height="163">
 <div>
-<strong>Takashi Matsumura</strong>
+<a href="/files/CV-Takashi Matsumura.pdf"><strong>Takashi Matsumura</strong></a>
  <div>
     <div>Professor</div>
     <div>Tokyo Denki University (Japan)</div>
