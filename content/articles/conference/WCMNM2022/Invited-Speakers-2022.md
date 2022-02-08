@@ -5,7 +5,7 @@ date: 2022-01-05
 
 <img src="/images/Jian Cao.jpg" width="172" height="163">
 <div>
-  <a href="/files/CV- Jian Cao.pdf"><strong><h3>Jian Cao</h3></strong></a>
+<h3><a href="/files/CV- Jian Cao.pdf"><strong>Jian Cao</h3></strong></a>
 <div>
   <div>Professor</div>
   <div>Northwestern University (USA)</div>
@@ -15,7 +15,7 @@ date: 2022-01-05
 
 <img src="/images/Takashi Matsumura.jpg" width="172" height="163">
 <div>
-<a href="/files/CV-Takashi Matsumura.pdf"><h3><strong>Takashi Matsumura</strong></h3></a>
+<h3><a href="/files/CV-Takashi Matsumura.pdf"><strong>Takashi Matsumura</strong></h3></a>
  <div>
     <div>Professor</div>
     <div>Tokyo Denki University (Japan)</div>
