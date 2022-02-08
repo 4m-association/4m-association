@@ -3,7 +3,7 @@ date: 2022-01-05
 
 ### Invited Speakers
 
-<img src="/images/Jian Cao.jpg" width="100%">
+<img src="/images/Jian Cao.jpg" width="10%">
 <strong>Jian Cao</strong>
 <div>
   <div>Professor</div>
@@ -11,3 +11,12 @@ date: 2022-01-05
 <div>McCormick School of Engineering and Applied Science</div>
 
   <hr />
+
+<img src="/images/Takashi Matsumura.jpgjpg" width="100%"> 
+  <strong>Takashi Matsumura</strong>
+  <div>
+    <div>Professor</div>
+    <div>Tokyo Denki University (Japan)</div>
+    <div>Department of Mechanical Engineering</div>
+    
+    <hr />
