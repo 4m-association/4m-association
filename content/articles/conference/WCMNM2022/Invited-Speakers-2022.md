@@ -3,3 +3,11 @@ date: 2022-01-05
 
 ### Invited Speakers
 
+<img src="/images/Jian Cao.jpg" width="100%">
+<strong>Jian Cao</strong>
+<div>
+  <div>Professor</div>
+  <div>Northwestern University (USA)</div>
+<div>McCormick School of Engineering and Applied Science</div>
+
+  <hr />
