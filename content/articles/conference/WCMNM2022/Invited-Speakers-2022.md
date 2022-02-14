@@ -5,7 +5,7 @@ date: 2022-01-05
 
 <img src="/images/Jian Cao.jpg" width="172" height="163">
 <div>
-<h3><a href="/files/CV- Jian Cao.pdf"><strong>Jian Cao</h3></strong></a>
+<h3><a href="/files/Cao I2M2 2022.pdf"><strong>Jian Cao</h3></strong></a>
 <div>
   <div>Professor</div>
   <div>Northwestern University (USA)</div>
