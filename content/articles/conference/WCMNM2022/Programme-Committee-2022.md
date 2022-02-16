@@ -71,7 +71,7 @@ date: 2022-01-05
 | Tohru	Sasaki	| University of Toyama	Japan |
 | Albert	Shih	| University of Michigan	USA |
 | Ramesh 	Singh | Indian Institute of Technology Bombay	India |
-| Xu	Song 	| Singapore Institute of Manufacturing Technology	Hong Kong |
+| Xu Song | The Chinese University of Hong Kong Hong Kong |
 | Sathyan	Subbiah |	IIT Madras	India |
 | Rossella	Surace|	STIIMA-CNR	Italy |
 | Tanveer	Saleh	| International Islamic University Malaysia	Malaysia |
@@ -92,9 +92,14 @@ date: 2022-01-05
 | Davide	Masato	| University of Massachusetts Lowell 	USA |
 | Pin-Chuan	Chen |	National Taiwan University of Science and Technology	Taiwan |
 | Izidor 	Sabotin |		Slovenia |
-| Balasubramanian	Nagarajan |		Belgium |
-| Krishna Kumar	 |Saxena		Belgium |
+| Balasubramanian	Nagarajan |	 KU Leuven Belgium |
+| Krishna Kumar	Saxena	|	KU Leuven Belgium |
 | Wen-Jeng	Hsue	|	Taiwan |
 |Pavel 	Penchev	| University of Birmingam	UK |
 | Wansheng	Zhao |	Shanghai Jiao Tong University	China |
+
+
+
+
+
 
