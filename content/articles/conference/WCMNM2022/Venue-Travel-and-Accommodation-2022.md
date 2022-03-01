@@ -90,11 +90,13 @@ The Leuven railway station is directly connected to the city centre via the Bond
   <h3>Congress Dinner: Faculty Club </h3>
   
 All conference participants are invited to the WCMNM 2022 Congress Dinner on Wednesday 21 September. The dinner will take place at the Faculty Club located in a well preserved site of Leuven which has a rich history dating back to the thirteenth century.  
-    <div><strong>Faculty Club </strong></div>
-    <div>Groot Begijnhof 14 </div>
-    <div>3000 Leuven </div>
-    <div><a href="www.facultyclub.be/en">www.facultyclub.be/en</a></div>
-    
+  
+<div><strong>Faculty Club </strong></div>
+<div>Groot Begijnhof 14 </div>
+<div>3000 Leuven </div>
+<div><a href="www.facultyclub.be/en">www.facultyclub.be/en</a></div>
+  
+<img src="/images/Faculty Club.jpg" width="100%">     
 
     
 Faculty Club welcomes you in the magnificent restored, ancient buildings of Leuven's beguinages (Groot Begijnhof). The site is classified as a UNESCO World Heritage site. 
@@ -108,7 +110,8 @@ For more information, check out the following links:
    </ul>
     <h3> Welcome Reception: Town Hall / Grote Markt</h3> 
  
-  <img src="/images/Town hall.jpg" width="100%"> 
+<img src="/images/Town hall.jpg" width="100%"> 
+  
 To kick start our conference, we invite all participants on Monday 19 September at 7pm to a Welcome Reception offered by the City of Leuven in the sumptuous town hall, situated in the center of city.  
 The town hall is Leuven's pride and joy. Moreover, it is one of the best-known Gothic town halls worldwide. It took three architects and thirty years to build it. Leuven's 'Hall of Fame' features 235 statues, which were only added to the façade after 1850. The Saint Peter's Church is located directly opposite the Town Hall. 
 These days the town hall merely has a ceremonial function after the city's administrative services moved in 2009. 
