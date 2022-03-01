@@ -99,6 +99,7 @@ All conference participants are invited to the WCMNM 2022 Congress Dinner on Wed
     
 Faculty Club welcomes you in the magnificent restored, ancient buildings of Leuven's beguinages (Groot Begijnhof). The site is classified as a UNESCO World Heritage site. 
 Itinerary 
+  
 Faculty Club is situated along the ring road of Leuven, just off the E40/E314 and has parking facilities for 250 cars – only a 15-minute drive from the airport by train or car – 20 minutes from Brussels. 
 For more information, check out the following links: 
    <ul>
