@@ -84,7 +84,7 @@ The Leuven railway station is directly connected to the city centre via the Bond
    <div>Tel: +32 16 221252 - Fax: +32 16 295252</div> 
 &nbsp;   
   
-<strong>Please book your accommodation in time, as Leuven can be very busy in September and hotel availability is limited.</strong> 
+<div><strong>Please book your accommodation in time, as Leuven can be very busy in September and hotel availability is limited.</strong></div> 
     <div>You can plan the bus rides via: https://www.delijn.be/en/routeplanner  </div>
 &nbsp;
   
