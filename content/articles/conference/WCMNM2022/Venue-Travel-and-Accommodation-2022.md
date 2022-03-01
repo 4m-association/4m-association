@@ -95,7 +95,7 @@ All conference participants are invited to the WCMNM 2022 Congress Dinner on Wed
     <div>3000 Leuven </div>
     <div><a href="www.facultyclub.be/en">www.facultyclub.be/en</a></div>
     
-<img src="/image/Faculty Club.jpg" alt="Faculty Club"/>
+
     
 Faculty Club welcomes you in the magnificent restored, ancient buildings of Leuven's beguinages (Groot Begijnhof). The site is classified as a UNESCO World Heritage site. 
 Itinerary 
