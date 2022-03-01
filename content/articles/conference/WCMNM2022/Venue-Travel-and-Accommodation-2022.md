@@ -30,7 +30,7 @@ The Leuven railway station is directly connected to the city centre via the Bond
 <div><strong>Park Inn by Radisson Leuven</strong></div>
 <div>3,7 km from the venue 
 <div>1 minute walk (300m) from railway and bus station 
-<div>www.parkinn.com/hotel-leuven 
+  <div><a href="www.parkinn.com/hotel-leuven">www.parkinn.com/hotel-leuven</a></div>
 <div>Tel: +32 16 616600 - Fax: +32 16 616700 
 </div> 
 &nbsp;
@@ -38,7 +38,7 @@ The Leuven railway station is directly connected to the city centre via the Bond
 <div><strong>Hotel Binnenhof</strong></div>
   <div>3,3 km from the venue</div>
   <div>5 minutes walk from Leuven railway and bus station </div>
-  <div>www.hotelbinnenhof.be</div> 
+  <div><a href="www.hotelbinnenhof.be">www.hotelbinnenhof.be</a></div> 
   <div>Tel: +32 16 205592 - Fax: +32 16 236926 </div>
 &nbsp;
   
@@ -46,27 +46,27 @@ The Leuven railway station is directly connected to the city centre via the Bond
 <div>2,5 km from the venue</div> 
 <div>20 minutes by bus </div> 
 <div>35 minutes walk from the venue </div>
-  <div>www.pentahotels.com</div>
+  <div><a href="www.pentahotels.com>"www.pentahotels.com</a></div>
   <div>Tel: +32 16 317600 - Fax: +32 16 317601</div> 
 &nbsp; 
   <div><strong>Ibis Hotel Leuven Centrum</strong></div>
     <div>2 km from the venue </div>
     <div>15 minutes by bus</div>
     <div>30 minutes walk from the venue</div> 
-    <div>www.ibishotel.com</div>
+  <div><a href="www.ibishotel.com">www.ibishotel.com</a></div>
     <div>Tel: +32 16 293111 - Fax: +32 16 238792</div>
 &nbsp; 
-    <div><strong>Ibis Budget Hotel</strong></div>
+  <div><strong>Ibis Budget Hotel</strong></div>
     <div>3,7 km from the venue</div>
     <div>1 minute walk from railway and bus station</div> 
-    <div>www.ibisbudget.com</div>
+  <div><a href="www.ibisbudget.com">www.ibisbudget.com</a></div>
     <div>Tel: +32 16 479880 - Fax: +32 16 479881 </div>
 &nbsp; 
     <div><strong>Hotel New Damshire</strong></div>  
     <div>2 km from the venue </div>
     <div>15 minutes by bus </div>
     <div>30 minutes walk from the venue</div> 
-    <div>www.hotelnewdamshire.be</div> 
+  <div><a href="www.hotelnewdamshire.be">www.hotelnewdamshire.be</a></div> 
     <div>Tel: +32 16 745245 - Fax: +32 16 745246 </div>
 &nbsp; 
     <div><strong>Gasthof De Pastorij </strong></div>
