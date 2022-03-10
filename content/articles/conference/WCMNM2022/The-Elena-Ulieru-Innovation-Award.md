@@ -14,4 +14,4 @@ In memory of <strong>Elena Ulieru</strong>, SITEX, in cooperation with the 4M As
 •A free trip to Bucharest to visit SITEX (optional).
 
 Paper presentations on all conference topics are eligible for this award. 
-For more information contact the 4M/IWMF Conference 2016 secretary, <a href="mailto:a.svetozarova@bham.ac.uk"> Adriana Svetozarova </strong></a>
+For more information contact the WCMNNM 2022 secretary, <a href="mailto:a.svetozarova@bham.ac.uk"> Adriana Svetozarova </strong></a>
