@@ -14,6 +14,7 @@ date: 2022-01-05
 | Stefania	Bruschi	| University of Padova	Italy |
 | Evgueni	Bordatchev |	NRC	Canada |
 | Sylvie	Castagne | KU Leuven	Belgium|
+| Amal	Charles	| KIT	Germany |
 | Kai	Cheng |	Brunel University	UK |
 | Chunhui	Chung |	National Cheng Kung University	Taiwan |
 | Jian	Cao |	Northwestern University	USA |
@@ -44,6 +45,7 @@ date: 2022-01-05
 | Ming-Chyuan	Lu	| National Chung Hsing University	Taiwan |
 | Giovanni	Lucchetta |	University of Padova	Italy |
 | Numpon	Mahayotsanun	| Khon Kaen University	Thailand |
+| Deepak 	Marla |	IIT Bombay	India
 | Yasuo	Marumo |	Kumamoto University	Japan |
 | Paul	Mativenga	| University of Manchester	UK |
 | Takashi	Matsumura |	Tokyo Denki University	Japan |
@@ -86,8 +88,6 @@ date: 2022-01-05
 | Jiwang	Yan | Keio University	Japan |
 | Yongda	Yan	Harbin | Institute of Technology	China |
 | André	Zimmermann |	Hahn-Schickard	Germany |
-| Amal	Charles	| KIT	Germany |
-| Deepak 	Marla |	IIT Bombay	India
 | Marco	Sorgato	 | Università di Padova	Italy |
 | Davide	Masato	| University of Massachusetts Lowell 	USA |
 | Pin-Chuan	Chen |	National Taiwan University of Science and Technology	Taiwan |
