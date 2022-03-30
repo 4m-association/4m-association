@@ -34,7 +34,7 @@ Paper presentations on all conference topics are eligible for this award.
 </p>
 
  <p align="center">
-  <img src="/images/micromachines.jpg" width="100%">   
+  <img src="/images/micromachines.jpg" width="40%">   
  </p>
  
  **The Award package includes**
@@ -52,7 +52,7 @@ Paper presentations on all conference topics are eligible for this award.
 </p>
 
   <p align="center">
-  <img src="/images/micromachines.jpg" width="100%">   
+  <img src="/images/micromachines.jpg" width="40%">   
  </p>
  
  
