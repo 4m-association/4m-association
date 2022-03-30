@@ -9,7 +9,7 @@ date: 2022-03-10
 </p>
 
 <p align="center">    
- <img src="/images/Sitex45-logo.jpg" width="100%">   
+ <img src="/images/Sitex45-logo.jpg" width="50%">   
 </p>
 
 In memory of <strong>Elena Ulieru</strong>, SITEX, in cooperation with the 4M Association will offer a prize at the WCMNM 2022, for the best paper presentation by a young female scientist entitled “The Elena Ulieru Innovation Award". Elena was an active partner of the 4M Network of Excellence (NoE) and also a very successful author, who contributed papers to the 4M Conferences. Elena initiated research activities on monitoring systems’ development and implementation for medical, environment and ICT communications technologies. Also, Elena played an important role as CEO of  SITEX, and senior researcher, proposer, partner and coordinator of several national and European R&D cooperation projects.  
