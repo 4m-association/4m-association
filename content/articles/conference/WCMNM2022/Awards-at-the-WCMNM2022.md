@@ -34,7 +34,7 @@ Paper presentations on all conference topics are eligible for this award.
 </p>
 
  <p align="center">
-  <img src="/images/micromachines.jp" width="100%">   
+  <img src="/images/micromachines.jpg" width="100%">   
  </p>
  
  **The Award package includes**
@@ -47,9 +47,14 @@ Paper presentations on all conference topics are eligible for this award.
  
  <h2 align="center">Best Paper Award</h2>
 
-sponsored by 
+<p align="center">
+   sponsored by 
+</p>
 
- <img src="/images/micromachines.jp" width="100%">   
+  <p align="center">
+  <img src="/images/micromachines.jpg" width="100%">   
+ </p>
+ 
  
  **The Award package includes**
  
