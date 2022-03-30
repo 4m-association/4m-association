@@ -68,9 +68,9 @@ date: 2022-01-05
 | Volker 	Piotter |	KIT	Germany |
 | Raphaël	Pugin |	CSEM	Switzerland |
 | Yi	Qin |	University of Strathclyde, Glasgow	UK |
+| Mariangela	Quarto|	University of Bergamo	Italy|
 | Iban 	Quintana	| IK4-Tekniker	Spain |
 | Kamlakar	Rajurkar |	University of Nebraska	USA |
-| Mariangela	Quarto|	University of Bergamo	Italy|
 | Lara	Rebaioli |	STIIMA-CNR	Italy |
 | Andrew 	Rees	| Swansea University	UK
 | Claudia	Pagano |	STIIMA-CNR	Italy |
