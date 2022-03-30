@@ -13,12 +13,12 @@ date: 2022-01-05
 | Giuliano	Bissacco | 	DTU	Denmark |
 | Stefania	Bruschi	| University of Padova	Italy |
 | Evgueni	Bordatchev |	NRC	Canada |
+| Jian	Cao |	Northwestern University	USA |
 | Sylvie	Castagne | KU Leuven	Belgium|
 | Amal	Charles	| KIT	Germany |
 | Pin-Chuan	Chen |	National Taiwan University of Science and Technology	Taiwan |
 | Kai	Cheng |	Brunel University	UK |
 | Chunhui	Chung |	National Cheng Kung University	Taiwan |
-| Jian	Cao |	Northwestern University	USA |
 | Stefan	Dimov | University of Birmingham	UK |
 | Gianluca	D'Urso |	University of Bergamo	Italy |
 | Kornel	Ehmann |	Northwestern University	USA |
