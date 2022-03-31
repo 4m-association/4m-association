@@ -5,7 +5,7 @@ slug: join4m
 ### MEMBERSHIP LEVELS
 
 
-Please Note: 2019/2020 membership includes discount to 4M2020  
+Please Note: 2022/2023 membership includes discount to WCMNM2022 
 
 ### Sponsorship - €5000
 
