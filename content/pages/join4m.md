@@ -32,4 +32,4 @@ All the above fees are exclusive of VAT. When you join the 4M Association you ag
 
 To join the 4M Association please contact <a href="mailto:a.svetozarova@bham.ac.uk">the 4M Association Officer.</a> An invoice will be emailed to you. 
 
-**For a list of current members, click [here>>](/join/members/members.html)**
+
