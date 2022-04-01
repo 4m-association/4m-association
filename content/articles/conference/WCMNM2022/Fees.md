@@ -25,9 +25,9 @@ Non-members: €860
 
 
 
-The conference fees (in Euro) include printed proceedings, lunches, refreshments, social events and conference dinnerr.
+The conference fees (in Euro) include printed proceedings, lunches, refreshments, social events and conference dinner.
 
-<strong> One Day Conference</strong> (includes printed proceedings, lunches, refreshments): €320
+<strong> One Day Conference</strong> (includes printed proceedings, lunch, refreshments): €320
 
 Gala Dinner for accompanying people €105
   
