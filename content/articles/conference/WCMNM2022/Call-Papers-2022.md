@@ -7,5 +7,5 @@ Kindly download the call for papers in the attachment below, it contains all the
 
 | Attachment | Size |
 |---|---|
-|<a href="/files/First Call for Papers WCMNM 2022.pdf">First Call for Papers WCMNM 2022.pdf</a> | 935 KB |
+|<a href="/files/Second Call for Papers WCMNM 2022.pdf">Call for Papers WCMNM 2022.pdf</a> | 358 KB |
 
