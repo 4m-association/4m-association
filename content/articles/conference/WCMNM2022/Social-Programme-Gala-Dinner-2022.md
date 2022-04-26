@@ -53,4 +53,4 @@ For more information, check out the following links:
 Seven centuries of brewing traditions guarantee a perfectly brewed Stella Artois in the heart of the university city of Leuven. And you can see it with your own eyes during one of the entirely renewed, impressive and entertaining brewery visits.
 During the guided tour, which takes approximately one hour and a half, you will become familiar with all major aspects of the Stella Artois brewing process: the brand’s history, the brewing process and the breathtakingly fast bottling and canning lines.
 
-<img src="/images/Stella Artois.jpg" width="100%">    
+<img src="/images/Stella Artois.jpg" width="10%">    
