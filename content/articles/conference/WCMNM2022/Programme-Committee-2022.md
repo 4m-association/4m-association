@@ -32,7 +32,7 @@ date: 2022-01-05
 | Ping	Guo |	Northwestern University	USA |
 |Hans Nørgaard	Hansen |	DTU	Denmark |
 |Tong	Hao	| Tsinghua University, Beijing	China |
-| Wen-Jeng	Hsue	|	Taiwan |
+| Wen-Jeng	Hsue	|National Kaohsiung University of Applied Sciences, Taiwan |
 |Suhas	Joshi	| IIT Bombay	India |
 |Martin Byung-Guk Jun |	Purdue Univerisity	USA |
 |Shiv	Kapoor	| University of Illinois Urbana Champaign	USA |
@@ -42,7 +42,7 @@ date: 2022-01-05
 |Antony	Lee |	MIRDC	Taiwan |
 |Kuan-Ming	Li | National Taiwan University	Taiwan |
 | Yong	Li	| Tsinghua University	China |
-| Yunn-Shiuan	Liao |	Taiwan |
+| Yunn-Shiuan	Liao |National Taiwan University, Taiwan |
 | Chorng- Tyan 	Lin |	Metal Industries R&D Centre	Taiwan |
 | Ming-Chyuan	Lu	| National Chung Hsing University	Taiwan |
 | Giovanni	Lucchetta |	University of Padova	Italy |
@@ -75,7 +75,7 @@ date: 2022-01-05
 | Andrew 	Rees	| Swansea University	UK
 | Claudia	Pagano |	STIIMA-CNR	Italy |
 |Pavel 	Penchev	| University of Birmingam	UK |
-| Izidor 	Sabotin |		Slovenia |
+| Izidor 	Sabotin |	University of Ljubljana, Slovenia |
 | Tanveer	Saleh	| International Islamic University Malaysia	Malaysia |
 | Tohru	Sasaki	| University of Toyama	Japan |
 | Krishna Kumar	Saxena	|	KU Leuven Belgium |
@@ -91,10 +91,10 @@ date: 2022-01-05
 | Pierre	Vella	| Malta University	Malta |
 | Thomas	Velten	 | Fraunhofer IBMT	Germany
 | J.-J. Junz	Wang |	National Cheng-Kuang University	Taiwan |
-| Shih-Ming	Wang	| Chung Yuan Christian University	Taiwan |
+| Shih-Ming Wang | National Chung Hsing University Taiwan |
 | Zongwei	Xu	| Tianjin University	China |
 | Jiwang	Yan | Keio University	Japan |
-| Yongda	Yan	Harbin | Institute of Technology	China |
+| Yongda	Yan |	Harbin Institute of Technology	China |
 | André	Zimmermann |	Hahn-Schickard	Germany |
 | Wansheng	Zhao |	Shanghai Jiao Tong University	China |
 
