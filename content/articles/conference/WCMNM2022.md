@@ -1,5 +1,4 @@
 title: WCMNM2022
-New submission deadline- 15 May 2022
 date: 2021-11-30 
 tags: conference, home
 
