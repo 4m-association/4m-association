@@ -2,10 +2,14 @@ title: WCMNM2022
 date: 2021-11-30 
 tags: conference, home
 
-
 ## 5th World Congress on Micro and Nano Manufacturing
 	
 <strong>19-22 September 2022</strong>
+
+<p align="center">
+	<strong> DEADLINE FOR PAPER SUBMISSIONS EXTENDED: 15MAY 2022! </strong>
+</p>
+<hr />
 
 Jointly organised by the 4M Association, the International Institution for Micro Manufacturing (I2M2) and the International Forum on Micro Manufacturing (IFMM),  the Congress hopes to bring together the worldwide community of micro- & nano-manufacturing experts.
 	
