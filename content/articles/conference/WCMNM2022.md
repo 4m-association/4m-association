@@ -52,7 +52,7 @@ Leuven is the largest city of the province of Flemish Brabant in the Flemish Reg
 
 The main congress programme takes place from the <strong>19th to 22nd of September 2022</strong>
 
-Submission deadline for full papers: <strong>30th of April 2022</strong>                       
+Submission deadline for full papers: <strong>15 May 2022</strong>                       
 	
 ##  Call for papers
 
