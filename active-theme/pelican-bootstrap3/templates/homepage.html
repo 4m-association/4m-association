@@ -8,7 +8,7 @@
 
 {% block content %}
     {% if articles %}
-        {% for article in articles if 'home' in article.tags | batch(10) | first %}
+        {% for article in (articles_page.object_list if articles_page else articles) if 'home' in article.tags | batch(10) | first %}
             <article>
                 <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
                 {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
