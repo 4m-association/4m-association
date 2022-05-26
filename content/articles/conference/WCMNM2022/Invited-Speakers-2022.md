@@ -25,7 +25,7 @@ date: 2022-01-05
 
    <img src="/images/Ingrid De Wolf.jpg" width="172" height="163">
 <div>
-<h3><a href="/files/De Wolf.pdf"><strong>Inrid De Wolf</strong></h3></a>
+<h3><a href="/files/De Wolf.pdf"><strong>Ingrid De Wolf</strong></h3></a>
  <div>
     <div>Professor</div>
     <div>Imec and Dept. Materials Engineering, KU Leuven, Leuven (Belgium)</div>
