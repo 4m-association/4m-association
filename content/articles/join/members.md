@@ -14,6 +14,7 @@ For membership benefits, please <a href="/join4m.html">click here>></a>
  - MIRDC, TAIWAN
  - KIT, GERMANY
  - CT-IPC, FRANCE
+ - DTU, Denmark
 
 ### Individual Members
 
