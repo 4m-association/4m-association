@@ -12,9 +12,11 @@ For membership benefits, please <a href="/join4m.html">click here>></a>
  - UNIVERSITY OF BIRMINGHAM, UK
  - KU Leuven, BELGIUM
  - MIRDC, TAIWAN
+ - KIT, GERMANY
+ - CT-IPC, FRANCE
 
 ### Individual Members
 
- - Albert Wen-Jeng Hsue, National Kaohsiung University of Science and Technology (NKUST), Taiwan
+ - Prof Albert Wen-Jeng Hsue, National Kaohsiung University of Science and Technology (NKUST), Taiwan
 
 ...........................................................................................
