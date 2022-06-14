@@ -15,7 +15,7 @@ The conference 4-page extended abstracts will be printed in the proceedings and 
 <div>Only the title and short abstracts will be indexed and the copyright remains with the authors.
 A transfer of copyright to WCMNM 2022 will be required only for the purpose of printing the proceedings. 
 
-<strong>The Copyright form (Licence agreement) </strong> can be downloaded here <a href="/files/License agreement- 2022.pdf">Copyright forme</a>
+<strong>The Copyright form (Licence agreement) </strong> can be downloaded here <a href="/files/License agreement- 2022.pdf">Copyright form</a>
 
   
  Please send the signed form to <a href="mailto:a.svetozarova@bham.ac.uk">the 4M Association Officer </a> before <strong> 30th June 2022</Strong>
