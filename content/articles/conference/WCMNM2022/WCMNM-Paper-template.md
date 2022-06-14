@@ -5,13 +5,13 @@ date: 2022-01-14
 
 <h2>Copyright</h2>
   
-The conference 4-page extended abstracts will be printed in the proceedings and available online only to the conference participants who will
+The conference 4-page extended abstracts will be printed in the proceedings and available online only to the
 
-receive a  password.
+conference participants who will receive a  password.
 
-Only the title and short abstracts will be indexed and the copyright remains with the authors. A transfer of copyright to WCMNM 2022 will be
+Only the title and short abstracts will be indexed and the copyright remains with the authors. A transfer of copyright to 
 
-required only for the purpose of printing the proceedings. 
+WCMNM 2022 will be required only for the purpose of printing the proceedings. 
 
 <strong>The Copyright form (Licence agreement) </strong> can be downloaded here <a href="/files/License Agreement- 2022.pdf">Copyright form</a>.
 
