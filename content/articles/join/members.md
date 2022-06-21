@@ -9,12 +9,13 @@ For membership benefits, please <a href="/join4m.html">click here>></a>
 
 ### SME/Research Organisations
 
- - UNIVERSITY OF BIRMINGHAM, UK
- - KU Leuven, BELGIUM
- - MIRDC, TAIWAN
- - KIT, GERMANY
- - CT-IPC, FRANCE
+ - University of Birmingham, UK
+ - KU Leuven, Belgium
+ - MIRDC, Taiwan
+ - KIT, Germany
+ - CT-IPC, France
  - DTU, Denmark
+ - HAHN-SCHICKARD, Germany
 
 ### Individual Members
 
