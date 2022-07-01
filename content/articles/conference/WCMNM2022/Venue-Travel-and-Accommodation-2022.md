@@ -59,7 +59,7 @@ The Leuven railway station is directly connected to the city centre via the Bond
   <div><strong>Ibis Budget Hotel</strong></div>
     <div>3,7 km from the venue</div>
     <div>1 minute walk from railway and bus station</div> 
-  <div><a href="www.ibisbudget.com">www.ibisbudget.com</a></div>
+  <div><a href="http://ibis-budget-centrum.hotelsinleuven.com/en/">www.ibisbudget.com</a></div>
     <div>Tel: +32 16 479880 - Fax: +32 16 479881 </div>
 &nbsp; 
     <div><strong>Hotel New Damshire</strong></div>  
