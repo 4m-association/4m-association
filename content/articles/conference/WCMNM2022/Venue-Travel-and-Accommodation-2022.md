@@ -46,7 +46,7 @@ The Leuven railway station is directly connected to the city centre via the Bond
 <div>2,5 km from the venue</div> 
 <div>20 minutes by bus </div> 
 <div>35 minutes walk from the venue </div>
-  <div><a href="www.pentahotels.com>"www.pentahotels.com</a></div>
+  <div><a href="https://www.pentahotels.com/">www.pentahotels.com</a></div>
   <div>Tel: +32 16 317600 - Fax: +32 16 317601</div> 
 &nbsp; 
   <div><strong>Ibis Hotel Leuven Centrum</strong></div>
