@@ -38,7 +38,7 @@ The Leuven railway station is directly connected to the city centre via the Bond
 <div><strong>Hotel Binnenhof</strong></div>
   <div>3,3 km from the venue</div>
   <div>5 minutes walk from Leuven railway and bus station </div>
-  <div><a href="www.hotelbinnenhof.be">www.hotelbinnenhof.be</a></div> 
+  <div><a href="https://www.hotelbinnenhof.be/">www.hotelbinnenhof.be</a></div> 
   <div>Tel: +32 16 205592 - Fax: +32 16 236926 </div>
 &nbsp;
   
