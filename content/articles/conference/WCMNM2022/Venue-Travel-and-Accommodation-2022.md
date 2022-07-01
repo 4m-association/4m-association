@@ -53,7 +53,7 @@ The Leuven railway station is directly connected to the city centre via the Bond
     <div>2 km from the venue </div>
     <div>15 minutes by bus</div>
     <div>30 minutes walk from the venue</div> 
-  <div><a href="www.ibishotel.com">www.ibishotel.com</a></div>
+  <div><a href="https://all.accor.com/hotel/1457/index.en.shtml?dateIn=2022-07-12&nights=1&compositions=2&stayplus=false&snu=false#origin=accor">ibis hotel Leuven</a></div>
     <div>Tel: +32 16 293111 - Fax: +32 16 238792</div>
 &nbsp; 
   <div><strong>Ibis Budget Hotel</strong></div>
@@ -61,13 +61,6 @@ The Leuven railway station is directly connected to the city centre via the Bond
     <div>1 minute walk from railway and bus station</div> 
   <div><a href="http://ibis-budget-centrum.hotelsinleuven.com/en/">http://ibis-budget-centrum.hotelsinleuven.com/en/</a></div>
     <div>Tel: +32 16 479880 - Fax: +32 16 479881 </div>
-&nbsp; 
-    <div><strong>Hotel New Damshire</strong></div>  
-    <div>2 km from the venue </div>
-    <div>15 minutes by bus </div>
-    <div>30 minutes walk from the venue</div> 
-  <div><a href="www.hotelnewdamshire.be">www.hotelnewdamshire.be</a></div> 
-    <div>Tel: +32 16 745245 - Fax: +32 16 745246 </div>
 &nbsp; 
     <div><strong>Gasthof De Pastorij </strong></div>
     <div>2,3 km from the venue </div>
