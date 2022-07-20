@@ -20,5 +20,7 @@ For membership benefits, please <a href="/join4m.html">click here>></a>
 ### Individual Members
 
  - Prof Albert Wen-Jeng Hsue, National Kaohsiung University of Science and Technology (NKUST), Taiwan
+ - Prof Wataru Natsu, Tokyo University of Agriculture and Technology, Japan
+ - Prof Wayne NP Hung, Texas A&M University, USA
 
 ...........................................................................................
