@@ -10,8 +10,7 @@ By clicking on the link below, you will be redirected to the registration and pa
 
 Please note that if you do not have a KU Leuven account yet, you will be asked to create one before logging in for the first time.
 
-Important information:
-All speakers need to register before <strong>12 July 2022</strong> in order for their contribution to be listed in the program and proceedings.
+An instruction on how to register can be seen <a href="/files/Procedure registration WCMNM 2022.pdf">here</a>
 
 Payment is possible by credit card or via an invoice. If you choose to pay by credit card, you will receive a payment receipt but we will not be able to generate an invoice afterwards.
 For participants who require an invitation letter for their VISA application, we recommend to pay by credit card as this is faster. The invitation letter will be sent after the payment has been received.
