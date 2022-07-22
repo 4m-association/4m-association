@@ -16,11 +16,11 @@ For membership benefits, please <a href="/join4m.html">click here>></a>
  - CT-IPC, France
  - DTU, Denmark
  - HAHN-SCHICKARD, Germany
+ - Cardiff University, UK
 
 ### Individual Members
 
  - Prof Albert Wen-Jeng Hsue, National Kaohsiung University of Science and Technology (NKUST), Taiwan
- - Prof Wataru Natsu, Tokyo University of Agriculture and Technology, Japan
  - Prof Wayne NP Hung, Texas A&M University, USA
 
 ...........................................................................................
