@@ -55,7 +55,7 @@ date: 2022-01-05
 | Takashi	Matsumura |	Tokyo Denki University	Japan |
 | J. Rhett Mayor | Georgia Institute of Technology	USA |
 | Yonggan	Meng | Tsinghua University	China |
-| Hussein	Mohamed |	Helwan Univerity	Egypt |
+| Hussein	Mohamed |	Helwan University	Egypt |
 | Balasubramanian	Nagarajan |	 KU Leuven Belgium |
 | Wataru	Natsu |	Tokyo University of Agriculture and Technology	Japan |
 | Gracious	Ngaile |	North Carolina State University	USA |
