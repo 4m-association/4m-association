@@ -61,7 +61,9 @@ date: 2022-01-05
 | Gracious	Ngaile |	North Carolina State University	USA |
 | José	Ocaña	| UPM	Spain |
 | Burak	Ozdoganlar |	Carnegie Mellon University	USA |
+| Claudia	Pagano |	STIIMA-CNR	Italy |
 | Simon	Park |	University of Calgary	Canada |
+| Pavel 	Penchev	| University of Birmingam	UK |
 | Petko 	Petkov |	University of Portsmouth	UK |
 | Frank	Pfefferkorn |	University of Wisconsin	USA  |
 | Wilhelm	Pfleging	| KIT	Germany |
@@ -72,9 +74,7 @@ date: 2022-01-05
 | Iban 	Quintana	| IK4-Tekniker	Spain |
 | Kamlakar	Rajurkar |	University of Nebraska	USA |
 | Lara	Rebaioli |	STIIMA-CNR	Italy |
-| Andrew 	Rees	| Swansea University	UK
-| Claudia	Pagano |	STIIMA-CNR	Italy |
-|Pavel 	Penchev	| University of Birmingam	UK |
+| Andrew 	Rees	| Swansea University	UK |
 | Izidor 	Sabotin |	University of Ljubljana, Slovenia |
 | Tanveer	Saleh	| International Islamic University Malaysia	Malaysia |
 | Tohru	Sasaki	| University of Toyama	Japan |
