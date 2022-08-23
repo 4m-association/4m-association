@@ -22,5 +22,6 @@ For membership benefits, please <a href="/join4m.html">click here>></a>
 
  - Prof Albert Wen-Jeng Hsue, National Kaohsiung University of Science and Technology (NKUST), Taiwan
  - Prof Wayne NP Hung, Texas A&M University, USA
+ - Prof Gandjar Kiswanto, Universitas Indonesia
 
 ...........................................................................................
