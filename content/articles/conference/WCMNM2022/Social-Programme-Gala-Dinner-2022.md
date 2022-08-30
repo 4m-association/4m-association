@@ -44,9 +44,9 @@ For more information, check out the following links:
 
 
 
- <h3>Thursday 22 September 2022: Visit Beer Brewery </h3>
+ <h3>Thursday 22 September 2022: Visit Beer Brewery or Art Museum </h3>
  
- On Thursday afternoon, we will offer the possibility to join a guided tour to the Stella Artois Brewery in Leuven.
+ On Thursday afternoon, we will offer the possibility to join a guided tour to the Stella Artois Brewery or to the M-Museum in Leuven.
  
 <h4>About the Stella Artois brewery</h4>
 
@@ -54,3 +54,8 @@ Seven centuries of brewing traditions guarantee a perfectly brewed Stella Artois
 During the guided tour, which takes approximately one hour and a half, you will become familiar with all major aspects of the Stella Artois brewing process: the brand’s history, the brewing process and the breathtakingly fast bottling and canning lines.
 
 <img src="/images/Stella-Artois.jpg" width="100%">     
+
+
+<h4>About the M-Museum</h4>
+The museum displays old and new art inspired by Leuven’s versatility. The collection is mainly focused on the art production in Leuven and Brabant from the Middle Ages to the 19th century. In addition to the permanent collection, M also presents temporary exhibitions of both old masters and contemporary artists. The impressive architecture deserves special attention. Designed by Belgian top architect Stéphane Beel, the complex integrates historical buildings and contemporary architecture including an enclosed garden and roof terrace.
+
