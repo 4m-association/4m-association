@@ -15,7 +15,7 @@ date: 2022-01-05
 
 <img src="/images/Takashi Matsumura.jpg" width="172" height="163">
 <div>
-<h3><a href="/files/CV-Takashi Matsumura.pdf"><strong>Takashi Matsumura</strong></h3></a>
+<h3><a href="/files/Keynote IFMM Prof Matsumara Micro Machining of Brittle Materials.pdf"><strong>Takashi Matsumura</strong></h3></a>
  <div>
     <div>Professor</div>
     <div>Tokyo Denki University (Japan)</div>
