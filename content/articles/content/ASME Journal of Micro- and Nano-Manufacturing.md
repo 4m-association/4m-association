@@ -2,7 +2,7 @@ title: ASME Journal of Micro- and Nano-Manufacturing
 date: 2022-01-24 
 tags: home
 
-## CALL FOR PAPERS-  ASME Journal of Micro and Nano-Manufacturing  
+## CALL FOR PAPERS
 <strong>Special Issue on Applications of Micro and Nano-Manufacturing </strong>
 
 <img src="/images/JMNM banner.jpg" width="100%"> 
