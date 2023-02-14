@@ -45,7 +45,7 @@ Submission deadline for full papers: <strong>15 April 2023</strong>
 
 Full paper acceptance : <strong>1 June 2023</strong>
 
-Registration opens <strong> 15 April </strong>
+Registration opens <strong> 15 April 2023</strong>
 	
 ##  Call for papers
 
