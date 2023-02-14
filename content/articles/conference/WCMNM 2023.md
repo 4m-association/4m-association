@@ -17,7 +17,7 @@ Jointly organised by the International Institution for Micro Manufacturing (I2M2
 	
 ##  Congress Chair
 	
-Prof Ping Guo, NorthwesternUniversity,USA
+Prof Ping Guo, Northwestern University,USA
 	
 
 ## Congress Co-Chairs 
