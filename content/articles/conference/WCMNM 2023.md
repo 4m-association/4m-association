@@ -23,15 +23,15 @@ Prof Ping Guo, NorthwesternUniversity,USA
 ## Congress Co-Chairs 
 
 	
-Jian Cao Northwestern University, USA
+Jian Cao, Northwestern University, USA
 
-Ming-ChyuanLu National Chung Hsing University, Taiwan 
+Ming-Chyuan Lu, National Chung Hsing University, Taiwan 
 
-Stefan Dimov University of Birmingham, UK
+Stefan Dimov, University of Birmingham, UK
 
-KuniakiDohda Northwestern University, USA 
+Kuniaki Dohda, Northwestern University, USA 
 
-Kornel Ehmann NorthwesternUniversity,USA
+Kornel Ehmann, NorthwesternUniversity,USA
 
 
 
