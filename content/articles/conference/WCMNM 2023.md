@@ -51,7 +51,7 @@ Registration opens <strong> 15 April 2023</strong>
 
 We invite you to submit 4-page papers using the template provided on the conference website [https://www.wcmnm2023.northwestern.edu](https://www.wcmnm2023.northwestern.edu). 
 
-Link for submission: [https://conf.papercept.net/conferences/scripts/start.pl](https://conf.papercept.net/conferences/scripts/start.p)
+Link for submission: [https://conf.papercept.net/conferences/scripts/start.pl](https://conf.papercept.net/conferences/scripts/start.pl) 
 
 We also encourage the authors to contribute the extended submission to one of the following special issues initiated by our conference committee:
 ASME Journalof Micro and Nano-Manufacturing: Special Issue on Applications of Micro and Nano-Manufacturing (Deadline: May 31, 2023)
