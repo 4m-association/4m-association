@@ -54,7 +54,8 @@ We invite you to submit 4-page papers using the template provided on the confere
 Link for submission: [https://conf.papercept.net/conferences/scripts/start.pl](https://conf.papercept.net/conferences/scripts/start.pl) 
 
 We also encourage the authors to contribute the extended submission to one of the following special issues initiated by our conference committee:
-ASME Journalof Micro and Nano-Manufacturing: Special Issue on Applications of Micro and Nano-Manufacturing (Deadline: May 31, 2023)
+<a href="https://www.asme.org/getmedia/252ee3d7-a96f-4054-93a3-db54d78cefa1/jmnm-si-applications-of-micro-and-nano-manu-jan2023.pdf">ASME Journalof Micro and Nano-Manufacturing: Special Issue on Applications of Micro and Nano-Manufacturing</a> (Deadline: May 31, 2023)
+
 
 
 ##  Congress Theme	
