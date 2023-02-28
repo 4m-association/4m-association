@@ -49,7 +49,7 @@ Registration opens <strong> 15 April 2023</strong>
 	
 ##  Call for papers
 
-We invite you to submit 4-page papers using the template provided on the conference website [https://www.wcmnm2023.northwestern.edu](https://www.wcmnm2023.northwestern.edu). 
+We invite you to submit 4-page papers using the template provided on the conference website [https://wcmnm2023.northwestern.edu](https://wcmnm2023.northwestern.edu). 
 
 Link for submission: [https://conf.papercept.net/conferences/scripts/start.pl](https://conf.papercept.net/conferences/scripts/start.pl) 
 
@@ -80,6 +80,6 @@ We also encourage the authors to contribute the extended submission to one of th
 </ul>
 	 
 	
-For more information please see [https://www.wcmnm2023.northwestern.edu](https://www.wcmnm2023.northwestern.edu)
+For more information please see [https://wcmnm2023.northwestern.edu](https://wcmnm2023.northwestern.edu)
 	 
 Contact: <strong><a href="mailto:maegen.gregory@northwestern.edu">Ms. Maegen Gregory</a></strong>
