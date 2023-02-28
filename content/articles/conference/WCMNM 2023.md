@@ -53,6 +53,8 @@ We invite you to submit 4-page papers using the template provided on the confere
 
 Link for submission: [https://conf.papercept.net/conferences/scripts/start.pl](https://conf.papercept.net/conferences/scripts/start.pl) 
 
+Please see the official <a href="/files/Flyer WCMNM2023.pdf">Call for Papers WCMNM 2023</a>
+
 We also encourage the authors to contribute the extended submission to one of the following special issues initiated by our conference committee:
 <a href="https://www.asme.org/getmedia/252ee3d7-a96f-4054-93a3-db54d78cefa1/jmnm-si-applications-of-micro-and-nano-manu-jan2023.pdf">ASME Journalof Micro and Nano-Manufacturing: Special Issue on Applications of Micro and Nano-Manufacturing</a> (Deadline: May 31, 2023)
 
