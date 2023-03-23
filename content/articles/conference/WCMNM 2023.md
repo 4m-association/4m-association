@@ -4,7 +4,7 @@ tags: conference, home
 
 ## 6th World Congress on Micro and Nano Manufacturing
 	
-<strong>19-21 September 2023</strong>
+<strong>18-21 September 2023</strong>
 
 <strong> Evanston, IL, U.S.</strong>
 
@@ -39,7 +39,7 @@ Kornel Ehmann, NorthwesternUniversity,USA
 ##  Important Dates
 	
 
-The main congress programme takes place from the <strong>19th to 21nd of September 2023</strong>
+The main congress programme takes place from the <strong>18th to 21st of September 2023</strong>
 
 Submission deadline for full papers: <strong>15 April 2023</strong>
 
