@@ -1,6 +1,6 @@
 title: 4M 2013 Invited Speaker: Professor Dr.-Ing. Christian Hopmann
 date: 2013-08-16
-tags: 4m-conference-series, conference
+tags: conference
 
 
 Institut für Kunststoffverarbeitung (IKV) 
