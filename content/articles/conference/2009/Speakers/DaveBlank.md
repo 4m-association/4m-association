@@ -1,6 +1,6 @@
 title: Dave H.A. Blank
 date: 2009-03-09 
-tags: conference, home
+tags: conference
 
 
 ![prof. dr. ing. Dave H.A. Blank](/images/daveblank.jpg) Prof. Dr. Ing. Dave H.A. Blank was born in 1953 in Amsterdam, Netherlands. He started his studies on the primary technical school (LTS), followed by the secondary (MTS) and higher technical school (HTS). After his masters in Applied Physics, he received in 1991 his PhD in Physics from the University of Twente, Netherlands for his dissertation on High-Tc thin films prepared by laser ablation: an experimental study, under supervision of prof. dr. Horst Rogalla.
