@@ -1,6 +1,6 @@
 title: Shiv G. Kapoor
 date: 2009-02-05 
-tags: conference, home
+tags: conference
 
 
 ![Dr. Shiv G. Kapoor](/images/kapoor.jpg) Dr. Shiv G. Kapoor is  Grayce Wicall Gauthier Chair Professor in the Department of Mechanical Science and Engineering at the University of Illinois, Urbana-Champaign. He has been a significant contributor to the field of manufacturing engineering research and education and a pioneer in the field of mathematical modelling and simulation of machining processes both at micro and macro-scale.  
