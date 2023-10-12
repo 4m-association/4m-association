@@ -1,6 +1,6 @@
 title: Important Deadlines
 date: 2009-04-06 
-tags: conference, home
+tags: conference
 
 
 <table class="info" style="width:100%;">
