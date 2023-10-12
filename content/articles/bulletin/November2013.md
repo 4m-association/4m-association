@@ -1,5 +1,5 @@
 title: November '13
-date: 2014-04-07 
+date: 2013-11-01 
 tags: bulletin, home
 
 
