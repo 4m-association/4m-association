@@ -1,6 +1,6 @@
 title: Sponsoring 4M2012
 date: 2011-12-09 
-tags: conference, home
+tags: conference
 
 
 Stand out from the rest in front of more than 100 micro-manufacturing experts from around the world. As a sponsor, you can promote your company’s mission even more effectively to the assembled individuals and organisations attending 4M2012 while learning about the latest advances in micro-manufacturing research.
