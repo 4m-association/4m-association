@@ -1,6 +1,6 @@
 title: 2011 Summer School on Micro Mechanical Systems Design and Manufacture
 date: 2011-11-21
-tags: home, summer-school
+tags: summer-school
 
 ![2011 attendees](/images/dsc_4771_b.jpg)   
 The 2011 edition of the Summer School on “Micro Mechanical Systems Design and Manufacture” organised by DTU was attended by 20 students representing 7 countries of affiliation and 10 nationalities!
