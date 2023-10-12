@@ -1,6 +1,6 @@
 title: Ian Hutchings
 date: 2009-02-05 
-tags: conference, home
+tags: conference
 
 
 ![Ian Hutchins](/images/ianhutchings.jpg) 
