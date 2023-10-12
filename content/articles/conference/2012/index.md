@@ -1,6 +1,6 @@
 title: 4M 2012 Conference
 date: 2012-03-01
-tags: 4m-conference-series, conference, home
+tags: 4m-conference-series, conference
 slug: conference-2012-index
 
 
