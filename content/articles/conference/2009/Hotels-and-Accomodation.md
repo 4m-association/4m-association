@@ -1,6 +1,6 @@
 title: Hotels and Acommodation
 date: 2009-07-13 
-tags: conference, home
+tags: conference
 
 
 Rooms have been reserved at the following hotels. These reservations will only be held until 1st September 2009:
