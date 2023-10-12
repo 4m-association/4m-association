@@ -1,6 +1,6 @@
 title: 4M 2013 Invited Speaker: Professor Richard Leach 
 date: 2013-08-15
-tags: 4m-conference-series, conference
+tags: conference
 
 
 Engineering Measurement Division | National Physical Laboratory | Teddington, Middlesex TW11 0LW | UK | +44 20 8943 6303 | [richard.leach@npl.co.uk](mailto:richard.leach@npl.co.uk)
