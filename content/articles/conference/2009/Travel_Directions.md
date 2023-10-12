@@ -1,6 +1,6 @@
 title: Travel Directions
 date: 2008-12-05 
-tags: conference, home
+tags: conference
 
 
 <!--break-->
