@@ -1,6 +1,6 @@
 title: 4M 2013 Invited Speaker: Yasunori Saotome
 date: 2013-08-15
-tags: 4m-conference-series, conference, home
+tags: 4m-conference-series, conference
 
 
 Kansai Center | Institute for Materials Research | Tohoku University | 9203 Bldg. in  | Univ. of Hyogo | Shosha 2167 | Himeji, Hyogo 671-2280 | JAPAN | +81 79 260 7208 | [saotome@imr.tohoku.ac.jp](mailto:saotome@imr.tohoku.ac.jp)
