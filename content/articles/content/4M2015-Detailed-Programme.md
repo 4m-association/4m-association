@@ -1,6 +1,6 @@
 title: 4M 2015 Detailed Programme
 date: 2014-07-30
-tags: 4m-conference-series, conference
+tags: conference
 
 
 **Download the full schedule at the bottom of this page!**
