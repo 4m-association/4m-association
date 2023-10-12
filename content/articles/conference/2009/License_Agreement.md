@@ -1,6 +1,6 @@
 title: License agreement
 date: 2009-06-04 
-tags: conference, home
+tags: conference
 
 
 <!--break-->##Important dates
