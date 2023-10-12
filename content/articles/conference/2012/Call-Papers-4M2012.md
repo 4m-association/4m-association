@@ -1,6 +1,6 @@
 title: Call for Papers 4M2012
 date: 2011-12-19 
-tags: conference, home
+tags: conference
 
 
 The first Call for Papers for 4M2012 is published and can be viewed or downloaded by clicking on the icon below.
