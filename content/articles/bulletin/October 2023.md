@@ -14,7 +14,7 @@ Three research societies jointly organize the World Congress on Micro and Nano M
 
 ####Key Dates (Tentative)
 
-<li>Early Bird Registration: January 15 to July 15, 2024</li>li>
+<li>Early Bird Registration: January 15 to July 15, 2024</li>
 
 <li>Full Papers Submission Starts: January 15, 2024</li>
 
