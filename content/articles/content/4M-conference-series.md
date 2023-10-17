@@ -3,6 +3,7 @@ date: 2018-10-08
 tags: 4m-conference-series, home, 4m-conference
 
 <ul class="links in-links">
+<li><a href="/content/4M-conference-series/4m-conference-series.html#2019">WCMNM2019</a></li>  
 <li><a href="/content/4M-conference-series/4m-conference-series.html#2018">WCMNM2018</a></li>
 <li><a href="/content/4M-conference-series/4m-conference-series.html#2016">4M/IWMF2016</a></li>
 <li><a href="/content/4M-conference-series/4m-conference-series.html#2015">4M/ICOMM2015</a></li>
