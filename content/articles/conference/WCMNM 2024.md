@@ -6,7 +6,7 @@ tags: conference, home
 	
 <strong>16-19 September 2024</strong>
 
-<strong> Dusit Thani Pattaya, Thailand</strong>
+<strong> Pattaya, Thailand</strong>
 
 
 Jointly organised by the International Institution for Micro Manufacturing (I2M2), the 4M Association and the International Forum on Micro Manufacturing (IFMM),  the Congress hopes to bring together the worldwide community of micro- & nano-manufacturing experts.
