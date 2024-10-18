@@ -35,7 +35,7 @@ Khamis Essa, University of Birmingham, UK
 
 Tohru Sasaki, University of Toyama, Japan
 
-Sylvie Castagne, KU Leuven, Belgium
+Bruno Azeredo,  Arizona State University, USA
 
 
 	
