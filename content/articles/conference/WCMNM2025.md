@@ -17,7 +17,7 @@ Jointly organised by the International Institution for Micro Manufacturing (I2M2
 	
 ##  Congress Chair
 	
-Pierre Vella, University of Malta
+Pierre Vella, University of Malta, Malta
 	
 
 ## Congress Co-Chairs 
@@ -54,7 +54,7 @@ Registration opens <strong>To be Announced</strong>
 
 We invite you to submit 4-page papers using the template provided on the conference website <a href="/files/WCMNM2025 paper template.docx">Paper Template</a>. 
 
-Link for submission and Official Call for Papers: To be announced shortly
+Link for submission and Official Call for Papers: <strong>To be Announced</strong>
 
 
 ##  Congress Theme	
