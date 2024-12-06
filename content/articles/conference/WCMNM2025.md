@@ -44,9 +44,9 @@ Bruno Azeredo,  Arizona State University, USA
 
 The main congress programme takes place from the <strong>15th to 18th of September 2025</strong>
 
-Submission deadline for full papers: <strong>To be Announced</strong>
+Submission deadline for full papers: <strong>11th April</strong>
 
-Full paper acceptance : <strong>To be Announced</strong>
+Full paper acceptance : <strong>27th June</strong>
 
 Registration opens <strong>To be Announced</strong>
 	
@@ -54,7 +54,7 @@ Registration opens <strong>To be Announced</strong>
 
 We invite you to submit 4-page papers using the template provided on the conference website <a href="/files/WCMNM2025 paper template.docx">Paper Template</a>. 
 
-Link for submission and Official Call for Papers: <strong>To be Announced</strong>
+Link for submission and Official Call for Papers: <a href="/files/WCMNM2025 Call for Papers">Paper Template</a>.
 
 
 ##  Congress Theme	
