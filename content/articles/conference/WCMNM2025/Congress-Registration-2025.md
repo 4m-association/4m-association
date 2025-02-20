@@ -1,20 +1,18 @@
-title: Congress Registration 2022
-date: 2022-01-05
+title: Congress Registration 2025
+date: 2025-01-05
 
 ### Registration
 
-The registration for WCMNM 2022 is now open.
-By clicking on the link below, you will be redirected to the registration and payment platform of KU Leuven. 
-<div><a href="https://icts.kuleuven.be/apps/onebutton/registrations/17505">https://icts.kuleuven.be/apps/onebutton/registrations/17505</a></div>
+The registration for WCMNM 2025 opens on the 1st of April 2025.
 
 
-Please note that if you do not have a KU Leuven account yet, you will be asked to create one before logging in for the first time.
+In order for a paper to be included in the conference programme and appear in the proceedings at least one author must register for the conference before the 3rd of July 2025. The Authors Final Registration deadline is fixed in relation to the production cycle of the proceedings and cannot be changed.
 
-An instruction on how to register can be seen <a href="/files/Procedure registration WCMNM 2022.pdf">here</a>
+### VISA Information
 
-Payment is possible by credit card or via an invoice. If you choose to pay by credit card, you will receive a payment receipt but we will not be able to generate an invoice afterwards.
-For participants who require an invitation letter for their VISA application, we recommend to pay by credit card as this is faster. The invitation letter will be sent after the payment has been received.
+Malta is part of the Schengen Area and thus please get in contact with your local Embassy of Malta if you require a Schengen VISA to enter the country for more information on the application process.
 
+In case you need an invitation letter to obtain visa, please send your request to the <strong><a href="mailto:AXT916@student.bham.ac.uk">4M Administrator</a></strong>
 
 
 
