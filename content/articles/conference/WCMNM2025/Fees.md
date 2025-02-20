@@ -1,5 +1,5 @@
 title: Conference fees
-date: 2022-03-31
+date: 2025-02-12
  
 ### Conference fees
 
@@ -7,30 +7,27 @@ date: 2022-03-31
 
 <hr />
 
-<strong>Early Bird (before 15th of August 2022)</strong>
+<strong>Early Bird (before 1st of August 2025)</strong>
 
-4M members & All students: €490
+4M, I2M2 and IFMM members: £570
 
-I2M2 and IFMM members: €670
+Students accompanied by another participant: £375
 
-Non-members: €760
+Non-members: £625
 
-<strong>After 15th of August 2022</strong>
+<strong>After 1st of August 2025</strong>
 
-4M members & All students: €580
+4M, I2M2 and IFMM members: £625
 
-I2M2 and IFMM members: €765
+Students accompanied by another participant: £430
 
-Non-members: €860
+Non-members: £700
 
 
+The conference fees include printed proceedings, lunches, refreshments, social events and conference dinner.
 
-The conference fees (in Euro) include printed proceedings, lunches, refreshments, social events and conference dinner.
+<strong> One Day Conference</strong> (includes printed proceedings, lunch, refreshments, gala dinner): £320
 
-<strong> One Day Conference</strong> (includes printed proceedings, lunch, refreshments): €320
-
-Gala Dinner for accompanying people €105
-  
-  <a href="https://www.4m-association.org/join4m.html">Joining 4M</a>
+Valletta Tour & Gala Dinner for accompanying people: £55
 
 
