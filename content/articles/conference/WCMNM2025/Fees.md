@@ -24,9 +24,9 @@ Students accompanied by another participant: £430
 Non-members: £700
 
 
-The conference fees include printed proceedings, lunches, refreshments, social events and conference dinner.
+The conference fees include online proceedings, lunches, refreshments, social events and conference dinner.
 
-<strong> One Day Conference</strong> (includes printed proceedings, lunch, refreshments, gala dinner): £320
+<strong> One Day Conference</strong> (includes online proceedings, lunch, refreshments, gala dinner): £320
 
 Valletta Tour & Gala Dinner for accompanying people: £55
 
