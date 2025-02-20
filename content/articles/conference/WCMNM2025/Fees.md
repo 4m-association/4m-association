@@ -7,7 +7,7 @@ date: 2025-02-12
 
 <hr />
 
-<strong>Early Bird (before 1st of August 2025)</strong>
+<strong>Early Bird (before 15th of July 2025)</strong>
 
 4M, I2M2 and IFMM members: £570
 
@@ -15,7 +15,7 @@ Students accompanied by another participant: £375
 
 Non-members: £625
 
-<strong>After 1st of August 2025</strong>
+<strong>After 15th of July 2025</strong>
 
 4M, I2M2 and IFMM members: £625
 
