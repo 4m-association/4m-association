@@ -1,33 +1,40 @@
-title: Invited Speakers 2022
-date: 2022-01-05
+title: Keynote Speakers 2025
+date: 2025-02-28
 
-### Invited Speakers
+<h1> Keynote Speakers </h1>
 
-<img src="/images/Jian Cao.jpg" width="172" height="163">
-<div>
-<h3><a href="/files/jian cao.pdf"><strong>Jian Cao</h3></strong></a>
-<div>
-  <div>Professor</div>
-  <div>Northwestern University (USA)</div>
-<div>McCormick School of Engineering and Applied Science</div>
-
+<div><h3>Professor Arif Rochman</strong></h3></div>
+<img src="/images/ArifRochman.jpg" width="172" height="163">
+<div>University of Malta (Malta)</div>
+<div>Department of Industrial & Manufacturing Engineering, Faculty of Engineering</div>
+<a href=https://www.um.edu.mt/profile/arifrochman><strong>Further Information</strong></a>
+<br>
+<br>
+<div> Research Interests: <div>
+<ul>
+	<li>Polymer Design</li>
+	<li>Polymer Processing</li>
+	<li>Polymer Testing</li>
+	<li>Tool/Mould Design and Manufacture</li>
+	<li>Additive Manufacturing for Rapid Prototyping, Tooling and Manufacturing (RPTM)</li>
+</ul>
   <hr />
 
-<img src="/images/Takashi Matsumura.jpg" width="172" height="163">
-<div>
-<h3><a href="/files/Keynote IFMM Prof Matsumara Micro Machining of Brittle Materials.pdf"><strong>Takashi Matsumura</strong></h3></a>
- <div>
-    <div>Professor</div>
-    <div>Tokyo Denki University (Japan)</div>
-    <div>Department of Mechanical Engineering</div>
-    
-  <hr />
-
-   <img src="/images/Ingrid De Wolf.jpg" width="172" height="163">
-<div>
-<h3><a href="/files/De Wolf.pdf"><strong>Ingrid De Wolf</strong></h3></a>
- <div>
-    <div>Professor</div>
-    <div>Imec and Dept. Materials Engineering, KU Leuven, Leuven (Belgium)</div>
-  
+<div><h3>Professor Kira Barton</strong></h3></div>
+<img src="/images/KiraBarton.jpg" width="172" height="163">
+<div>University of Michingan (USA)</div>
+<div>Robotics Department, Mechanical Engineering Department</div>
+<a href=https://me.engin.umich.edu/people/faculty/kira-barton/><strong>Further Information</strong></a>
+<br>
+<br>
+<div> Research Interests: <div>
+<ul>
+	<li>Control theory and applications</li>
+	<li>iterative learning control</li>
+	<li>multi-agent systems</li>
+	<li>human/robot collaborations</li>
+	<li>smart manufacturing</li>
+	<li>manufacturing robotics</li>
+	<li>high-performance micro/nano-scale printing for electrical and biomedical applications</li>
+</ul>
   <hr />
