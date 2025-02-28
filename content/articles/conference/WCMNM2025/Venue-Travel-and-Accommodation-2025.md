@@ -1,85 +1,122 @@
-title: Venue, Travel and Accommodation 2022
-date: 2022-01-05
+title: Venue, Travel and Accommodation 2025
+date: 2025-02-28
 
-  <h2>Venue</h2>
+  <h2>About The Conference Venue</h2>
  
 
-<strong>Address:</strong>  
+<strong>University of Malta - Valletta Campus </strong>  
 
-<div>Onderwijs en Navorsing (O&N)</div> 
-<div>Herestraat 49, Leuven</div>
-&nbsp;
-<div><strong>How to reach the venue</strong></div>
+<div>The University of Malta - Valletta Campus is located at the heart of the capital city. Formerly the seat of the very first university in Malta, nowadays it serves as a centre for conferences and events.</div> 
+<br>
+<h3> Travel Information </h3>
+<div><strong>Travelling around Malta</strong></div>
+<ul>
+	<li>To get from Malta International Airport or your Hotel/ Guest house to Valletta one may use Taxis (ecabs, Bolt, Uber and Malta Taxi). There is a taxi stand at the airport which operates 24/7 and has fixed rates depending on the destination;</li>
+	<li>Public transport by bus is also available from the airport and all towns/ localities;</li>
+	<li>A ferry service connects Valletta to Sliema and the Three Cities.</li>
+</ul>
 
-Through public transport: The campus is located 4 km from the Leuven train station. Buses leave from the train station to the campus every 10 minutes. Bus #3 (direction "Gasthuisberg Campus") stops right next to the building ‘Onderwijs en Navorsing 2 (O&N2)’. Make sure to remain seated until you reach the very last stop called ‘Leuven Gasthuisberg Campus’. 
-&nbsp;
-<div><strong>Travel Information</strong></div>
-<strong>By plane</strong> 
-Brussels International Airport is located 25 km west of Leuven. A direct rail connection links Leuven and the airport and takes only 15 minutes. A one-way ticket costs about €10.00. 
-Brussels South Charleroi Airport is located about 70 km south of Leuven. The airport shuttle bus linking the Charleroi Airport and Brussel South (Bruxelles Midi in French, Brussel Zuid in Flemish) railway station takes approximately one hour. A one-way ticket costs about €17.00. 
-<div><strong>By car</strong></div>
-Leuven can be reached via the Brussels Ring and the E40 and E314 motorways. 
-<div><strong>By train</strong></div>
-From Leuven, it takes half an hour to reach Brussels South (Bruxelles Midi, Brussel Zuid) railway station. From there, you can catch high-speed rail connections to Paris, London, Amsterdam, and many other European destinations. 
-The Leuven railway station is directly connected to the city centre via the Bondgenotenlaan (Allies Avenue), one of Leuven’s main streets. The walk from the station to the city centre is approximately 10 minutes. 
-
-
+<div><strong>Transportation to Valletta from Around the World</strong></div>
+Malta International Airport (MIA) (Locality: Luqa) is connected to major airports (all major European Airports, Istanbul Airport, Dubai Airport etc) via various airlines. Key airlines include : KM Malta and Malta Air (a subsidiary of RyanAir), Wizz Air, British Airways, Turkish Airlines, Lufthansa, Emirates, SWISS, EasyJet, Luxair, and more;
  
-  <h2>Hotels</h2>
-    
-<div><strong>Park Inn by Radisson Leuven</strong></div>
-<div>3,7 km from the venue 
-<div>1 minute walk (300m) from railway and bus station 
-  <div><a href="https://www.radissonhotels.com/en-us/hotels/park-inn-leuven">www.parkinn.com/hotel-leuven</a></div>
-<div>Tel: +32 16 616600 - Fax: +32 16 616700 
-</div> 
-&nbsp;
+  <h2>Suggested hotels close to the conference venue</h2>
+
+*The provided rates are offered by the UoM Conference Unit, however other providers may provide cheaper options.*
+
+
+<div><strong>Luciano Valletta Boutique Accommodation </strong></div>
+<div>Merchants Street, Valletta 
+<div>Email : info@vallettaboutique.com
+<div> Room options: </div>
+<ul>
+	<li> Duplex room with St John's Cathedral view @ 200E per night on bed & breakfast basis </li>
+	<li> Double room with street view @ 160E per night on bed & breakfast basis  </li>
+	<li> Double indoor room @ 140E per night on bed & breakfast basis  </li>
+</ul>
   
-<div><strong>Hotel Binnenhof</strong></div>
-  <div>3,3 km from the venue</div>
-  <div>5 minutes walk from Leuven railway and bus station </div>
-  <div><a href="https://www.hotelbinnenhof.be/">www.hotelbinnenhof.be</a></div> 
-  <div>Tel: +32 16 205592 - Fax: +32 16 236926 </div>
-&nbsp;
+<div><strong>Luciano Al Porto Boutique Accommodation</strong></div>
+  <div>St Ursula Street, Valletta</div>
+  <div>Email : info@vallettaboutique.com</div>
+<ul>
+	<li> Double room with street view @ 180E per night on bed & breakfast basis </li>
+	<li> Double room with Grand Harbaour view @ 200E per night on bed & breakfast basis   </li>
+</ul>
   
-  <div><strong>Pentahotel Leuven </strong></div>
-<div>2,5 km from the venue</div> 
+  <div><strong>Osborne Hotel - 3*</strong></div>
+<div>50 South Street, Valletta</div> 
 <div>20 minutes by bus </div> 
-<div>35 minutes walk from the venue </div>
-  <div><a href="https://www.pentahotels.com/">www.pentahotels.com</a></div>
-  <div>Tel: +32 16 317600 - Fax: +32 16 317601</div> 
-&nbsp; 
-  <div><strong>Ibis Hotel Leuven Centrum</strong></div>
-    <div>2 km from the venue </div>
-    <div>15 minutes by bus</div>
-    <div>30 minutes walk from the venue</div> 
-  <div><a href="https://all.accor.com/hotel/1457/index.en.shtml?dateIn=2022-07-12&nights=1&compositions=2&stayplus=false&snu=false#origin=accor">ibis hotel Leuven</a></div>
-    <div>Tel: +32 16 293111 - Fax: +32 16 238792</div>
-&nbsp; 
-  <div><strong>Ibis Budget Hotel</strong></div>
-    <div>3,7 km from the venue</div>
-    <div>1 minute walk from railway and bus station</div> 
-  <div><a href="http://ibis-budget-centrum.hotelsinleuven.com/en/">http://ibis-budget-centrum.hotelsinleuven.com/en/</a></div>
-    <div>Tel: +32 16 479880 - Fax: +32 16 479881 </div>
-&nbsp; 
-    <div><strong>Gasthof De Pastorij </strong></div>
-    <div>2,3 km from the venue </div>
-    <div>10 minutes by bus </div>
-    <div>30 minutes walk from the venue </div>
-  <div><a href="https://www.depastorij.com/">www.depastorij.com</a></div>
-    <div>Tel: +32 16 822109 - Fax: +32 16 208856 </div>
-&nbsp;
+<div>Email : reservations@osbornehotel.com</div>
+<ul>
+	<li> Standard room for sole use @ 150E per night on bed & breakfast basis </li>
+	<li> Standard room for double use @ 170E per night on bed & breakfast basis </li>
+</ul>
 
-   <div><strong>Hotel La Royale</strong></div>  
-   <div>4,5 km from the venue </div>
-   <div>2 minutes walk from railway and bus station</div> 
-  <div><a href="https://lodge-hotels.be/nl/hotels/b/la-royale-leuven">https://lodge-hotels.be/nl/hotels/b/la-royale-leuven</a></div>
-   <div>Tel: +32 16 221252 - Fax: +32 16 295252</div> 
-&nbsp;   
-  
-<div><strong>Please book your accommodation in time, as Leuven can be very busy in September and hotel availability is limited.</strong></div> 
-<div>You can plan the bus rides via: <a href="https://www.delijn.be/en/routeplanner/">https://www.delijn.be/en/routeplanner/</a></div>
-&nbsp;
+  <div><strong>The Saint John Boutique Hotel - 4*</strong></div>
+    <div>Merchants Street, Valletta </div>
+    <div>Emails : gabriel.cortis@axhotelsmalta.com; syvlain.azzopardi@axhotelsmalta.com</div>
+<ul>
+	<li> Comfort room @ 225E per night on bed & breakfast basis </li>
+</ul>
+
+  <div><strong>Grand Hotel Excelsior - 5*</strong></div>
+    <div>Great Siege Road, Floriana</div>
+    <div>Emails : nerissa.camilleri@excelsior.com.mt; nicol.ferrara@excelsior.com.mt</div> 
+<ul>
+	<li> Deluxe room for sole use @ 205E per night on bed & breakfast basis </li>
+	<li> Deluxe room for double use @ 225E per night on bed & breakfast basis </li>
+</ul>
+
+	<h2>Suggested hotels further from the Valleta Campus</h2>
+
+<div><strong>The Londoner Hotel - 3*</strong></div>
+    <div>The Strand, Sliema</div>
+    <div>Emails : nerissa.camilleri@excelsior.com.mt; nicol.ferrara@excelsior.com.mt</div> 
+<br>
+<div><strong>Hotel Verdi - 4*</strong></div>
+    <div>113 The Strand, Gzira</div>
+    <div>Email : maria.camilleri@corinthia.com</div> 
+<br>
+<div><strong>Marina Hotel at the Corinthia Beach Resort - 4*</strong></div>
+    <div>St George's Bay, St Julians</div>
+    <div>Email : maria.camilleri@corinthia.com</div>
+<br>	
+<div><strong>Waterfront Hotel - 4*</strong></div>
+    <div>Triq ix-Xatt, Sliema</div>
+    <div>Emails : cnaudi@water.mizzi.com.mt; erika.micallef@water.mizzi.com.mt</div> 
+<br>	
+<div><strong>IKYK Hotel - 4*</strong></div>
+    <div>Wilga Street, St Julians</div>
+    <div>Email : reservations@ikcollection.com</div> 
+<br>	
+<div><strong>Holm Boutique Hotel - 4*</strong></div>
+    <div>Sqaq Fabri Lane, St Julians</div>
+    <div>Email : reservations@ikcollection.com</div> 
+<br>	
+<div><strong>Urban Valley Resort - 4*</strong></div>
+    <div>Triq Wied Ghollieqa, San Gwann</div>
+    <div>Emails : corporatesales@urbanvalleyresort.com; brian.calleja@urbanvalleyresort.com</div> 
+<br>	
+<div><strong>The Victoria Hotel - 4*</strong></div>
+    <div>Gorg Borg Olivier Street, Sliema</div>
+    <div>Emails : gabriel.cortis@axhotelsmalta.com; sylvain.azzopardi@axhotelsmalta.com</div> 
+<br>	
+<div><strong>Corinthia Hotel - 5*</strong></div>
+    <div>St George's Bay, St Julians</div>
+    <div>Email : maria.camilleri@corinthia.com</div> 
+<br>    
+<div><strong>Radisson Blu Resort - 5*</strong></div>
+    <div>St George's Bay, St Julians</div>
+    <div>Email : maria.camilleri@corinthia.com</div> 
+<br>
+<div><strong>Malta Marriott Hotel - 5* </strong></div>
+    <div>Main Street, St Julians</div>
+    <div>Email : Mariella.BorgBondin@maltamarriott.com</div> 
+<br>	
+<div><strong>The Palace Hotel - 5*</strong></div>
+    <div>High Street, Sliema</div>
+    <div>Emails : gabriel.cortis@axhotelsmalta.com; sylvain.azzopardi@axhotelsmalta.com</div> 
+<br>	
+<div><strong>Please book your accommodation in time, as Malta can be very busy in September and hotel availability is limited.</strong></div>
   
 
  
