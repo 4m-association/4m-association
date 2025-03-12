@@ -38,3 +38,21 @@ date: 2025-02-28
 	<li>high-performance micro/nano-scale printing for electrical and biomedical applications</li>
 </ul>
   <hr />
+
+<div><h3>Professor Sathyan Subbiah</strong></h3></div>
+<img src="/images/Sathyansubbiah.jpg" width="172" height="163">
+<div>Indian Institute of Technology Madras(India)</div>
+<div>Mechanical Engineering Department</div>
+<a href=https://mech.iitm.ac.in/profile.php?fname=sathyans><strong>Further Information</strong></a>
+<br>
+<br>
+<div> Research Interests: <div>
+<ul>
+	<li>Modelling and Simulation in Manufacturing</li>
+	<li>Automation in Manufacturing</li>
+	<li>Space manufacturing</li>
+	<li>human/robot collaborations</li>
+	<li>diamond coatings/membranes</li>
+	<li>novel manufacturing processes</li>
+</ul>
+  <hr />
