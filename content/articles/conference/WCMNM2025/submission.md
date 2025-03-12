@@ -12,7 +12,7 @@ Only the title and short abstracts will be indexed and the copyright remains wit
 <strong>The Copyright form (Licence agreement) </strong> can be downloaded here <a href="/files/License Agreement-2025.pdf">Copyright form</a>.
 
   
- Please send the signed form to <a href="mailto:axt916@student.bham.ac.uk">the 4M Association Officer </a> before <strong> 30th June 2022</Strong>
+ Please send the signed form to <a href="mailto:axt916@student.bham.ac.uk">the 4M Association Officer </a> before <strong> 30th June 2025</Strong>
  
  
  
