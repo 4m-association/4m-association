@@ -1,5 +1,5 @@
 title: WCMNM2025
-date: 2025-02-14
+date: 2026-02-14
 tags: conference, home
 
 ## 9th World Congress on Micro and Nano Manufacturing
