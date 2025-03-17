@@ -54,7 +54,7 @@ Registration opens <strong>To be Announced</strong>
 
 We invite you to submit 4-page papers using the template provided on the conference website <a href="/files/WCMNM2025 paper template.docx">Paper Template</a>. 
 
-Link for the Official Call for Papers: <a href="/files/WCMNM2025 Call for Papers.pdf">First Call for Papers</a>.
+Link for the Official Call for Papers: <a href="/files/WCMNM2025_2nd_Call_for_Papers.pdf">Second Call for Papers</a>.
 
 
 ##  Congress Theme	
