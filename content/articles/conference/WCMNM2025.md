@@ -76,4 +76,4 @@ Link for the Official Call for Papers: <a href="/files/WCMNM2025_2nd_Call_for_Pa
 
 </ul>
 	 
-Contact for any additional enquiries: <strong><a href="mailto:AXT916@student.bham.ac.uk">4M Administrator</a></strong>
+Contact for any additional enquiries: <strong><a href="mailto:WCMNM2025@contacts.bham.ac.uk">4M Administrator</a></strong>
