@@ -13,7 +13,7 @@ In order for a paper to be included in the conference programme and appear in th
 
 Malta is part of the Schengen Area and thus please get in contact with your local Embassy of Malta if you require a Schengen VISA to enter the country for more information on the application process.
 
-In case you need an invitation letter to obtain visa, please send your request to the <strong><a href="mailto:AXT916@student.bham.ac.uk">4M Administrator</a></strong>
+In case you need an invitation letter to obtain visa, please send your request to the <strong><a href="mailto:WCMNM2025@contacts.bham.ac.uk">4M Administrator</a></strong>
 
 
 
