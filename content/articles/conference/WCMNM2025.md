@@ -1,4 +1,4 @@
-rtitle: WCMNM2025
+title: WCMNM2025
 date: 2025-02-14
 tags: conference, home
 
