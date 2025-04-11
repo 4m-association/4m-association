@@ -19,7 +19,7 @@ Only the title and short abstracts will be indexed and the copyright remains wit
  <h2> Paper template</h2>
   
 
-4-page papers can be submitted under this link    [https://conf.papercept.net/conferences/scripts/start.pl](https://conf.papercept.net/conferences/scripts/start.pl) until the <strong>11 April 2025</strong>
+4-page papers can be submitted under this link    [https://conf.papercept.net/conferences/scripts/start.pl](https://conf.papercept.net/conferences/scripts/start.pl) until the <strong>17 April 2025</strong>
 
 Please use the official Paper template.
 
