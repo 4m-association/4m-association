@@ -44,7 +44,7 @@ Bruno Azeredo,  Arizona State University, USA
 
 The main congress programme takes place from the <strong>15th to 18th of September 2025</strong>
 
-Submission deadline for full papers: <strong> 17th April</strong>
+Submission deadline for full papers: <strong> 27th April</strong>
 
 Full paper acceptance : <strong>27th June</strong>
 
