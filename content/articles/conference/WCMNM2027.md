@@ -12,7 +12,7 @@ tags: conference, home
 
 Jointly organised by the International Institution for Micro Manufacturing (I2M2), the 4M Association and the International Forum on Micro Manufacturing (IFMM),  the Congress hopes to bring together the worldwide community of micro- \& nano-manufacturing experts.
 
-<img src="/images/Malta\_main.jpg" width="100%">
+<img src="/images/WCMNM2027Cover.jpg" width="100%">
 
 
 
