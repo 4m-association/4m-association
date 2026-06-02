@@ -42,28 +42,6 @@ Tohru Sasaki, University of Toyama, Japan
 
 Numpon Mahayotsanun,  King Mongkut's University of Technology Bangkok, Thailand
 
-
-
-## Important Dates
-
-
-
-The main congress programme takes place from the <strong>15th to 18th of September 2025</strong>
-
-Submission deadline for full papers: <strong> 27th April</strong>
-
-Full paper acceptance : <strong>27th June</strong>
-
-<strong>Registration is open</strong>
-
-## Call for papers
-
-We invite you to submit 4-page papers using the template provided on the conference website <a href="/files/WCMNM2025 paper template.docx">Paper Template</a>.
-
-Link for the Official Call for Papers: <a href="https://na.eventscloud.com/website/93824/submissions/">Second Call for Papers</a>.
-
-
-
 ## Congress Theme
 
 <ul>
@@ -82,6 +60,4 @@ Link for the Official Call for Papers: <a href="https://na.eventscloud.com/websi
 	<li>Biomanufacturing and biomedical devices</li>
 
 </ul>
-
-Contact for any additional enquiries: <strong><a href="mailto:WCMNM2025@contacts.bham.ac.uk">4M Administrator</a></strong>
 
