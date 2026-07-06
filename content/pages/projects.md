@@ -1,7 +1,12 @@
-title: COTECH
+title: Projects
 date: 2010-01-12
 tags: projects
 slug: projects
+
+![microman4health logo](content/images/MicroMan4Health logo.png) 
+<strong>MicroMan4Health</strong> is a Horizon Europe MSCA Doctoral Network developing data-centric micromanufacturing technologies for next-generation healthcare and MedTech applications. <a href="https://www.microman4health.eu/" target="_blank" rel="noopener">Read more</a>
+
+
 
 ![cotech logo](/images/cotech-logo.png)
 
