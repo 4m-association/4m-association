@@ -11,7 +11,9 @@ Each doctoral candidate will receive comprehensive scientific training through t
 Vacancies will be published on a rolling basis between participating organisations. Interested candidates are encouraged to regularly visit the project website for the latest opportunities and application deadlines.
 
 Project website: <a href="https://www.microman4health.eu/">MicroMan4Health website</a>
+
 Vacancies: <a href="https://www.microman4health.eu/vacancies">https://www.microman4health.eu/vacancies</a>
+
 EURAXESS vacancies: <a href="https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ajob_offer&amp;f%5B1%5D=keywords%3AMicroMan4Health">https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ajob_offer&f%5B1%5D=keywords%3AMicroMan4Health</a>
 
 title: February 2016 
