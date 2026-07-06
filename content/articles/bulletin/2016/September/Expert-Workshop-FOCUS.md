@@ -12,7 +12,7 @@ Vacancies will be published on a rolling basis between participating organisatio
 
 Project website: <a href="https://www.microman4health.eu/">MicroMan4Health website</a>
 
-Vacancies: <a href="https://www.microman4health.eu/vacancies">https://www.microman4health.eu/vacancies</a>
+Vacancies: <a href="https://www.microman4health.eu/?page_id=74">https://www.microman4health.eu/?page_id=74</a>
 
 EURAXESS vacancies: <a href="https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ajob_offer&amp;f%5B1%5D=keywords%3AMicroMan4Health">https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ajob_offer&f%5B1%5D=keywords%3AMicroMan4Health</a>
 
